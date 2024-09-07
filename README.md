@@ -1,13 +1,7 @@
-This is the Template for Translating Noble Fates into another Language. New strings will be added here when the game receives updates.
-
-# Official Translations
-The Official Translations are Forks from this repository. They'll be Synced when new strings are added.
+This is the Official Russian Translation of Noble Fates. New strings will be added here when the game receives updates.
 
 # Contributing to an Official Translation
-Fork the translation's repository and create Pull Requests with your changes. Key Contributors have the opportunity to earn the ability to Moderate the Fork for that language.
-
-# Creating a new Translation
-Fork this repository. Sync when new strings are added to add them to your translation. Unofficial Translations have the opportunity to become Official with sufficient completeness - reach out if you think yours qualifies.
+Fork this repository and create Pull Requests with your changes. Key Contributors have the opportunity to earn the ability to Moderate the Fork for that language.
 
 # Testing a Translation
 You can Test changes to a translation by adding it as a local mod.
@@ -19,7 +13,7 @@ Drop the game.loc file into that folder.
 Add a Localization.octdat file with the following contents to replace an existing translation:
 ```
 {
-    id Oct.Localization.Languages.<language name here>
+    id Oct.Localization.Languages.Russian
     type LocalizationLanguage
     appendonly
     
@@ -31,32 +25,7 @@ Add a Localization.octdat file with the following contents to replace an existin
 }
 ```
 
-Or this, if it's a new one:
-```
-{
-    id Oct.Localization.Manager
-    type LocalizationManager
-    appendonly
-    
-    localizedLanguages = 
-    [
-        <language name here>
-    ]
-}
-{
-    id Oct.Localization.Languages.<language name here>
-    type LocalizationLanguage
-    
-    name = <language name here>
-    
-    files = 
-    [
-        \game.loc
-    ]
-}
-```
-
-When you run the game, the language should show up in the Language menu and your translations should take effect when you switch to that language.
+When you run the game, your translations should take effect when you switch to Русский.
 
 Additional Notes on Creating a Mod are here: https://noblefates.userecho.com/knowledge-bases/2/articles/746-modding-noble-fates
 
@@ -120,5 +89,3 @@ These functions allow the substitution of Masculine, Feminine, or Neutral varian
 
 # Closing
 As always, feel free to reach out with issues. We're happy to help!
-
-
