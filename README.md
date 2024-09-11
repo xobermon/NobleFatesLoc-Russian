@@ -1,7 +1,13 @@
 This is the Official Russian Translation of Noble Fates. New strings will be added here when the game receives updates.
 
 # Contributing to an Official Translation
-Fork this repository and create Pull Requests with your changes. Key Contributors have the opportunity to earn the ability to Moderate the Fork for that language.
+Fork the translation's repository.
+
+Sync when new strings are added to add them to your translation (recommend using Branch -> Update from upstream/main in Github windows client). 
+
+Create Pull Requests with your changes. 
+
+Key Contributors have the opportunity to earn the ability to Moderate the Fork for that language.
 
 # Testing a Translation
 You can Test changes to a translation by adding it as a local mod.
