@@ -4,10 +4,20 @@ This is the Template for Translating Noble Fates into another Language. New stri
 The Official Translations are Forks from this repository. They'll be Synced when new strings are added.
 
 # Contributing to an Official Translation
-Fork the translation's repository and create Pull Requests with your changes. Key Contributors have the opportunity to earn the ability to Moderate the Fork for that language.
+Fork the translation's repository.
+
+Sync when new strings are added to add them to your translation (recommend using Branch -> Update from upstream/main in Github windows client). 
+
+Create Pull Requests with your changes. 
+
+Key Contributors have the opportunity to earn the ability to Moderate the Fork for that language.
 
 # Creating a new Translation
-Fork this repository. Sync when new strings are added to add them to your translation. Unofficial Translations have the opportunity to become Official with sufficient completeness - reach out if you think yours qualifies.
+Fork this repository. 
+
+Sync when new strings are added to add them to your translation (recommend using Branch -> Update from upstream/main in Github windows client). 
+
+Unofficial Translations have the opportunity to become Official with sufficient completeness - reach out if you think yours qualifies.
 
 # Testing a Translation
 You can Test changes to a translation by adding it as a local mod.
