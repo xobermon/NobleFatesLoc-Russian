@@ -14265,6 +14265,13 @@ Oct.Code.Common.Maintain=\\untranslated
 
 \\\\
 \\
+\\	Oct.Code.Common.Mortal=Mortal
+\\
+\\\\
+Oct.Code.Common.Mortal=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Common.Mortals=Mortals
 \\
 \\\\
@@ -23062,6 +23069,20 @@ Oct.Code.Schedule.Header=\\untranslated
 \\
 \\\\
 Oct.Code.Selection.Multiselect.Header=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Selection.Cycle.Target=[R Click] Target
+\\
+\\\\
+Oct.Code.Selection.Cycle.Target=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Selection.Cycle.Selection=[L Click] Select
+\\
+\\\\
+Oct.Code.Selection.Cycle.Selection=\\untranslated
 
 \\\\
 \\
@@ -60498,13 +60519,6 @@ Oct.Settings.Global.Graphics.MaxFramerate.choices.3=\\untranslated
 
 \\\\
 \\
-\\	Oct.Settings.Global.Graphics.UIScale.name=UI Scale
-\\
-\\\\
-Oct.Settings.Global.Graphics.UIScale.name=\\untranslated
-
-\\\\
-\\
 \\	Oct.Settings.Global.Graphics.ShadowQuality.name=Shadow Quality
 \\
 \\\\
@@ -60572,13 +60586,6 @@ Oct.Settings.Global.Graphics.FilmGrain.name=\\untranslated
 \\
 \\\\
 Oct.Settings.Global.Graphics.VolumetricClouds.name=\\untranslated
-
-\\\\
-\\
-\\	Oct.Settings.Global.Graphics.PortraitCount.name=Portrait Count
-\\
-\\\\
-Oct.Settings.Global.Graphics.PortraitCount.name=\\untranslated
 
 \\\\
 \\
@@ -60659,6 +60666,27 @@ Oct.Settings.Global.Interface.name=\\untranslated
 
 \\\\
 \\
+\\	Oct.Settings.Global.Graphics.UIScale.name=UI Scale
+\\
+\\\\
+Oct.Settings.Global.Graphics.UIScale.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Global.Graphics.PortraitCount.name=Portrait Count
+\\
+\\\\
+Oct.Settings.Global.Graphics.PortraitCount.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Global.Graphics.PortraitCount.tooltip=The Number of Portraits at the top of the Screen.
+\\
+\\\\
+Oct.Settings.Global.Graphics.PortraitCount.tooltip=\\untranslated
+
+\\\\
+\\
 \\	Oct.Settings.Global.Interface.Temperature.name=Temperature
 \\
 \\\\
@@ -60687,6 +60715,13 @@ Oct.Settings.Global.Interface.CloseTradeWindow.name=\\untranslated
 
 \\\\
 \\
+\\	Oct.Settings.Global.Interface.CloseTradeWindow.tooltip=When enabled, the Trade Window is Closed after you make a deal.
+\\
+\\\\
+Oct.Settings.Global.Interface.CloseTradeWindow.tooltip=\\untranslated
+
+\\\\
+\\
 \\	Oct.Settings.Global.Interface.BelongingsPortraitResort.name=Belongings Portrait Resort
 \\
 \\\\
@@ -60694,24 +60729,52 @@ Oct.Settings.Global.Interface.BelongingsPortraitResort.name=\\untranslated
 
 \\\\
 \\
+\\	Oct.Settings.Global.Interface.BelongingsPortraitResort.tooltip=When enabled, Portraits can Re-sort from Prestige changes while you are on the Belongings Screen.
+\\
+\\\\
+Oct.Settings.Global.Interface.BelongingsPortraitResort.tooltip=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Global.Interface.UntuckTools.name=Untuck Tools When
+\\
+\\\\
+Oct.Settings.Global.Interface.UntuckTools.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Global.Interface.UntuckTools.choices.1=Any Hovered
+\\
+\\\\
+Oct.Settings.Global.Interface.UntuckTools.choices.1=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Global.Interface.UntuckTools.choices.2=When Hovered
+\\
+\\\\
+Oct.Settings.Global.Interface.UntuckTools.choices.2=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Global.Interface.UntuckTools.choices.3=Always
+\\
+\\\\
+Oct.Settings.Global.Interface.UntuckTools.choices.3=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Global.Interface.UntuckTools.tooltip=Controls when the Tabs on the Toolbar are untucked.
+\\
+\\\\
+Oct.Settings.Global.Interface.UntuckTools.tooltip=\\untranslated
+
+\\\\
+\\
 \\	Oct.Settings.Global.Controls.name=Controls
 \\
 \\\\
 Oct.Settings.Global.Controls.name=\\untranslated
-
-\\\\
-\\
-\\	Oct.Settings.Global.Controls.Gated.name=NOTE
-\\
-\\\\
-Oct.Settings.Global.Controls.Gated.name=\\untranslated
-
-\\\\
-\\
-\\	Oct.Settings.Global.Controls.Gated.2.name=Some Controls unlock during Guided Experience
-\\
-\\\\
-Oct.Settings.Global.Controls.Gated.2.name=\\untranslated
 
 \\\\
 \\
