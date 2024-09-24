@@ -12531,7 +12531,7 @@ Oct.Code.Command.Blocked=Заблокировано
 \\	Oct.Code.Command.Feed.Blocked.NoFoodAvailable=No Allowed Food Available
 \\
 \\\\
-Oct.Code.Command.Feed.Blocked.NoFoodAvailable=\\untranslated
+Oct.Code.Command.Feed.Blocked.NoFoodAvailable=Нет разрешенных продуктов питания\\autotranslated
 
 \\\\
 \\
@@ -22605,21 +22605,21 @@ Oct.Code.Report.Header=Отчет об ошибке
 \\	Oct.Code.Report.Summary=Summary
 \\
 \\\\
-Oct.Code.Report.Summary=\\untranslated
+Oct.Code.Report.Summary=Сводка\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Report.Contact=Contact Info
 \\
 \\\\
-Oct.Code.Report.Contact=\\untranslated
+Oct.Code.Report.Contact=Контактная информация\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Report.Contact.Tooltip=How do we get in touch?\n\nEmail, Discord, Steam ID work - please specify the type if it isn't clear.\n\nAutomatically saved for your convenience.
 \\
 \\\\
-Oct.Code.Report.Contact.Tooltip=\\untranslated
+Oct.Code.Report.Contact.Tooltip=Как нам связаться?\n\nЭлектронная почта, Discord, Steam ID работают — укажите тип, если он неясен.\n\nСохраняется автоматически для вашего удобства.\\autotranslated
 
 \\\\
 \\
