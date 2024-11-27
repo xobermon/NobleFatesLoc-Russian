@@ -6221,6 +6221,13 @@ Oct.Characters.Humanoids.NuOrc.Brows04.name=Муж. 4
 
 \\\\
 \\
+\\	Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=Male None
+\\
+\\\\
+Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Characters.Humanoids.NuOrc.Eye01.name=Male 1
 \\
 \\\\
@@ -6372,6 +6379,13 @@ Oct.Characters.Humanoids.NuOrc.Mouth-Fem02.name=Жен. 2
 \\
 \\\\
 Oct.Characters.Humanoids.NuOrc.Mouth-Fem03.name=Жен. 3
+
+\\\\
+\\
+\\	Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=Female None
+\\
+\\\\
+Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=\\untranslated
 
 \\\\
 \\
@@ -7502,6 +7516,34 @@ Oct.Code.Abilities.ChooseTarget=Выбери цель умения «{ability}»
 
 \\\\
 \\
+\\	Oct.Code.Adventure.Abandon.Header=Abandon?
+\\
+\\\\
+Oct.Code.Adventure.Abandon.Header=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Adventure.Abandon.Details=Abandon your party?
+\\
+\\\\
+Oct.Code.Adventure.Abandon.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Adventure.Retreat.Header=Retreat?
+\\
+\\\\
+Oct.Code.Adventure.Retreat.Header=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Adventure.Reatreat.Details=Abandon the helpless and head home?
+\\
+\\\\
+Oct.Code.Adventure.Reatreat.Details=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Adventure.Captions.Request=Request
 \\
 \\\\
@@ -7569,34 +7611,6 @@ Oct.Code.Adventure.Captions.Failed=Провалено
 \\
 \\\\
 Oct.Code.Adventure.Captions.Rewards=Награды!
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Abandon.Header=Abandon?
-\\
-\\\\
-Oct.Code.Adventure.Abandon.Header=Бросить?
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Abandon.Details=Abandon your party?
-\\
-\\\\
-Oct.Code.Adventure.Abandon.Details=Бросить отряд?
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Retreat.Header=Retreat?
-\\
-\\\\
-Oct.Code.Adventure.Retreat.Header=Отступить?
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Reatreat.Details=Abandon the helpless and head home?
-\\
-\\\\
-Oct.Code.Adventure.Reatreat.Details=Бросить беспомощных и вернуться домой?
 
 \\\\
 \\
@@ -8531,20 +8545,6 @@ Oct.Code.Character.Age.Adult.Old=Пожилой
 
 \\\\
 \\
-\\	Oct.Code.Characters.SelectAll=Select All
-\\
-\\\\
-Oct.Code.Characters.SelectAll=Выбрать все
-
-\\\\
-\\
-\\	Oct.Code.Characters.Leave=Leave
-\\
-\\\\
-Oct.Code.Characters.Leave=Выйти
-
-\\\\
-\\
 \\	Oct.Code.Characters.HealRate.Treated=Treated
 \\
 \\\\
@@ -9294,6 +9294,20 @@ Oct.Code.Characters.StatModifiers.Inspired=Вдохновение
 
 \\\\
 \\
+\\	Oct.Code.Characters.SelectAll=Select All
+\\
+\\\\
+Oct.Code.Characters.SelectAll=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Characters.Leave=Leave
+\\
+\\\\
+Oct.Code.Characters.Leave=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Characters.Mission.Abandon=Abandon
 \\
 \\\\
@@ -9340,6 +9354,13 @@ Oct.Code.Characters.Properties.Growth=Рост ({items})
 \\
 \\\\
 Oct.Code.Characters.Commands.Collect=Собрать: {items}
+
+\\\\
+\\
+\\	Oct.Code.Characters.Status.GettingHelp=Getting Help
+\\
+\\\\
+Oct.Code.Characters.Status.GettingHelp=\\untranslated
 
 \\\\
 \\
@@ -12077,13 +12098,6 @@ Oct.Code.Characters.FoodBudget=Бюджет на еду
 \\
 \\\\
 Oct.Code.Characters.Trade=Торговать
-
-\\\\
-\\
-\\	Oct.Code.Characters.Status.GettingHelp=Getting Help
-\\
-\\\\
-Oct.Code.Characters.Status.GettingHelp=Получает помощь
 
 \\\\
 \\
@@ -15528,13 +15542,6 @@ Oct.Code.FixedValueCharacterWant.Text={character} хочет подарок: {ty
 
 \\\\
 \\
-\\	Oct.Code.Foliage.Canopy=Canopy
-\\
-\\\\
-Oct.Code.Foliage.Canopy=Крона
-
-\\\\
-\\
 \\	Oct.Code.Foliage.Age=Age
 \\
 \\\\
@@ -15560,6 +15567,13 @@ Oct.Code.Foliage.Water=Вода
 \\
 \\\\
 Oct.Code.Foliage.Burned=Ожоги
+
+\\\\
+\\
+\\	Oct.Code.Foliage.Canopy=Canopy
+\\
+\\\\
+Oct.Code.Foliage.Canopy=\\untranslated
 
 \\\\
 \\
@@ -23953,10 +23967,31 @@ Oct.Code.Tools.Stockpiles=Склады
 
 \\\\
 \\
-\\	Oct.Code.Tools.Beliefs=Beliefs
+\\	Oct.Code.Tools.Belongings=Belongings
 \\
 \\\\
-Oct.Code.Tools.Beliefs=Взгляды
+Oct.Code.Tools.Belongings=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Tools.Schedule=Schedule
+\\
+\\\\
+Oct.Code.Tools.Schedule=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Tools.Jobs=Jobs
+\\
+\\\\
+Oct.Code.Tools.Jobs=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Tools.Food=Food
+\\
+\\\\
+Oct.Code.Tools.Food=\\untranslated
 
 \\\\
 \\
@@ -23967,10 +24002,17 @@ Oct.Code.Tools.World=Мир
 
 \\\\
 \\
-\\	Oct.Code.Tools.Food=Food
+\\	Oct.Code.Tools.Petitions=Petitions
 \\
 \\\\
-Oct.Code.Tools.Food=Еда
+Oct.Code.Tools.Petitions=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Tools.Beliefs=Beliefs
+\\
+\\\\
+Oct.Code.Tools.Beliefs=\\untranslated
 
 \\\\
 \\
@@ -23985,41 +24027,6 @@ Oct.Code.Tools.Stockpiles.Add=Добавить
 \\
 \\\\
 Oct.Code.Tools.Stockpiles.Remove=Удалить
-
-\\\\
-\\
-\\	Oct.Code.Tools.Belongings=Belongings
-\\
-\\\\
-Oct.Code.Tools.Belongings=Имущество
-
-\\\\
-\\
-\\	Oct.Code.Tools.Jobs=Jobs
-\\
-\\\\
-Oct.Code.Tools.Jobs=Работа
-
-\\\\
-\\
-\\	Oct.Code.Tools.Learning=Learning
-\\
-\\\\
-Oct.Code.Tools.Learning=Обучение
-
-\\\\
-\\
-\\	Oct.Code.Tools.Schedule=Schedule
-\\
-\\\\
-Oct.Code.Tools.Schedule=График
-
-\\\\
-\\
-\\	Oct.Code.Tools.Petitions=Petitions
-\\
-\\\\
-Oct.Code.Tools.Petitions=Петиции
 
 \\\\
 \\
@@ -24041,6 +24048,13 @@ Oct.Code.Tools.Zone.Remove=Удалить
 \\
 \\\\
 Oct.Code.Tools.Bulk.Multiple.Controls=Удерживай [ЛКМ] и тяни: отметить несколько
+
+\\\\
+\\
+\\	Oct.Code.Tools.Learning=Learning
+\\
+\\\\
+Oct.Code.Tools.Learning=\\untranslated
 
 \\\\
 \\
@@ -24387,73 +24401,10 @@ Oct.Code.Visibility.Stockpiles=Склады
 
 \\\\
 \\
-\\	Oct.Code.Visibility.UI=UI
+\\	Oct.Code.Visibility.Characters.AbilityTriggers=Ability Triggers
 \\
 \\\\
-Oct.Code.Visibility.UI=Интерфейс
-
-\\\\
-\\
-\\	Oct.Code.Visibility.InWorldUI=In World UI
-\\
-\\\\
-Oct.Code.Visibility.InWorldUI=Мировой интерфейс
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Paths=Paths
-\\
-\\\\
-Oct.Code.Visibility.Paths=Дорожки
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Items.LockedRecipes=Locked Recipes
-\\
-\\\\
-Oct.Code.Visibility.Items.LockedRecipes=Закрытые рецепты
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Items.Stats=Item Stats
-\\
-\\\\
-Oct.Code.Visibility.Items.Stats=Параметры предмета
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Props.Roofs=Roofs
-\\
-\\\\
-Oct.Code.Visibility.Props.Roofs=Крыши
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Props.RulerRoofs=Roofs (Ruler Mode)
-\\
-\\\\
-Oct.Code.Visibility.Props.RulerRoofs=Крыши (режим правителя)
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Props.Blueprints=Blueprints
-\\
-\\\\
-Oct.Code.Visibility.Props.Blueprints=Планы
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Props.CombatBlueprints=Blueprints (Combat)
-\\
-\\\\
-Oct.Code.Visibility.Props.CombatBlueprints=Планы (бой)
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Temperature=Temperature
-\\
-\\\\
-Oct.Code.Visibility.Temperature=Температура
+Oct.Code.Visibility.Characters.AbilityTriggers=\\untranslated
 
 \\\\
 \\
@@ -24492,10 +24443,73 @@ Oct.Code.Visibility.Characters.Caps=Шапки
 
 \\\\
 \\
-\\	Oct.Code.Visibility.Characters.AbilityTriggers=Ability Triggers
+\\	Oct.Code.Visibility.Items.LockedRecipes=Locked Recipes
 \\
 \\\\
-Oct.Code.Visibility.Characters.AbilityTriggers=Кнопки умений
+Oct.Code.Visibility.Items.LockedRecipes=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Items.Stats=Item Stats
+\\
+\\\\
+Oct.Code.Visibility.Items.Stats=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Paths=Paths
+\\
+\\\\
+Oct.Code.Visibility.Paths=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Props.Roofs=Roofs
+\\
+\\\\
+Oct.Code.Visibility.Props.Roofs=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Props.RulerRoofs=Roofs (Ruler Mode)
+\\
+\\\\
+Oct.Code.Visibility.Props.RulerRoofs=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Props.Blueprints=Blueprints
+\\
+\\\\
+Oct.Code.Visibility.Props.Blueprints=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Props.CombatBlueprints=Blueprints (Combat)
+\\
+\\\\
+Oct.Code.Visibility.Props.CombatBlueprints=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Temperature=Temperature
+\\
+\\\\
+Oct.Code.Visibility.Temperature=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.UI=UI
+\\
+\\\\
+Oct.Code.Visibility.UI=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.InWorldUI=In World UI
+\\
+\\\\
+Oct.Code.Visibility.InWorldUI=\\untranslated
 
 \\\\
 \\
@@ -33051,6 +33065,27 @@ Oct.Items.Categories.Food.Drinks.Moonshine.name=Самогон
 
 \\\\
 \\
+\\	Oct.Items.Categories.Gear.Outer.Cloaks.name=Cloaks
+\\
+\\\\
+Oct.Items.Categories.Gear.Outer.Cloaks.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Categories.Gear.Outer.name=Outer
+\\
+\\\\
+Oct.Items.Categories.Gear.Outer.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Categories.Resources.Leather.name=Leather
+\\
+\\\\
+Oct.Items.Categories.Resources.Leather.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Items.Categories.Food.MealBeans.name=Meal Beans
 \\
 \\\\
@@ -33132,20 +33167,6 @@ Oct.Items.Categories.Gear.Hands.name=Руки
 \\
 \\\\
 Oct.Items.Categories.Gear.Feet.name=Ноги
-
-\\\\
-\\
-\\	Oct.Items.Categories.Gear.Outer.name=Outer
-\\
-\\\\
-Oct.Items.Categories.Gear.Outer.name=Верхняя
-
-\\\\
-\\
-\\	Oct.Items.Categories.Resources.Leather.name=Leather
-\\
-\\\\
-Oct.Items.Categories.Resources.Leather.name=Кожа
 
 \\\\
 \\
@@ -33436,6 +33457,34 @@ Oct.Items.Categories.Props.Other.name=Прочее
 
 \\\\
 \\
+\\	Oct.Items.Clothing.Cloak.Martial.name=Martial Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Martial.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Martial.pluralName=Martial Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Martial.pluralName=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Royal.name=Royal Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Royal.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Royal.pluralName=Royal Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Royal.pluralName=\\untranslated
+
+\\\\
+\\
 \\	Oct.Items.Clothing.Shoes.Cloth.name=Cloth Shoes
 \\
 \\\\
@@ -33475,6 +33524,34 @@ Oct.Items.Clothing.Leggings.Cloth.name=тканые лосины
 \\
 \\\\
 Oct.Items.Clothing.Hood.Cloth.name=тканый капюшон
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Poor.name=Poor Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Poor.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Poor.pluralName=Poor Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Poor.pluralName=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Modest.name=Modest Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Modest.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Modest.pluralName=Modest Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Modest.pluralName=\\untranslated
 
 \\\\
 \\
@@ -34670,6 +34747,27 @@ Oct.Items.Stackable.Wine.name=Вино
 
 \\\\
 \\
+\\	Oct.Items.Stackable.Skins.Hide.name=Hide
+\\
+\\\\
+Oct.Items.Stackable.Skins.Hide.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Stackable.Skins.Leather.name=Leather
+\\
+\\\\
+Oct.Items.Stackable.Skins.Leather.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Stackable.Gold.name=Gold
+\\
+\\\\
+Oct.Items.Stackable.Gold.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Items.Stackable.RawMeat.Wolf.name=Raw Wolf
 \\
 \\\\
@@ -34702,13 +34800,6 @@ Oct.Items.Stackable.Coins.name=Монеты
 \\
 \\\\
 Oct.Items.Stackable.Silver.name=Серебро
-
-\\\\
-\\
-\\	Oct.Items.Stackable.Gold.name=Gold
-\\
-\\\\
-Oct.Items.Stackable.Gold.name=Золото
 
 \\\\
 \\
@@ -34751,20 +34842,6 @@ Oct.Items.Stackable.MealBeans.Ripe.name=Зрелые пищебобы
 \\
 \\\\
 Oct.Items.Stackable.MealBeans.Overripe.name=Перезрелые пищебобы
-
-\\\\
-\\
-\\	Oct.Items.Stackable.Skins.Hide.name=Hide
-\\
-\\\\
-Oct.Items.Stackable.Skins.Hide.name=Шкура
-
-\\\\
-\\
-\\	Oct.Items.Stackable.Skins.Leather.name=Leather
-\\
-\\\\
-Oct.Items.Stackable.Skins.Leather.name=Кожа
 
 \\\\
 \\
@@ -60868,6 +60945,34 @@ Oct.Research.Clothing.Costumes.Veil.name=Фата
 
 \\\\
 \\
+\\	Oct.Research.Clothing.Cloak.Poor.name=Poor Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Poor.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Research.Clothing.Cloak.Modest.name=Modest Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Modest.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Research.Clothing.Cloak.Martial.name=Martial Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Martial.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Research.Clothing.Cloak.Royal.name=Royal Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Royal.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Research.Clothing.Blouse.Cloth.name=Cloth Blouses
 \\
 \\\\
@@ -63222,14 +63327,14 @@ Oct.Settings.Game.Origin.PrincipleAdoption.tooltip=Насколько сильн
 
 \\\\
 \\
-\\	Oct.Settings.Game.Characters.VisualExtremes.name=Visual Extremes
+\\	Oct.Settings.Game.Characters.VisualExtremes.name=Visual Goofiness
 \\
 \\\\
 Oct.Settings.Game.Characters.VisualExtremes.name=Визуальные пределы
 
 \\\\
 \\
-\\	Oct.Settings.Game.Characters.VisualExtremes.tooltip=Controls the Extremes of Character Visuals.
+\\	Oct.Settings.Game.Characters.VisualExtremes.tooltip=Controls how Goofy the Character Visuals can be.
 \\
 \\\\
 Oct.Settings.Game.Characters.VisualExtremes.tooltip=Управляет крайними значениями внешнего вида персонажей.
