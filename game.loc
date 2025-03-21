@@ -1470,6 +1470,13 @@ Oct.Character.Permissions.Player.Serfs.name=Прислуга
 
 \\\\
 \\
+\\	Oct.Character.Permissions.Player.Mercenaries.name=Mercenaries
+\\
+\\\\
+Oct.Character.Permissions.Player.Mercenaries.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Character.Permissions.Allies.name=Allies
 \\
 \\\\
@@ -2254,31 +2261,47 @@ Oct.Character.Traits.Groups.Ranged.name=Точность стрельбы
 
 \\\\
 \\
-\\	Oct.Character.Traits.Ranged.High.Very.name=Sharp Shooter
+\\	Oct.Character.Traits.Ranged.High.name=Sharp Shooter
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Character.Traits.Ranged.High.Very.name=Снайпер
+=======
+Oct.Character.Traits.Ranged.High.name=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	Oct.Character.Traits.Ranged.High.Very.description=More Accurate when firing a Ranged Weapon.
+\\	Oct.Character.Traits.Ranged.High.description=More Accurate when firing a Ranged Weapon.
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Character.Traits.Ranged.High.Very.description=Чаще попадает из оружия дальнего боя.
+=======
+Oct.Character.Traits.Ranged.High.description=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	Oct.Character.Traits.Ranged.Low.Very.name=Inaccurate
+\\	Oct.Character.Traits.Ranged.Low.name=Inaccurate
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Character.Traits.Ranged.Low.Very.name=Мазила
+=======
+Oct.Character.Traits.Ranged.Low.name=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	Oct.Character.Traits.Ranged.Low.Very.description=Less Accurate when firing a Ranged Weapon.
+\\	Oct.Character.Traits.Ranged.Low.description=Less Accurate when firing a Ranged Weapon.
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Character.Traits.Ranged.Low.Very.description=Реже попадает из оружия дальнего боя.
+=======
+Oct.Character.Traits.Ranged.Low.description=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -7537,10 +7560,24 @@ Oct.Code.Adventure.Retreat.Header=Отступить?
 
 \\\\
 \\
-\\	Oct.Code.Adventure.Reatreat.Details=Abandon the helpless and head home?
+\\	Oct.Code.Adventure.Reatreat.Details=Call for retreat?
 \\
 \\\\
 Oct.Code.Adventure.Reatreat.Details=Бросить беспомощных и вернуться домой?
+
+\\\\
+\\
+\\	Oct.Code.Adventure.Abandon.Retreat.Header=Abandon Stragglers?
+\\
+\\\\
+Oct.Code.Adventure.Abandon.Retreat.Header=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Adventure.Abandon.Retreat.Details=Abandon the remaining Mortals?
+\\
+\\\\
+Oct.Code.Adventure.Abandon.Retreat.Details=\\untranslated
 
 \\\\
 \\
@@ -7663,6 +7700,7 @@ Oct.Code.Adventures.PreventDispatch.Rabids=Атака бешеных живот�
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Code.Adventures.KeyGranted={place} Key Granted
 \\
 \\\\
@@ -7670,6 +7708,8 @@ Oct.Code.Adventures.KeyGranted=Получен ключ: {place}
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Code.Animal.MemberOf=Member of
 \\
 \\\\
@@ -7824,6 +7864,13 @@ Oct.Code.Bandits.Became={name} теперь {newName}!
 
 \\\\
 \\
+\\	Oct.Code.Banner.Editor.Header=Edit Banner
+\\
+\\\\
+Oct.Code.Banner.Editor.Header=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Beliefs.KingdomSize=Kingdom Size
 \\
 \\\\
@@ -7912,6 +7959,13 @@ Oct.Code.Beliefs.PreachToSerfs=Воспитывать прислугу?
 \\
 \\\\
 Oct.Code.Beliefs.PreachToPrisoners=Воспитывать пленников?
+
+\\\\
+\\
+\\	Oct.Code.Beliefs.PreachToMercenaries=Preach To Mercenaries?
+\\
+\\\\
+Oct.Code.Beliefs.PreachToMercenaries=\\untranslated
 
 \\\\
 \\
@@ -8041,6 +8095,13 @@ Oct.Code.Belongings.Unownable.Rented=Нельзя присвоить: {belonging
 
 \\\\
 \\
+\\	Oct.Code.Belongings.Unownable.Borrowed=Unownable: {belonging} is Borrowed by {borrower}.
+\\
+\\\\
+Oct.Code.Belongings.Unownable.Borrowed=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Belongings.Unownable.Cell=Unownable: {belonging} is a Cell.
 \\
 \\\\
@@ -8129,6 +8190,13 @@ Oct.Code.Belongings.Equipped.Abbreviation=Н
 \\
 \\\\
 Oct.Code.Belongings.Give=Вручить
+
+\\\\
+\\
+\\	Oct.Code.Belongings.Return=Return
+\\
+\\\\
+Oct.Code.Belongings.Return=\\untranslated
 
 \\\\
 \\
@@ -8482,10 +8550,21 @@ Oct.Code.Catapult.Fire=Огонь
 
 \\\\
 \\
-\\	Oct.Code.Catapult.NoTarget=No Target!
+\\	Oct.Code.Catapult.Firing=Firing {prop}
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Code.Catapult.NoTarget=Нет цели!
+=======
+Oct.Code.Catapult.Firing=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Catapult.Firing.At=Firing {prop} at {target}
+\\
+\\\\
+Oct.Code.Catapult.Firing.At=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -8748,6 +8827,13 @@ Oct.Code.Characters.CannotMicro.Reason.Escaping=Убегает
 
 \\\\
 \\
+\\	Oct.Code.Characters.CannotMicro.Reason.NotEnlisted=Not Enlisted
+\\
+\\\\
+Oct.Code.Characters.CannotMicro.Reason.NotEnlisted=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Characters.CannotMicro.Reason.WrongFaction=Wrong Faction
 \\
 \\\\
@@ -8839,6 +8925,13 @@ Oct.Code.Characters.Multiple.Serf=Прислуга ({faction})
 
 \\\\
 \\
+\\	Oct.Code.Characters.Multiple.Mercenary={faction} Mercenary
+\\
+\\\\
+Oct.Code.Characters.Multiple.Mercenary=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Characters.Multiple.Prisoner.Faction={faction} Prisoner
 \\
 \\\\
@@ -8906,6 +8999,13 @@ Oct.Code.Characters.Tooltips.Push=Преследовать цели
 \\
 \\\\
 Oct.Code.Characters.Tooltips.ItemTactics=Вызвать использование: {item}
+
+\\\\
+\\
+\\	Oct.Code.Characters.Commands.TreatInjury=Treat {injury}
+\\
+\\\\
+Oct.Code.Characters.Commands.TreatInjury=\\untranslated
 
 \\\\
 \\
@@ -9000,10 +9100,24 @@ Oct.Code.Characters.Tactics.Melee=Ближний бой
 
 \\\\
 \\
+\\	Oct.Code.Characters.Tactics.Shield=Shield
+\\
+\\\\
+Oct.Code.Characters.Tactics.Shield=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Characters.Tactics.Ranged=Ranged
 \\
 \\\\
 Oct.Code.Characters.Tactics.Ranged=Дальний бой
+
+\\\\
+\\
+\\	Oct.Code.Characters.Tactics.AvoidFriendlyFire=Avoid Friendly Fire
+\\
+\\\\
+Oct.Code.Characters.Tactics.AvoidFriendlyFire=\\untranslated
 
 \\\\
 \\
@@ -9025,6 +9139,13 @@ Oct.Code.Characters.Tactics.Defend=Защищать
 \\
 \\\\
 Oct.Code.Characters.Tactics.Push=Наступать
+
+\\\\
+\\
+\\	Oct.Code.Characters.Tactics.Stop=Stop
+\\
+\\\\
+Oct.Code.Characters.Tactics.Stop=\\untranslated
 
 \\\\
 \\
@@ -9112,6 +9233,7 @@ Oct.Code.Characters.Commands.DropSupplies=Уронить припасы
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Code.Characters.Commands.TreatInjury=Treat {injury}
 \\
 \\\\
@@ -9119,6 +9241,8 @@ Oct.Code.Characters.Commands.TreatInjury=Лечить: {injury}
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Code.Characters.Commands.Restrain=Restrain
 \\
 \\\\
@@ -9301,6 +9425,20 @@ Oct.Code.Characters.SelectAll=Выбрать все
 
 \\\\
 \\
+\\	Oct.Code.Characters.Hire=Hire
+\\
+\\\\
+Oct.Code.Characters.Hire=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Characters.Hire.Tooltip=Hire Mercenaries<br><br>Requires a Messenger Perch.
+\\
+\\\\
+Oct.Code.Characters.Hire.Tooltip=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Characters.Leave=Leave
 \\
 \\\\
@@ -9361,6 +9499,41 @@ Oct.Code.Characters.Commands.Collect=Собрать: {items}
 \\
 \\\\
 Oct.Code.Characters.Status.GettingHelp=Получает помощь
+
+\\\\
+\\
+\\	Oct.Code.Characters.Influence.To.Adjective.High=High
+\\
+\\\\
+Oct.Code.Characters.Influence.To.Adjective.High=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Characters.Influence.To.Adjective.Good=Good
+\\
+\\\\
+Oct.Code.Characters.Influence.To.Adjective.Good=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Characters.Influence.To.Adjective.Poor=Poor
+\\
+\\\\
+Oct.Code.Characters.Influence.To.Adjective.Poor=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Characters.Influence.To.Adjective.None=None
+\\
+\\\\
+Oct.Code.Characters.Influence.To.Adjective.None=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Characters.Influence.To.Adjective.Moderate=Moderate
+\\
+\\\\
+Oct.Code.Characters.Influence.To.Adjective.Moderate=\\untranslated
 
 \\\\
 \\
@@ -9711,6 +9884,13 @@ Oct.Code.Characters.Titles.Party.Member=Член, {party}
 \\
 \\\\
 Oct.Code.Characters.Titles.Party.Kingdom={title}, {party}
+
+\\\\
+\\
+\\	Oct.Code.Characters.Titles.Mercenary=Mercenary
+\\
+\\\\
+Oct.Code.Characters.Titles.Mercenary=\\untranslated
 
 \\\\
 \\
@@ -10085,6 +10265,13 @@ Oct.Code.Characters.Common.Dead=Мертвец
 
 \\\\
 \\
+\\	Oct.Code.Characters.Common.Deposit=Deposit
+\\
+\\\\
+Oct.Code.Characters.Common.Deposit=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Characters.Common.Development=Development
 \\
 \\\\
@@ -10127,6 +10314,13 @@ Oct.Code.Characters.Common.FamilyTree=Семейное дерево
 
 \\\\
 \\
+\\	Oct.Code.Characters.Common.Familiarity=Familiarity
+\\
+\\\\
+Oct.Code.Characters.Common.Familiarity=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Characters.Common.Father=Father
 \\
 \\\\
@@ -10159,6 +10353,13 @@ Oct.Code.Characters.Common.Heals=Поправится
 \\
 \\\\
 Oct.Code.Characters.Common.Illegitimate=Незакон.
+
+\\\\
+\\
+\\	Oct.Code.Characters.Common.Influence=Influence
+\\
+\\\\
+Oct.Code.Characters.Common.Influence=\\untranslated
 
 \\\\
 \\
@@ -10208,6 +10409,20 @@ Oct.Code.Characters.Common.Maturity=Зрелость
 \\
 \\\\
 Oct.Code.Characters.Common.Member=(Член отряда)
+
+\\\\
+\\
+\\	Oct.Code.Characters.Common.Mercenaries=Mercenaries
+\\
+\\\\
+Oct.Code.Characters.Common.Mercenaries=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Characters.Common.Mercs=Mercs
+\\
+\\\\
+Oct.Code.Characters.Common.Mercs=\\untranslated
 
 \\\\
 \\
@@ -10299,6 +10514,13 @@ Oct.Code.Characters.Common.Relaxing=Расслабляется
 \\
 \\\\
 Oct.Code.Characters.Common.Resting=Отдыхает
+
+\\\\
+\\
+\\	Oct.Code.Characters.Common.Salary=Salary
+\\
+\\\\
+Oct.Code.Characters.Common.Salary=\\untranslated
 
 \\\\
 \\
@@ -10792,6 +11014,20 @@ Oct.Code.Characters.Toasts.Joined={character} присоединяется к к
 
 \\\\
 \\
+\\	Oct.Code.Characters.Toasts.Hired.Player={character} hired!
+\\
+\\\\
+Oct.Code.Characters.Toasts.Hired.Player=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Characters.Toasts.Hired={character} hired by {kingdom}
+\\
+\\\\
+Oct.Code.Characters.Toasts.Hired=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Characters.Toasts.Captured.ByParty={character} captured by {party}
 \\
 \\\\
@@ -10981,10 +11217,52 @@ Oct.Code.Characters.Compatibility.Average.Short=Сред.
 
 \\\\
 \\
+\\	Oct.Code.Characters.Familiarity.Low=Low
+\\
+\\\\
+Oct.Code.Characters.Familiarity.Low=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Characters.Familiarity.BelowAverage=Below Average
+\\
+\\\\
+Oct.Code.Characters.Familiarity.BelowAverage=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Characters.Familiarity.AboveAverage=Above Average
+\\
+\\\\
+Oct.Code.Characters.Familiarity.AboveAverage=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Characters.Familiarity.High=High
+\\
+\\\\
+Oct.Code.Characters.Familiarity.High=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Characters.Familiarity.Average=Average
+\\
+\\\\
+Oct.Code.Characters.Familiarity.Average=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Characters.Desertion.NoLonger={character} is no longer considering desertion!
 \\
 \\\\
 Oct.Code.Characters.Desertion.NoLonger={character} больше не думает дезертировать!
+
+\\\\
+\\
+\\	Oct.Code.Characters.Titles.Kingdom={title} of {kingdom}
+\\
+\\\\
+Oct.Code.Characters.Titles.Kingdom=\\untranslated
 
 \\\\
 \\
@@ -11002,6 +11280,7 @@ Oct.Code.Characters.Titles.Collective={title}, {collective}
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Code.Characters.Titles.Kingdom={title} of {kingdom}
 \\
 \\\\
@@ -11009,6 +11288,8 @@ Oct.Code.Characters.Titles.Kingdom={title}, {kingdom}
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Code.Characters.Titles.Party={title} of {party}
 \\
 \\\\
@@ -11020,6 +11301,13 @@ Oct.Code.Characters.Titles.Party={title}, {party}
 \\
 \\\\
 Oct.Code.Characters.Verbs.Climb=Забраться
+
+\\\\
+\\
+\\	Oct.Code.Characters.DeployGrapplingHook=Deploy Grappling Hook
+\\
+\\\\
+Oct.Code.Characters.DeployGrapplingHook=\\untranslated
 
 \\\\
 \\
@@ -11142,7 +11430,7 @@ Oct.Code.Characters.Toasts.GaveBirth={character} теперь мама!
 
 \\\\
 \\
-\\	Oct.Code.Characters.Toasts.LostBaby={character} lost their Baby!
+\\	Oct.Code.Characters.Toasts.LostBaby={character} lost the Baby!
 \\
 \\\\
 Oct.Code.Characters.Toasts.LostBaby={character} теряет ребенка!
@@ -11258,6 +11546,20 @@ Oct.Code.Characters.Sheet.Prestige.Tooltip=Престиж: оценка, кот�
 \\
 \\\\
 Oct.Code.Characters.Sheet.Ambition.Tooltip=Амбиции: требования смертного к престижу, ограниченные общей стоимостью всего имущества в королевстве
+
+\\\\
+\\
+\\	Oct.Code.Characters.Mercenary.ExtendContract.Caption=Extend
+\\
+\\\\
+Oct.Code.Characters.Mercenary.ExtendContract.Caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Characters.Mercenary.ReleaseFromContract.Caption=Release
+\\
+\\\\
+Oct.Code.Characters.Mercenary.ReleaseFromContract.Caption=\\untranslated
 
 \\\\
 \\
@@ -11989,6 +12291,7 @@ Oct.Code.Characters.Health.PerHour=В час
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Code.Characters.Shields=Shields
 \\
 \\\\
@@ -11996,6 +12299,8 @@ Oct.Code.Characters.Shields=Щиты
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Code.Characters.Skill.Relevant=Relevant Skill
 \\
 \\\\
@@ -12101,6 +12406,13 @@ Oct.Code.Characters.Trade=Торговать
 
 \\\\
 \\
+\\	Oct.Code.Characters.Bark.NoClearShot=I don't have a clear shot!
+\\
+\\\\
+Oct.Code.Characters.Bark.NoClearShot=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Characters.Intimidated={character} intimidated me
 \\
 \\\\
@@ -12164,6 +12476,7 @@ Oct.Code.Characters.YodeledWith=Недавно: йодль с персонаже
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Code.Characters.Bark.NoClearShot=I don't have a clear shot!
 \\
 \\\\
@@ -12171,6 +12484,8 @@ Oct.Code.Characters.Bark.NoClearShot=Не могу выстрелить!
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Code.Characters.Barks.BlockedShot={character.short} is blocking my shot!
 \\
 \\\\
@@ -12836,7 +13151,7 @@ Oct.Code.Commands.CookItem.Status=Готовит: {item}
 
 \\\\
 \\
-\\	Oct.Code.Commands.Blocked.Cooking.Disabled=Cooking Disabled for Ingredients
+\\	Oct.Code.Commands.Blocked.Cooking.Disabled=Insufficient Ingredients With Cooking Allowed
 \\
 \\\\
 Oct.Code.Commands.Blocked.Cooking.Disabled=Ингредиенты запрещены при готовке
@@ -13886,9 +14201,10 @@ Oct.Code.Commands.Blocked.DoorIncomplete=Дверь не закончена
 
 \\\\
 \\
-\\	Oct.Code.Commands.Door.AddBarricade=Add Barricade
+\\	Oct.Code.Commands.Door.Debarricade=Debarricade
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Code.Commands.Door.AddBarricade=Добавить баррикаду
 
 \\\\
@@ -13897,6 +14213,9 @@ Oct.Code.Commands.Door.AddBarricade=Добавить баррикаду
 \\
 \\\\
 Oct.Code.Commands.Door.RemoveBarricade=Убрать баррикаду
+=======
+Oct.Code.Commands.Door.Debarricade=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -13907,10 +14226,21 @@ Oct.Code.Commands.Door.Barricade=Добавить баррикаду
 
 \\\\
 \\
-\\	Oct.Code.Commands.Door.Debarricade=Debarricade
+\\	Oct.Code.Commands.Door.AddBarricadeHolder=Add Barricade Holder
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Code.Commands.Door.Debarricade=Убрать баррикаду
+=======
+Oct.Code.Commands.Door.AddBarricadeHolder=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Commands.Door.RemoveBarricadeHolder=Remove Barricade Holder
+\\
+\\\\
+Oct.Code.Commands.Door.RemoveBarricadeHolder=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -13928,6 +14258,7 @@ Oct.Code.Commands.Door.RemoveLock=Убрать замок
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Code.Commands.DeployClimbingRope=Deploy Climbing Rope
 \\
 \\\\
@@ -13935,6 +14266,8 @@ Oct.Code.Commands.DeployClimbingRope=Использовать веревку
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Code.Commands.Props.Repair=Repair
 \\
 \\\\
@@ -14145,6 +14478,13 @@ Oct.Code.Common.Continue=Продолжить
 
 \\\\
 \\
+\\	Oct.Code.Common.Contract=Contract
+\\
+\\\\
+Oct.Code.Common.Contract=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Common.Count=Count
 \\
 \\\\
@@ -14278,6 +14618,13 @@ Oct.Code.Common.Health=Прочность
 
 \\\\
 \\
+\\	Oct.Code.Common.History=History
+\\
+\\\\
+Oct.Code.Common.History=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Common.Infinite=Infinite
 \\
 \\\\
@@ -14299,6 +14646,13 @@ Oct.Code.Common.Insulation=Утепление
 
 \\\\
 \\
+\\	Oct.Code.Common.KingdomMight=Kingdom Might
+\\
+\\\\
+Oct.Code.Common.KingdomMight=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Common.Learned=Learned
 \\
 \\\\
@@ -14310,6 +14664,20 @@ Oct.Code.Common.Learned=Выучено
 \\
 \\\\
 Oct.Code.Common.LeftClick=[ЛКМ]
+
+\\\\
+\\
+\\	Oct.Code.Common.Lend=Lend
+\\
+\\\\
+Oct.Code.Common.Lend=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Common.Lent=Lent
+\\
+\\\\
+Oct.Code.Common.Lent=\\untranslated
 
 \\\\
 \\
@@ -14425,6 +14793,13 @@ Oct.Code.Common.Owner=Владелец
 
 \\\\
 \\
+\\	Oct.Code.Common.PackCapacity=Pack Capacity
+\\
+\\\\
+Oct.Code.Common.PackCapacity=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Common.Petition=Petition
 \\
 \\\\
@@ -14513,6 +14888,13 @@ Oct.Code.Common.Quality=Качество
 \\
 \\\\
 Oct.Code.Common.Quantity=Количество
+
+\\\\
+\\
+\\	Oct.Code.Common.Quest=Quest
+\\
+\\\\
+Oct.Code.Common.Quest=\\untranslated
 
 \\\\
 \\
@@ -14614,6 +14996,13 @@ Oct.Code.Common.SelectAll=Выбрать все
 
 \\\\
 \\
+\\	Oct.Code.Common.Size=Size
+\\
+\\\\
+Oct.Code.Common.Size=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Common.Slot=Slot
 \\
 \\\\
@@ -14646,6 +15035,13 @@ Oct.Code.Common.Status=Статус
 \\
 \\\\
 Oct.Code.Common.Stockpile=Склад
+
+\\\\
+\\
+\\	Oct.Code.Common.Strength=Strength
+\\
+\\\\
+Oct.Code.Common.Strength=\\untranslated
 
 \\\\
 \\
@@ -14719,6 +15115,13 @@ Oct.Code.Common.Warning=Опасность
 
 \\\\
 \\
+\\	Oct.Code.Common.Wealth=Wealth
+\\
+\\\\
+Oct.Code.Common.Wealth=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Common.Weather=Weather
 \\
 \\\\
@@ -14740,6 +15143,7 @@ Oct.Code.Common.Yes=Да
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	optional; to allow for adjustment of spacing, please keep the : and the order of property and value
 \\
 \\	Oct.Code.Common.PropertyValue={property}: {value}
@@ -14749,6 +15153,8 @@ Oct.Code.Common.PropertyValue={property}: {value}
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Code.Common.Ability={ability} Ability
 \\
 \\\\
@@ -14776,6 +15182,169 @@ Oct.Code.Common.Rules=Условия
 \\
 \\\\
 Oct.Code.Common.Property={property}:
+
+\\\\
+\\
+\\	optional; to allow for adjustment of spacing, please keep the : and the order of property and value
+\\
+\\	Oct.Code.Common.PropertyValue={property}: {value}
+\\
+\\\\
+Oct.Code.Common.PropertyValue=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concession.SwearAllegiance.Details=Swear Allegiance to {kingdom}
+\\
+\\\\
+Oct.Code.Concession.SwearAllegiance.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concession.BreakAllegiance.Details=Break Allegiance to {kingdom}
+\\
+\\\\
+Oct.Code.Concession.BreakAllegiance.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concession.ReleaseFromAllegiance.Details=Release {kingdom} from Allegiance
+\\
+\\\\
+Oct.Code.Concession.ReleaseFromAllegiance.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concession.SeverAllegiance.Details=Sever {kingdom}'s Allegiance
+\\
+\\\\
+Oct.Code.Concession.SeverAllegiance.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concession.DeclareWar.Details=Declare War on {kingdom}
+\\
+\\\\
+Oct.Code.Concession.DeclareWar.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concession.EndWar.Details=End War with {kingdom}
+\\
+\\\\
+Oct.Code.Concession.EndWar.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concession.ReassignNoble.Details=Reassign {character}
+\\
+\\\\
+Oct.Code.Concession.ReassignNoble.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concession.FreeCharacter.Details=Free {character}
+\\
+\\\\
+Oct.Code.Concession.FreeCharacter.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concession.DispatchSupport.Details=Dispatch Support
+\\
+\\\\
+Oct.Code.Concession.DispatchSupport.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concession.DispatchSupport.ForOverlord=For Overlord
+\\
+\\\\
+Oct.Code.Concession.DispatchSupport.ForOverlord=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concession.DispatchSupport.ForVassal=For Vassal
+\\
+\\\\
+Oct.Code.Concession.DispatchSupport.ForVassal=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concessions.Kingdom.Security={kingdom} Security
+\\
+\\\\
+Oct.Code.Concessions.Kingdom.Security=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concessions.Kingdom.StrengthRelativeTo={kingdom1} Strength Relative to {kingdom2}
+\\
+\\\\
+Oct.Code.Concessions.Kingdom.StrengthRelativeTo=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concessions.SendItems.Available.Caption={count} avail
+\\
+\\\\
+Oct.Code.Concessions.SendItems.Available.Caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concessions.SendItems.Available=Available
+\\
+\\\\
+Oct.Code.Concessions.SendItems.Available=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concessions.SendItems.DiminishingReturns=Diminishing Returns
+\\
+\\\\
+Oct.Code.Concessions.SendItems.DiminishingReturns=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concessions.SendItems.Valuation=Valuation
+\\
+\\\\
+Oct.Code.Concessions.SendItems.Valuation=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concessions.SendItems.Wealth={kingdom} Wealth
+\\
+\\\\
+Oct.Code.Concessions.SendItems.Wealth=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concessions.SendItems.Details=Send Items
+\\
+\\\\
+Oct.Code.Concessions.SendItems.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concessions.BeliefImportance=Belief Importance
+\\
+\\\\
+Oct.Code.Concessions.BeliefImportance=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concessions.AdoptBelief.Details=Adopt the {principle} Principle
+\\
+\\\\
+Oct.Code.Concessions.AdoptBelief.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Concessions.AbandonBelief.Details=Abandon the {principle} Principle
+\\
+\\\\
+Oct.Code.Concessions.AbandonBelief.Details=\\untranslated
 
 \\\\
 \\
@@ -15115,6 +15684,13 @@ Oct.Code.Dig.RemoveCeiling=Убрать потолок
 
 \\\\
 \\
+\\	Oct.Code.DiplomaticAction.ExpectedOutcome=Expected Outcome
+\\
+\\\\
+Oct.Code.DiplomaticAction.ExpectedOutcome=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Dispatch.ProbabilityOfSuccess.Low=Low
 \\
 \\\\
@@ -15150,6 +15726,20 @@ Oct.Code.Dispatch.Header=Отправить отряд
 
 \\\\
 \\
+\\	Oct.Code.Dispatch.Cost=Cost
+\\
+\\\\
+Oct.Code.Dispatch.Cost=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Dispatch.ProbabilityOfSuccess=Probability of Success
+\\
+\\\\
+Oct.Code.Dispatch.ProbabilityOfSuccess=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Dispatch.Party=Party
 \\
 \\\\
@@ -15164,9 +15754,10 @@ Oct.Code.Dispatch.Ruler=Правитель
 
 \\\\
 \\
-\\	Oct.Code.Dispatch.NoblesAndSerfs=Nobles and Serfs
+\\	Oct.Code.Dispatch.HireMercenaries.Caption=Hire Mercenaries
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Code.Dispatch.NoblesAndSerfs=Знать и прислуга
 
 \\\\
@@ -15182,6 +15773,9 @@ Oct.Code.Dispatch.Cost=Стоимость
 \\
 \\\\
 Oct.Code.Dispatch.ProbabilityOfSuccess=Шанс успеха
+=======
+Oct.Code.Dispatch.HireMercenaries.Caption=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -15199,10 +15793,24 @@ Oct.Code.Dispatch.Cost.TravelMeals={count} шт. дорожных припасо
 
 \\\\
 \\
+\\	Oct.Code.Dispatch.Cost.Coins={count} Coin(s)
+\\
+\\\\
+Oct.Code.Dispatch.Cost.Coins=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Dispatch.Embark=Embark
 \\
 \\\\
 Oct.Code.Dispatch.Embark=Отправиться
+
+\\\\
+\\
+\\	Oct.Code.Dispatch.Hire.Header=Hire
+\\
+\\\\
+Oct.Code.Dispatch.Hire.Header=\\untranslated
 
 \\\\
 \\
@@ -15297,7 +15905,14 @@ Oct.Code.Embark.Bringing=Приносим
 
 \\\\
 \\
-\\	Oct.Code.Embark.Meals=Travel Food Needs are covered
+\\	Oct.Code.Embark.NOTE=NOTE
+\\
+\\\\
+Oct.Code.Embark.NOTE=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Embark.Meals=Food Needs are covered while traveling, but not during time spent at the destination.
 \\
 \\\\
 Oct.Code.Embark.Meals=Еды для путешествия достаточно
@@ -15371,6 +15986,13 @@ Oct.Code.Escapee.Incoming={pursuingKingdom} на горизонте!
 \\
 \\\\
 Oct.Code.Escapee.Incoming.Details={pursuingKingdom} скоро появятся, {escapee} — их цель!
+
+\\\\
+\\
+\\	Oct.Code.Faction.KeyGranted={faction} Key Granted
+\\
+\\\\
+Oct.Code.Faction.KeyGranted=\\untranslated
 
 \\\\
 \\
@@ -15703,6 +16325,20 @@ Oct.Code.FoodRemaining.FormattedReason=^{reason}: {delta}
 
 \\\\
 \\
+\\	Oct.Code.Fortress.Submitted.Header=Fortress Submitted!
+\\
+\\\\
+Oct.Code.Fortress.Submitted.Header=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Fortress.Header=Submit Fortress
+\\
+\\\\
+Oct.Code.Fortress.Header=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Fruit.Ripeness=Ripeness
 \\
 \\\\
@@ -15857,6 +16493,76 @@ Oct.Code.GuidedExperience.NextStep=Дальше
 
 \\\\
 \\
+\\	Oct.Code.HireMercenaries.Header=Hire Mercenaries
+\\
+\\\\
+Oct.Code.HireMercenaries.Header=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.HireMercenaries.Header.Mercenary=Mercenary
+\\
+\\\\
+Oct.Code.HireMercenaries.Header.Mercenary=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.HireMercenaries.Header.Skills=Skills
+\\
+\\\\
+Oct.Code.HireMercenaries.Header.Skills=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.HireMercenaries.Header.Hire=Hire
+\\
+\\\\
+Oct.Code.HireMercenaries.Header.Hire=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.HireMercenaries.CoinsAvailable.Caption=Coins Available
+\\
+\\\\
+Oct.Code.HireMercenaries.CoinsAvailable.Caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.HireMercenaries.TotalCost=Total Cost
+\\
+\\\\
+Oct.Code.HireMercenaries.TotalCost=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.HireMercenaries.CoinsRemaining=Coins Remaining
+\\
+\\\\
+Oct.Code.HireMercenaries.CoinsRemaining=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.HireMercenaries.Hire=Hire
+\\
+\\\\
+Oct.Code.HireMercenaries.Hire=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.HireMercenaries.Choose=Choose
+\\
+\\\\
+Oct.Code.HireMercenaries.Choose=\\untranslated
+
+\\\\
+\\
+\\	oct.Code.History.Damage.BlockFailed=block failed
+\\
+\\\\
+oct.Code.History.Damage.BlockFailed=\\untranslated
+
+\\\\
+\\
 \\	oct.Code.History.Damage.ParryFailed=parry failed
 \\
 \\\\
@@ -15952,6 +16658,13 @@ Oct.Code.History.Left={character} покидает
 \\
 \\\\
 Oct.Code.History.Gained.Level={character} достигает ур. {level} и получает {healthDelta} макс. здоровья
+
+\\\\
+\\
+\\	Oct.Code.History.Damage.Blocked={causer} attacked {damagee}, but it was blocked
+\\
+\\\\
+Oct.Code.History.Damage.Blocked=\\untranslated
 
 \\\\
 \\
@@ -16787,6 +17500,15 @@ Oct.Code.Information.Deals.On={on} за {price}
 
 \\\\
 \\
+\\	{speaker} and {listener} available
+\\
+\\	Oct.Code.Information.StartedWar.Dishonorable.Advanced={declarer.con(I,you,{declarer})} started a dishonorable war with {declaree.con(me,you,{declaree})}{timeframe}{reason}
+\\
+\\\\
+Oct.Code.Information.StartedWar.Dishonorable.Advanced=\\untranslated
+
+\\\\
+\\
 \\	optional; replaces Oct.Code.Information.DeclaredWar; {speaker} and {listener} available
 \\
 \\	Oct.Code.Information.DeclaredWar.Advanced={declarer.con(I,you,{declarer})} declared war on {declaree.con(me,you,{declaree})}{timeframe}{reason}
@@ -17524,6 +18246,15 @@ Oct.Code.Information.InKingdom.Title.Kingdom.Noble=знать
 \\
 \\\\
 Oct.Code.Information.InKingdom.Title.Kingdom.Serf=прислуга
+
+\\\\
+\\
+\\	{subject} available
+\\
+\\	Oct.Code.Information.InKingdom.Title.Kingdom.Mercenary=a Mercenary of
+\\
+\\\\
+Oct.Code.Information.InKingdom.Title.Kingdom.Mercenary=\\untranslated
 
 \\\\
 \\
@@ -18716,7 +19447,7 @@ Oct.Code.Information.Opinion.Current.Advanced.Kingdom={subject.con(я,ты,{subj
 \\
 \\	optional; replaces Oct.Code.Information.Opinion; {speaker} and {listener} available
 \\
-\\	Oct.Code.Information.Opinion.Current.Advanced={subject.con(I,you,{subject})} {verb} {object.con(me,you,{object})}
+\\	Oct.Code.Information.Opinion.Current.Advanced={subject.con(I,you,{subject})} {verb} {object.con(me,you,{object.plural})}
 \\
 \\\\
 Oct.Code.Information.Opinion.Current.Advanced={subject.con(я,ты,{subject})} {verb}: {object.con(меня,тебя,{object})}
@@ -18788,7 +19519,7 @@ Oct.Code.Information.Opinion.Past.Advanced.Kingdom={subject.con(я,ты,{subject
 \\
 \\	optional; replaces Oct.Code.Information.Opinion; {speaker} and {listener} available
 \\
-\\	Oct.Code.Information.Opinion.Past.Advanced={subject.con(I,you,{subject})} {verb} {object.con(me,you,{object})}
+\\	Oct.Code.Information.Opinion.Past.Advanced={subject.con(I,you,{subject})} {verb} {object.con(me,you,{object.plural})}
 \\
 \\\\
 Oct.Code.Information.Opinion.Past.Advanced={subject.con(я,ты,{subject})} {verb} {object.con(себя,тебя, — {object})}
@@ -19461,6 +20192,15 @@ Oct.Code.Information.RaidDefeated.Kingdom={raiders} побеждены! Побе
 \\
 \\\\
 Oct.Code.Information.RaidDefeated.Party=Отряд {raider} побежден! Победитель: {raidees}.
+
+\\\\
+\\
+\\	{speaker} and {listener} available
+\\
+\\	Oct.Code.Information.AttemptedToConquer={raider.con(our kingdom,your kingdom,{raider})} attempted to conquer {raidee.con(our kingdom,your kingdom,{raidee})}{timeframe}
+\\
+\\\\
+Oct.Code.Information.AttemptedToConquer=\\untranslated
 
 \\\\
 \\
@@ -20230,6 +20970,13 @@ Oct.Code.Items.BaseEsteem=Базовая оценка
 
 \\\\
 \\
+\\	Oct.Code.Items.BorrowedBy=Borrowed By
+\\
+\\\\
+Oct.Code.Items.BorrowedBy=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Items.Claimable=Claimable
 \\
 \\\\
@@ -20349,6 +21096,20 @@ Oct.Code.Items.ValuePer=Стоимость /
 
 \\\\
 \\
+\\	Oct.Code.Items.Weighing=Weighing
+\\
+\\\\
+Oct.Code.Items.Weighing=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Items.Weight.Per=Weight
+\\
+\\\\
+Oct.Code.Items.Weight.Per=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Items.Log.Abandoned=abandoned
 \\
 \\\\
@@ -20381,6 +21142,20 @@ Oct.Code.Items.Log.Cut=— нарублено
 \\
 \\\\
 Oct.Code.Items.Log.Decayed=— сгнило
+
+\\\\
+\\
+\\	Oct.Code.Items.Log.Deposit=deposit
+\\
+\\\\
+Oct.Code.Items.Log.Deposit=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Items.Log.Discovered=discovered
+\\
+\\\\
+Oct.Code.Items.Log.Discovered=\\untranslated
 
 \\\\
 \\
@@ -20475,10 +21250,24 @@ Oct.Code.Items.Log.Produced=— изготовлено
 
 \\\\
 \\
+\\	Oct.Code.Items.Log.Received=received
+\\
+\\\\
+Oct.Code.Items.Log.Received=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Items.Log.Recovered=recovered
 \\
 \\\\
 Oct.Code.Items.Log.Recovered=— получено
+
+\\\\
+\\
+\\	Oct.Code.Items.Log.Refunded=refunded
+\\
+\\\\
+Oct.Code.Items.Log.Refunded=\\untranslated
 
 \\\\
 \\
@@ -20500,6 +21289,13 @@ Oct.Code.Items.Log.Rewarded=— награда
 \\
 \\\\
 Oct.Code.Items.Log.Returned=— возвращено
+
+\\\\
+\\
+\\	Oct.Code.Items.Log.Salary=salary
+\\
+\\\\
+Oct.Code.Items.Log.Salary=\\untranslated
 
 \\\\
 \\
@@ -20612,6 +21408,13 @@ Oct.Code.Items.Stats.Armor=Броня
 \\
 \\\\
 Oct.Code.Items.Stats.Damage=Урон
+
+\\\\
+\\
+\\	Oct.Code.Items.Stats.Capacity=Capacity
+\\
+\\\\
+Oct.Code.Items.Stats.Capacity=\\untranslated
 
 \\\\
 \\
@@ -20748,6 +21551,13 @@ Oct.Code.Kingdom.CannotRelocate.NoRuler=Нет правителя!
 
 \\\\
 \\
+\\	Oct.Code.Kingdom.Dissolved={kingdom} Dissolved!
+\\
+\\\\
+Oct.Code.Kingdom.Dissolved=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Kingdom.Size.Short.Large=Large
 \\
 \\\\
@@ -20790,10 +21600,87 @@ Oct.Code.Kingdom.Size={size} королевства
 
 \\\\
 \\
+\\	Oct.Code.Kingdom.RelativeStrength.MuchWeaker=Much Weaker
+\\
+\\\\
+Oct.Code.Kingdom.RelativeStrength.MuchWeaker=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Kingdom.RelativeStrength.Weaker=Weaker
+\\
+\\\\
+Oct.Code.Kingdom.RelativeStrength.Weaker=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Kingdom.RelativeStrength.Stronger=Stronger
+\\
+\\\\
+Oct.Code.Kingdom.RelativeStrength.Stronger=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Kingdom.RelativeStrength.MuchStronger=Much Stronger
+\\
+\\\\
+Oct.Code.Kingdom.RelativeStrength.MuchStronger=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Kingdom.RelativeStrength.Even=Even
+\\
+\\\\
+Oct.Code.Kingdom.RelativeStrength.Even=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Kingdom.Member.WantsToLeave={pawn} wants to leave
 \\
 \\\\
 Oct.Code.Kingdom.Member.WantsToLeave={pawn} хочет покинуть королевство
+
+\\\\
+\\
+\\	Oct.Code.Kingdom.ChooseEmblem=Choose Emblem
+\\
+\\\\
+Oct.Code.Kingdom.ChooseEmblem=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Kingdom.ChooseColor=Choose Color
+\\
+\\\\
+Oct.Code.Kingdom.ChooseColor=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Kingdom.Negotiate=Negotiate
+\\
+\\\\
+Oct.Code.Kingdom.Negotiate=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Kingdom.Strength.Allies=Allies
+\\
+\\\\
+Oct.Code.Kingdom.Strength.Allies=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Kingdom.VassalsOf=Vassals of {kingdom}
+\\
+\\\\
+Oct.Code.Kingdom.VassalsOf=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Kingdom.OverlordsOf=Overlords of {kingdom}
+\\
+\\\\
+Oct.Code.Kingdom.OverlordsOf=\\untranslated
 
 \\\\
 \\
@@ -20988,6 +21875,20 @@ Oct.Code.Loading.BuildingObjects=Создание объектов
 
 \\\\
 \\
+\\	Oct.Code.Locked.MessengerPerch=Requires a Messenger Perch
+\\
+\\\\
+Oct.Code.Locked.MessengerPerch=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Locked.NextAvailable=Next available in {timeframe}
+\\
+\\\\
+Oct.Code.Locked.NextAvailable=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Make.MinValue=Min Value
 \\
 \\\\
@@ -21163,10 +22064,66 @@ Oct.Code.Menu.SaveGame=Сохранить игру
 
 \\\\
 \\
+\\	Oct.Code.Menu.SubmitFortress=Submit Fortress
+\\
+\\\\
+Oct.Code.Menu.SubmitFortress=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Menu.SubmitFortress.Tooltip=Submit your base for consideration for inclusion as a base for AI Kingdoms to use.
+\\
+\\\\
+Oct.Code.Menu.SubmitFortress.Tooltip=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Menu.ReportAnIssue=Report an Issue
 \\
 \\\\
 Oct.Code.Menu.ReportAnIssue=Отчет об ошибке
+
+\\\\
+\\
+\\	Oct.Code.Mercenary.Extend.InsufficientCoins.Header=Insufficient Coins!
+\\
+\\\\
+Oct.Code.Mercenary.Extend.InsufficientCoins.Header=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Mercenary.Extend.InsufficientCoins.Contents=Secure more first.
+\\
+\\\\
+Oct.Code.Mercenary.Extend.InsufficientCoins.Contents=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Mercenary.Extend.Confirmation.Header=Extend {character}'s Contract?
+\\
+\\\\
+Oct.Code.Mercenary.Extend.Confirmation.Header=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Mercenary.Extend.Confirmation.Price=They want {price} to Extend.\n\nProceed?
+\\
+\\\\
+Oct.Code.Mercenary.Extend.Confirmation.Price=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Mercenary.Release.Confirmation.Header=Release {character}?
+\\
+\\\\
+Oct.Code.Mercenary.Release.Confirmation.Header=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Mercenary.Release.Confirmation.Price=Your deposit of {deposit} will be refunded when they return.\n\nProceed?
+\\
+\\\\
+Oct.Code.Mercenary.Release.Confirmation.Price=\\untranslated
 
 \\\\
 \\
@@ -21289,6 +22246,41 @@ Oct.Code.Mycologist.Cost={number} шт. напитков
 
 \\\\
 \\
+\\	Oct.Code.Negotate.Offer=Offer
+\\
+\\\\
+Oct.Code.Negotate.Offer=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Negotiate.AddConcession=Add Concession
+\\
+\\\\
+Oct.Code.Negotiate.AddConcession=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Negotiate.Header=Negotiate
+\\
+\\\\
+Oct.Code.Negotiate.Header=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Negotiate.PriorInfluence=Prior Influence
+\\
+\\\\
+Oct.Code.Negotiate.PriorInfluence=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Negotiate.NewInfluence=New Influence
+\\
+\\\\
+Oct.Code.Negotiate.NewInfluence=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.NewGame.DiscardSettings.Header=Discard Custom Settings?
 \\
 \\\\
@@ -21380,10 +22372,14 @@ Oct.Code.NewGame.Begin=Начать
 
 \\\\
 \\
-\\	Oct.Code.News.ChooseYourFate.Title=The Choose Your Fate Update
+\\	Oct.Code.News.Conquest.Title=Noble Fates: Conquest
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Code.News.ChooseYourFate.Title=Обновление «Выбери свою судьбу»
+=======
+Oct.Code.News.Conquest.Title=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -21394,9 +22390,10 @@ Oct.Code.News.Header={title} приветствует вас!
 
 \\\\
 \\
-\\	Oct.Code.News.ChooseYourFate.Details=Begin in a Living World and choose an emergent Origin Story or Create Your Own...<br>Build a Family and Raise Children to secure your Kingdom's Legacy...<br>Ascend and continue on in the same World!
+\\	Oct.Code.News.Conquest.Details=Conquer your Island via Diplomacy and Warfare!<br>Submit your base for use by other Kingdoms!<br>v0.29 saves are supported!
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Code.News.ChooseYourFate.Details=Начните свой путь в живом и развивающемся мире и выберите уже существующую историю зарождения или создайте свою собственную...<br>Создавайте семьи и растите детей, чтобы сохранить наследие своего королевства...<br>Возвысьтесь и продолжите играть в том же мире!
 
 \\\\
@@ -21412,6 +22409,9 @@ Oct.Code.News.Note=ПРИМЕЧАНИЕ
 \\
 \\\\
 Oct.Code.News.Version={title} ({version}) несовместимо с сохранениями версии {priorVersion}.<br>Чтобы продолжить играть в сохранения версии {priorVersion}, переключитесь на бета-версию игры {priorBranch} в Steam.
+=======
+Oct.Code.News.Conquest.Details=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -21597,7 +22597,7 @@ Oct.Code.Origin=История
 
 \\\\
 \\
-\\	Oct.Code.Overworld.KingdomAt={kingdom} are at {place}
+\\	Oct.Code.Overworld.KingdomAt={kingdom} live at {place}
 \\
 \\\\
 Oct.Code.Overworld.KingdomAt={kingdom} сейчас: {place}
@@ -21758,6 +22758,20 @@ Oct.Code.Petition.Results=Результаты
 
 \\\\
 \\
+\\	Oct.Code.Petitions.Place=Location
+\\
+\\\\
+Oct.Code.Petitions.Place=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Petitions.Difficulty=Difficulty
+\\
+\\\\
+Oct.Code.Petitions.Difficulty=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Petitions.Difficulty.Low=Low
 \\
 \\\\
@@ -21849,10 +22863,59 @@ Oct.Code.Petitions.Defend.Details.Title=Помочь: {partyName}.
 
 \\\\
 \\
+\\	Oct.Code.Petitions.AdoptBelief.Details.Title=Adopt the {belief} Principle.
+\\
+\\\\
+Oct.Code.Petitions.AdoptBelief.Details.Title=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Petitions.Demand.Details.Title=Send {demand}.
 \\
 \\\\
 Oct.Code.Petitions.Demand.Details.Title=Отправить: {demand}.
+
+\\\\
+\\
+\\	Oct.Code.Petitions.DeclareWar.Details.Title=Declare War on {target}.
+\\
+\\\\
+Oct.Code.Petitions.DeclareWar.Details.Title=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Petitions.Allegiance.Accept.Details.Title=Accept Allegiance from {target}.
+\\
+\\\\
+Oct.Code.Petitions.Allegiance.Accept.Details.Title=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Petitions.Allegiance.Swear.Details.Title=Swear Allegiance to {target}.
+\\
+\\\\
+Oct.Code.Petitions.Allegiance.Swear.Details.Title=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Petitions.Allegiance.Sever.Details.Title=Sever Allegiance of {target}.
+\\
+\\\\
+Oct.Code.Petitions.Allegiance.Sever.Details.Title=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Petitions.Allegiance.Release.Details.Title=Release Allegiance of {target}.
+\\
+\\\\
+Oct.Code.Petitions.Allegiance.Release.Details.Title=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Petitions.Allegiance.Break.Details.Title=Break Allegiance to {target}.
+\\
+\\\\
+Oct.Code.Petitions.Allegiance.Break.Details.Title=\\untranslated
 
 \\\\
 \\
@@ -21912,6 +22975,20 @@ Oct.Code.Petitions.Reward.Peace=Мир с королевством {kingdom}
 
 \\\\
 \\
+\\	Oct.Code.Petitions.Reward.Promise.Third.Kept={petitioner}: {concession}
+\\
+\\\\
+Oct.Code.Petitions.Reward.Promise.Third.Kept=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Petitions.Reward.Promise.Third.Keeps={petitioner}: {concession}{requirements}
+\\
+\\\\
+Oct.Code.Petitions.Reward.Promise.Third.Keeps=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Petitions.Enemies.Monsters=Monsters
 \\
 \\\\
@@ -21926,10 +23003,21 @@ Oct.Code.Petitions.Enemies.Rabids=Бешеные животные
 
 \\\\
 \\
-\\	Oct.Code.Petitions.Status.Waiting=Waiting
+\\	Oct.Code.Petitions.Status.Incoming=Incoming
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Code.Petitions.Status.Waiting=Ожидание
+=======
+Oct.Code.Petitions.Status.Incoming=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Petitions.Status.Messenger.Incoming=Messenger Incoming
+\\
+\\\\
+Oct.Code.Petitions.Status.Messenger.Incoming=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -21940,6 +23028,13 @@ Oct.Code.Petitions.Status.InProgress=В процессе
 
 \\\\
 \\
+\\	Oct.Code.Petitions.Status.Waiting=Waiting
+\\
+\\\\
+Oct.Code.Petitions.Status.Waiting=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Petitions.From=From
 \\
 \\\\
@@ -21947,6 +23042,7 @@ Oct.Code.Petitions.From=От
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Code.Petitions.Place=Location
 \\
 \\\\
@@ -21961,6 +23057,8 @@ Oct.Code.Petitions.Difficulty=Сложность
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	optional; replaces Oct.Code.Petitions.Time.Ago
 \\
 \\	Oct.Code.Petitions.Time.Ago.Advanced={time} ago
@@ -21990,6 +23088,13 @@ Oct.Code.Petitions.SendItems.Confirmation.Header=Отправить: {items}?
 \\
 \\\\
 Oct.Code.Petitions.SendItems.Confirmation=Отправить {count} из {total}, что есть в запасе?
+
+\\\\
+\\
+\\	Oct.Code.Petitions.SendItems.Choose.Header=Send {count} {items}
+\\
+\\\\
+Oct.Code.Petitions.SendItems.Choose.Header=\\untranslated
 
 \\\\
 \\
@@ -22252,10 +23357,14 @@ Oct.Code.Props.Burner.TemperatureDelta=Дельта температуры
 
 \\\\
 \\
-\\	Oct.Code.Props.Burner.TemperatureRange=Temperature Range
+\\	Oct.Code.Props.Burner.TemperatureVolume=Temperature Volume
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Code.Props.Burner.TemperatureRange=Диапазон температур
+=======
+Oct.Code.Props.Burner.TemperatureVolume=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -22462,10 +23571,14 @@ Oct.Code.Rabids.Defeated=Бешеные животные побеждены!
 
 \\\\
 \\
-\\	Oct.Code.Raid.Conquest.Dissolved={raiders} Dissolved!
+\\	Oct.Code.Raid.Defated.Player=Raid Defeated!
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Code.Raid.Conquest.Dissolved={raiders} распущены!
+=======
+Oct.Code.Raid.Defated.Player=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -22952,6 +24065,13 @@ Oct.Code.Rule.Hours.To=До
 
 \\\\
 \\
+\\	Oct.Code.Ruler.Influence.Modifier.Strength=Strength
+\\
+\\\\
+Oct.Code.Ruler.Influence.Modifier.Strength=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Rules.Timeframe=From {fromHour} To {toHour}
 \\
 \\\\
@@ -23148,6 +24268,20 @@ Oct.Code.Schedule.Header=График
 
 \\\\
 \\
+\\	Oct.Code.Selection.SelectMelee.Tooltip=Select Melee
+\\
+\\\\
+Oct.Code.Selection.SelectMelee.Tooltip=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Selection.SelectRainged.Tooltip=Select Ranged
+\\
+\\\\
+Oct.Code.Selection.SelectRainged.Tooltip=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Selection.Multiselect.Header=Select
 \\
 \\\\
@@ -23166,6 +24300,34 @@ Oct.Code.Selection.Cycle.Target=[ПКМ]: цель
 \\
 \\\\
 Oct.Code.Selection.Cycle.Selection=[ЛКМ]: выбрать
+
+\\\\
+\\
+\\	Oct.Code.SendItems.Confirm.Header=Ready?
+\\
+\\\\
+Oct.Code.SendItems.Confirm.Header=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.SendItems.Confirm.Details=Send these items?
+\\
+\\\\
+Oct.Code.SendItems.Confirm.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.SendItems.Included=Included
+\\
+\\\\
+Oct.Code.SendItems.Included=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.SendItems.Caption=Send...
+\\
+\\\\
+Oct.Code.SendItems.Caption=\\untranslated
 
 \\\\
 \\
@@ -23435,6 +24597,13 @@ Oct.Code.Stats.Health=Здоровье
 
 \\\\
 \\
+\\	Oct.Code.Stats.Melee=Melee
+\\
+\\\\
+Oct.Code.Stats.Melee=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Stats.Milk=Milk
 \\
 \\\\
@@ -23456,6 +24625,7 @@ Oct.Code.Stats.Stamina=Выносливость
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Code.Stats.Melee=Melee
 \\
 \\\\
@@ -23463,6 +24633,8 @@ Oct.Code.Stats.Melee=Ближний бой
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Code.Stats.Ranged=Ranged
 \\
 \\\\
@@ -23666,10 +24838,14 @@ Oct.Code.Stats.MaxHealth=Макс. здоровье
 
 \\\\
 \\
-\\	Oct.Code.Stats.AttackRate=AttackRate
+\\	Oct.Code.Stats.AttackFrequency=Attack Frequency
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Code.Stats.AttackRate=Скорость атаки
+=======
+Oct.Code.Stats.AttackFrequency=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -23771,10 +24947,14 @@ Oct.Code.ThirdPerson.CarriedItems=В руках
 
 \\\\
 \\
-\\	Oct.Code.Time.TimeFrame.Months={count}m
+\\	Oct.Code.Time.TimeFrame.Minutes={count}m
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Code.Time.TimeFrame.Months={count} мес.
+=======
+Oct.Code.Time.TimeFrame.Minutes=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -24114,6 +25294,13 @@ Oct.Code.Tools.Forage.Stage={type} ({stage})
 
 \\\\
 \\
+\\	Oct.Code.Trade.Quantity.Included=Included
+\\
+\\\\
+Oct.Code.Trade.Quantity.Included=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Trade.OfferFilter.Poor=Poor or better
 \\
 \\\\
@@ -24184,6 +25371,7 @@ Oct.Code.Trade.Quantity.Owned=Налич.
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Code.Trade.Quantity.Included=Included
 \\
 \\\\
@@ -24191,6 +25379,8 @@ Oct.Code.Trade.Quantity.Included=Включено
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Code.Trade.With=Trade with {character}
 \\
 \\\\
@@ -24569,6 +25759,13 @@ Oct.Code.Wedding.Arrange=Провести свадьбу: {eligible.short} и {s
 
 \\\\
 \\
+\\	Oct.Code.World.Party.Track=Track
+\\
+\\\\
+Oct.Code.World.Party.Track=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.World.EditPlace.Header=Edit Place
 \\
 \\\\
@@ -24692,6 +25889,148 @@ Oct.Code.Zones.Common.Remove=Удалить
 \\
 \\\\
 Oct.Code.Zones.Common.Destroy=Уничтожить
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Bog
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Blue
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Castle
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Cheap
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Coin
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Conquering
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Costly
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Dancing
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Defending
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Feasting
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Fist
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Flame
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Green
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Hammer
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Helping
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Lifting
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Sell
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Slapping
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Spooky
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Strong
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Sword
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=Yellow
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Verb.Neutral.strings+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Bard
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Bird
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Blip
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Border
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Cat
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Club/Club
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Club
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Dog
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Flag
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Hammer
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Ham
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Knife/Knives
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Slapper
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Sliver
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Sword
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Sworder
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=Title
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Noun.Neutral.strings+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Neutral.Plural.format=The {verb}
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Verb.Neutral.Plural.format=\\untranslated
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Neutral.Plural.format={noun}s
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Noun.Neutral.Plural.format=\\untranslated
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Name.Neutral.format={verb} {noun}
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Name.Neutral.format=\\untranslated
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Masculine.strings
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Verb.Masculine.strings+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Masculine.strings
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Noun.Masculine.strings+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Masculine.Plural.format=The {verb}
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Verb.Masculine.Plural.format=\\untranslated
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Masculine.Plural.format={noun}s
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Noun.Masculine.Plural.format=\\untranslated
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Name.Masculine.format={verb} {noun}
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Name.Masculine.format=\\untranslated
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Feminine.strings
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Verb.Feminine.strings+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Feminine.strings
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Noun.Feminine.strings+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Verb.Feminine.Plural.format=The {verb}
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Verb.Feminine.Plural.format=\\untranslated
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Noun.Feminine.Plural.format={noun}s
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Noun.Feminine.Plural.format=\\untranslated
+
+\\\\
+\\
+\\	Oct.Collectives.Mercenaries.Generators.Name.Feminine.format={verb} {noun}
+\\
+\\\\
+Oct.Collectives.Mercenaries.Generators.Name.Feminine.format=\\untranslated
 
 \\\\
 \\
@@ -25385,7 +26724,7 @@ Oct.Commands.Types.Mine.name=Добывать
 
 \\\\
 \\
-\\	Oct.Commands.Types.AddBarricade.name=Add Barricade
+\\	Oct.Commands.Types.AddBarricade.name=Add Barricade Holder
 \\
 \\\\
 Oct.Commands.Types.AddBarricade.name=Добавить баррикаду
@@ -25399,7 +26738,7 @@ Oct.Commands.Types.AddBarricade.issueTooltip=Добавляет держател
 
 \\\\
 \\
-\\	Oct.Commands.Types.RemoveBarricade.name=Remove Barricade
+\\	Oct.Commands.Types.RemoveBarricade.name=Remove Barricade Holder
 \\
 \\\\
 Oct.Commands.Types.RemoveBarricade.name=Убрать баррикаду
@@ -25735,10 +27074,14 @@ Oct.Commands.Types.Guard.name=Охранять:
 
 \\\\
 \\
-\\	Oct.Commands.Types.FireCatapult.name=Fire Catapult
+\\	Oct.Commands.Types.FirePropProjectile.name=Operate Prop
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Commands.Types.FireCatapult.name=Выстрелить из катапульты
+=======
+Oct.Commands.Types.FirePropProjectile.name=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -26064,6 +27407,266 @@ Oct.Conversations.Bandits.Evict.Failure.Denied.lines+=Не сегодня, др�
 
 \\\\
 \\
+\\	Oct.Conversations.DeliverJudgment.caption=Deliver Judgment
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.lines+=I surrender!
+\\	Oct.Conversations.DeliverJudgment.Surrender.lines+=We surrender!
+\\	Oct.Conversations.DeliverJudgment.Surrender.lines+=We give up!
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: leader
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.lines+=As you should.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.lines+=That's what I thought.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.lines+=Aye.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.lines+=It's about time.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.prompt=Choose {pawn}'s Fate...
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.NoMercy.caption=Grant No Mercy
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.NoMercy.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.NoMercy.tooltip=Reject their Surrender.<br><br>Continue the Fight.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.NoMercy.tooltip=\\untranslated
+
+\\\\
+\\
+\\	speaker: leader
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.NoMercy.step.lines+=Nope.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.NoMercy.step.lines+=Mercy's not in the cards.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.NoMercy.step.lines+=Not today.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.NoMercy.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.NoMercy.Plea.lines+=Oh... Gods....
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.NoMercy.Plea.lines+=...
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.NoMercy.Plea.lines+=The Gods shall see that you get yours!
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.NoMercy.Plea.lines+=The Gods will make you pay!
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.NoMercy.Plea.lines+=Dear... Gods...
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.NoMercy.Plea.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Execute.caption=Execute Them
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Execute.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Execute.tooltip={pawn} is Executed.<br><br>{pawn.kingdom} are Dissolved.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Execute.tooltip=\\untranslated
+
+\\\\
+\\
+\\	speaker: leader
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Execute.step.lines+=See you on the other side.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Execute.step.lines+=Say hello to your maker.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Execute.step.lines+=It's time to meet your maker.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Execute.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Execute.Moment.targetLine=No, please!
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Execute.Moment.targetLine=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Exile.caption=Exile Them
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Exile.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Exile.tooltip={pawn.kingdom} are Dissolved.<br><br>{pawn} is released to Wander Noberia in Exile.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Exile.tooltip=\\untranslated
+
+\\\\
+\\
+\\	speaker: leader
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Exile.step.lines+=Leave here. This is the end of {pawn.kingdom}.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Exile.step.lines+=Leave. Quickly. Before I change my mind.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Exile.step.lines+=Get out of here. This party's over.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Exile.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Exile.Accept.lines+=I appreciate your mercy, {pawn.address}.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Exile.Accept.lines+=Your mercy is appreciated.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Exile.Accept.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Imprison.caption=Imprison Them
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Imprison.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Imprison.tooltip={pawn} becomes your Prisoner.<br><br>{pawn.kingdom} are Dissolved.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Imprison.tooltip=\\untranslated
+
+\\\\
+\\
+\\	speaker: leader
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Imprison.step.lines+=Come with me. You shall witness our glory in chains.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Imprison.step.lines+=Let's see how you like chains.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Imprison.step.lines+=The chains for you.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Imprison.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Imprison.Capture.targetLine=Alright, I don't want any trouble.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Imprison.Capture.targetLine=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Vassalize.caption=Force Allegiance
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Vassalize.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Vassalize.tooltip=Make {pawn.kingdom} your Vassals.<br><br>{pawn} remains in charge.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Vassalize.tooltip=\\untranslated
+
+\\\\
+\\
+\\	speaker: leader
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Vassalize.step.lines+=Bend the knee.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Vassalize.step.lines+=Join me.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Vassalize.step.lines+=This all belongs to me now.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Vassalize.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Vassalize.Script.Favor.reason=Forced Allegiance from us
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Vassalize.Script.Favor.reason=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Vassalize.Accept.lines+=I... Accept.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Vassalize.Accept.lines+=Absolutely, {pawn.address}.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Vassalize.Accept.lines+=As you wish, {pawn.address}.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Vassalize.Accept.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Release.caption=Grant Peace
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Release.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Release.tooltip=The War with {pawn.kingdom} ends.<br><br>{pawn} remains in charge.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Release.tooltip=\\untranslated
+
+\\\\
+\\
+\\	speaker: leader
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Release.step.lines+=This madness ends here.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Release.step.lines+=This war is over.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Release.step.lines+=Let's end this before anyone else gets hurt.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Release.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Release.Script.Favor.reason=Granted Peace
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Release.Script.Favor.reason=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Release.Mercy.lines+=Thank you for your Mercy.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Release.Mercy.lines+=Of course, thank you.
+\\	Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Release.Mercy.lines+=As you wish.
+\\
+\\\\
+Oct.Conversations.DeliverJudgment.Surrender.Accept.Judgment.Release.Mercy.lines+=\\untranslated
+
+\\\\
+\\
 \\	Oct.Conversations.Free.caption=Free them...
 \\
 \\\\
@@ -26071,21 +27674,50 @@ Oct.Conversations.Free.caption=Освободить...
 
 \\\\
 \\
-\\	speaker: ruler
-\\
-\\	Oct.Conversations.Free.Time.line=It's time to let you go free.
+\\	Oct.Conversations.Free.Offer.prompt=Free {pawn}?
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Conversations.Free.Time.line=Пора освободить тебя.
+=======
+Oct.Conversations.Free.Offer.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.Free.Offer.Yes.caption=Yes
+\\
+\\\\
+Oct.Conversations.Free.Offer.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Conversations.Free.Offer.Yes.Time.line=It's time to let you go free.
+\\
+\\\\
+Oct.Conversations.Free.Offer.Yes.Time.line=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
 \\	speaker: pawn
 \\
-\\	Oct.Conversations.Free.Time.Thanks.line=Thank you for showing mercy.
+\\	Oct.Conversations.Free.Offer.Yes.Time.Thanks.line=Thank you for showing mercy.
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Conversations.Free.Time.Thanks.line=Спасибо за милосердие!
+=======
+Oct.Conversations.Free.Offer.Yes.Time.Thanks.line=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.Free.Offer.No.caption=No
+\\
+\\\\
+Oct.Conversations.Free.Offer.No.caption=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -26263,6 +27895,33 @@ Oct.Conversations.Kidnappers.Rescue.Success.steps.lines+=Ладно-ладно, 
 
 \\\\
 \\
+\\	speaker: pawn
+\\
+\\	Oct.Conversations.Kingdom.Defense.Discovered.steps.lines+=Get out of 'ere!
+\\
+\\\\
+Oct.Conversations.Kingdom.Defense.Discovered.steps.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Conversations.Kingdom.Defense.Defended.steps.lines+=Go on now, Git!
+\\
+\\\\
+Oct.Conversations.Kingdom.Defense.Defended.steps.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Conversations.Kingdom.Defense.Ambushed.steps.lines+=This means War!
+\\
+\\\\
+Oct.Conversations.Kingdom.Defense.Ambushed.steps.lines+=\\untranslated
+
+\\\\
+\\
 \\	Oct.Conversations.LowCompatibility.line=WARNING: {pawn} has Low Compatibility with {ruler}. It will be difficult to keep them happy.
 \\
 \\\\
@@ -26319,7 +27978,7 @@ Oct.Conversations.Militia.Defense.Retreated.steps.lines+=Отступаем!
 
 \\\\
 \\
-\\	Oct.Conversations.PromoteToNoble.caption=Promote to Noble...
+\\	Oct.Conversations.PromoteToNoble.caption=Offer Nobility...
 \\
 \\\\
 Oct.Conversations.PromoteToNoble.caption=Повысить до знати...
@@ -26378,6 +28037,7 @@ Oct.Conversations.PromoteToNoble.Offer.Yes.Happy.Time.Ask.Yes.step.line=Коне
 \\
 \\	speaker: pawn
 \\
+<<<<<<< HEAD
 \\	Oct.Conversations.PromoteToNoble.Offer.Yes.Happy.Time.Ask.No.step.line=No, you haven't treated me well enough.
 \\
 \\\\
@@ -26388,9 +28048,19 @@ Oct.Conversations.PromoteToNoble.Offer.Yes.Happy.Time.Ask.No.step.line=Нет, �
 \\	speaker: pawn
 \\
 \\	Oct.Conversations.PromoteToNoble.Offer.Yes.Happy.Time.Ask.No.Continued.line=Treat me better if you'd like my willing patronage.
+=======
+\\	Oct.Conversations.PromoteToNoble.Offer.Yes.Happy.Time.Ask.No.Continued.line=No, I don't like you well enough to serve willingly.
+>>>>>>> upstream/main
 \\
 \\\\
 Oct.Conversations.PromoteToNoble.Offer.Yes.Happy.Time.Ask.No.Continued.line=Исправь это, чтобы заслужить мое искреннее желание служить.
+
+\\\\
+\\
+\\	Oct.Conversations.PromoteToNoble.Offer.No.caption=No
+\\
+\\\\
+Oct.Conversations.PromoteToNoble.Offer.No.caption=\\untranslated
 
 \\\\
 \\
@@ -26434,6 +28104,52 @@ Oct.Conversations.PromoteToSerf.Contribute.Eventually.Yes.step.line=Как же�
 \\
 \\\\
 Oct.Conversations.PromoteToSerf.Contribute.Eventually.No.step.line=Я не буду работать бесплатно! Освободи меня, я хочу решать, что мне делать!
+
+\\\\
+\\
+\\	Oct.Conversations.Release.caption=End Contract...
+\\
+\\\\
+Oct.Conversations.Release.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.Release.Offer.prompt=End {pawn}'s Contract?
+\\
+\\\\
+Oct.Conversations.Release.Offer.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.Release.Offer.Yes.caption=Yes
+\\
+\\\\
+Oct.Conversations.Release.Offer.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Conversations.Release.Offer.Yes.Time.line=We no longer need your services.
+\\
+\\\\
+Oct.Conversations.Release.Offer.Yes.Time.line=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Conversations.Release.Offer.Yes.Time.Thanks.line=Oh? Nice!
+\\
+\\\\
+Oct.Conversations.Release.Offer.Yes.Time.Thanks.line=\\untranslated
+
+\\\\
+\\
+\\	Oct.Conversations.Release.Offer.No.caption=No
+\\
+\\\\
+Oct.Conversations.Release.Offer.No.caption=\\untranslated
 
 \\\\
 \\
@@ -26530,6 +28246,22 @@ Oct.Conversations.SwitchSides.Unhappy.lines+={pawn.address}, мне это... ж
 Oct.Conversations.SwitchSides.Unhappy.lines+=Прости, {ruler}.
 Oct.Conversations.SwitchSides.Unhappy.lines+={ruler}, тебе явно было известно, что к этому идет.
 Oct.Conversations.SwitchSides.Unhappy.lines+={ruler}, у меня не было выбора.
+
+\\\\
+\\
+\\	Oct.Conversations.Triggered.caption=Triggered...
+\\
+\\\\
+Oct.Conversations.Triggered.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Conversations.Triggered.NoTranslation.line={line}
+\\
+\\\\
+Oct.Conversations.Triggered.NoTranslation.line=\\untranslated
 
 \\\\
 \\
@@ -27111,6 +28843,92 @@ Oct.Crisis.AttackFriendly.Conversation.NobleToSelf.Ask.Decision.No.caption=Не�
 \\
 \\	speaker: pawn
 \\
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.lines+={pawn.address}, are you sure you want me to attack {target.faction}?
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.lines+={pawn.address}, there may be repercussions if I attack {target.faction}. Shall I?
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.lines+=You want me to attack {target.faction}?!?
+\\
+\\\\
+Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.Decision.prompt=Have {pawn} attack {target.faction}?
+\\
+\\\\
+Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.Decision.Yes.step.lines+=Yes, do as I command.
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.Decision.Yes.step.lines+=Of course, I do not make mistakes.
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.Decision.Yes.step.lines+=Yes! How dare you question an order from me!
+\\
+\\\\
+Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.Decision.Yes.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.Decision.No.caption=No
+\\
+\\\\
+Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.Decision.No.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.Decision.No.step.lines+=No, of course not.
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.Decision.No.step.lines+=Oh no, my mistake.
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.Decision.No.step.lines+=No, no. Good catch.
+\\
+\\\\
+Oct.Crisis.AttackFriendly.Base.Conversation.NobleToNoble.Ask.Decision.No.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn; thought
+\\
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToSelf.Ask.lines+=Shall I attack {target.faction}?
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToSelf.Ask.lines+=There may be repercussions if I attack {target.faction}. Am I sure?
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToSelf.Ask.lines+=Wait, attack {target.faction}?!?
+\\
+\\\\
+Oct.Crisis.AttackFriendly.Base.Conversation.NobleToSelf.Ask.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToSelf.Ask.Decision.prompt=Attack {target.faction}?
+\\
+\\\\
+Oct.Crisis.AttackFriendly.Base.Conversation.NobleToSelf.Ask.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToSelf.Ask.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Crisis.AttackFriendly.Base.Conversation.NobleToSelf.Ask.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.AttackFriendly.Base.Conversation.NobleToSelf.Ask.Decision.No.caption=No
+\\
+\\\\
+Oct.Crisis.AttackFriendly.Base.Conversation.NobleToSelf.Ask.Decision.No.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
 \\	Oct.Crisis.ButcherFriendly.Conversation.NobleToRuler.Ask.lines+={pawn.address}, are we sure we want to butcher {target}?
 \\	Oct.Crisis.ButcherFriendly.Conversation.NobleToRuler.Ask.lines+={pawn.address}, I don't feel comfortable butchering {target}. Are you sure?
 \\	Oct.Crisis.ButcherFriendly.Conversation.NobleToRuler.Ask.lines+=You want me to butcher {target}?!?
@@ -27458,6 +29276,140 @@ Oct.Crisis.CaptureFriendly.Conversation.RulerToSelf.Ask.Decision.No.Nudge.lines+
 Oct.Crisis.CaptureFriendly.Conversation.RulerToSelf.Ask.Decision.No.Nudge.Confirm.lines+=Ах, точно. Нет.
 Oct.Crisis.CaptureFriendly.Conversation.RulerToSelf.Ask.Decision.No.Nudge.Confirm.lines+=Да, это верно. Отмена.
 Oct.Crisis.CaptureFriendly.Conversation.RulerToSelf.Ask.Decision.No.Nudge.Confirm.lines+=Нет. Пока нет...
+
+\\\\
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.tooltip={target} is Executed.<br><br>The fight continues until {target.kingdom} forces Flee and the Kingdom Dissolves.
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.tooltip=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.caption=No
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.tooltip=The fight continues until {target} Surrenders.<br><br>You decide their Fate then.
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.tooltip=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=I do not yield!
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=I do not Surrender!
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=I will not Surrender!
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=Do as you wish with me, my forces shall fight on!
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToNoble.Ask.lines+={pawn.address}, Execute {target} before they've Surrendered?
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToNoble.Ask.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.prompt=Execute {target}?
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=Yes, do as I command.
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=Of course, I do not make mistakes.
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=Yes! How dare you question an order from me!
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=No, of course not.
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=Oh no, my mistake.
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=No, no. Good catch.
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn; thought
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToSelf.Ask.lines+=Hrm... Execute {target} before they've Surrendered?
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToSelf.Ask.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.tooltip={target} is Captured.<br><br>The fight continues until {target.kingdom} forces Flee and the Kingdom Dissolves.
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.tooltip=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.caption=No
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.tooltip=The fight continues until {target} Surrenders.<br><br>You decide their Fate then.
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.tooltip=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToNoble.Ask.lines+={pawn.address}, Capture {target} before they've Surrendered?
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToNoble.Ask.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.prompt=Capture {target}?
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn; thought
+\\
+\\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToSelf.Ask.lines+=Hrm... Capture {target} before they've Surrendered?
+\\
+\\\\
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToSelf.Ask.lines+=\\untranslated
 
 \\\\
 \\
@@ -28989,8 +30941,6 @@ Oct.Grammar.Lines.Opinion.Third.Third.Third.results+=^[Oct.Grammar.Opinion.Noun.
 \\
 \\	Oct.Grammar.Lines.Alignment.Generic.results+=<Oct.Grammar.Noun.First.Think> {grammar.alignmentStatement}
 \\	Oct.Grammar.Lines.Alignment.Generic.results+=<Oct.Grammar.Noun.First.Think> that {grammar.alignmentStatement}
-\\	Oct.Grammar.Lines.Alignment.Generic.results+=<Oct.Grammar.Noun.First.Think> {grammar.alignmentStatement}
-\\	Oct.Grammar.Lines.Alignment.Generic.results+=<Oct.Grammar.Noun.First.Think> that {grammar.alignmentStatement}
 \\	Oct.Grammar.Lines.Alignment.Generic.results+={grammar.alignmentStatement}
 \\
 \\\\
@@ -30223,6 +32173,97 @@ Oct.Information.HighLevel.Alignments.name=Мировоззрения
 
 \\\\
 \\
+\\	Oct.Information.MoralInteraction.Surrender.Rejected.details={interacter.con(I,you,{interacter})} rejected {interactee.con(my,your,{interactee}'s)} surrender
+\\
+\\\\
+Oct.Information.MoralInteraction.Surrender.Rejected.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Conquered.firstVerb=conquered
+\\
+\\\\
+Oct.Information.MoralInteraction.Conquered.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Conquered.secondVerb=conquered
+\\
+\\\\
+Oct.Information.MoralInteraction.Conquered.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Conquered.thirdVerb=conquered
+\\
+\\\\
+Oct.Information.MoralInteraction.Conquered.thirdVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Judgment.Executed.details={interacter.con(I,you,{interacter})} executed {interactee.con(me,you,{interactee})}
+\\
+\\\\
+Oct.Information.MoralInteraction.Judgment.Executed.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Judgment.Exiled.details={interacter.con(I,you,{interacter})} exiled {interactee.con(me,you,{interactee})}
+\\
+\\\\
+Oct.Information.MoralInteraction.Judgment.Exiled.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Imprisoned.firstVerb=imprisoned
+\\
+\\\\
+Oct.Information.MoralInteraction.Imprisoned.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Imprisoned.secondVerb=imprisoned
+\\
+\\\\
+Oct.Information.MoralInteraction.Imprisoned.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Imprisoned.thirdVerb=imprisoned
+\\
+\\\\
+Oct.Information.MoralInteraction.Imprisoned.thirdVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Surrender.Accepted.details={interacter.con(I,you,{interacter})} accepted {interactee.con(my,your,{interactee}'s)} surrender
+\\
+\\\\
+Oct.Information.MoralInteraction.Surrender.Accepted.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Allegiance.Severed.details=^{interacter.kingdom.con(we,you,{interacter.kingdom})} severed {interactee.kingdom.con(our Allegiance,your Allegiance,the Allegiance of {interactee.kingdom})}
+\\
+\\\\
+Oct.Information.MoralInteraction.Allegiance.Severed.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Allegiance.Broke.details=^{interacter.kingdom.con(we,you,{interacter.kingdom})} broke {interacter.kingdom.con(our,your,their)} Allegiance to {interactee.kingdom.con(us,you,{interactee.kingdom})}
+\\
+\\\\
+Oct.Information.MoralInteraction.Allegiance.Broke.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Judgment.Vassalized.details=^{interacter.kingdom.con(we,you,{interacter.kingdom})} forced Allegiance from {interactee.kingdom.con(us,you,{interactee.kingdom})}
+\\
+\\\\
+Oct.Information.MoralInteraction.Judgment.Vassalized.details=\\untranslated
+
+\\\\
+\\
 \\	Oct.Information.MoralInteraction.Ambushed.firstVerb=ambushed
 \\
 \\\\
@@ -30241,6 +32282,69 @@ Oct.Information.MoralInteraction.Ambushed.secondVerb=недавно: напад�
 \\
 \\\\
 Oct.Information.MoralInteraction.Ambushed.thirdVerb=недавно: нападаю из засады на
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.StartedDishonorableWar.firstVerb=started a dishonorable war with
+\\
+\\\\
+Oct.Information.MoralInteraction.StartedDishonorableWar.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.StartedDishonorableWar.secondVerb=started a dishonorable war with
+\\
+\\\\
+Oct.Information.MoralInteraction.StartedDishonorableWar.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.StartedDishonorableWar.thirdVerb=started a dishonorable war with
+\\
+\\\\
+Oct.Information.MoralInteraction.StartedDishonorableWar.thirdVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Killed.firstVerb=killed
+\\
+\\\\
+Oct.Information.MoralInteraction.Killed.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Killed.secondVerb=killed
+\\
+\\\\
+Oct.Information.MoralInteraction.Killed.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Killed.thirdVerb=killed
+\\
+\\\\
+Oct.Information.MoralInteraction.Killed.thirdVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Captured.firstVerb=captured
+\\
+\\\\
+Oct.Information.MoralInteraction.Captured.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Captured.secondVerb=captured
+\\
+\\\\
+Oct.Information.MoralInteraction.Captured.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Captured.thirdVerb=captured
+\\
+\\\\
+Oct.Information.MoralInteraction.Captured.thirdVerb=\\untranslated
 
 \\\\
 \\
@@ -30295,6 +32399,7 @@ Oct.Information.MoralInteraction.Butchered.thirdVerb=недавно: разде�
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Information.MoralInteraction.Captured.firstVerb=captured
 \\
 \\\\
@@ -30316,6 +32421,8 @@ Oct.Information.MoralInteraction.Captured.thirdVerb=недавно: захват
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Information.MoralInteraction.Freed.firstVerb=freed
 \\
 \\\\
@@ -30578,6 +32685,27 @@ Oct.Information.MoralInteraction.Intro.TookMercy.thirdVerb=недавно: жа�
 
 \\\\
 \\
+\\	Oct.Information.MoralInteraction.OfferedPeace.firstVerb=offered peace to
+\\
+\\\\
+Oct.Information.MoralInteraction.OfferedPeace.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.OfferedPeace.secondVerb=offered peace to
+\\
+\\\\
+Oct.Information.MoralInteraction.OfferedPeace.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.OfferedPeace.thirdVerb=offered peace to
+\\
+\\\\
+Oct.Information.MoralInteraction.OfferedPeace.thirdVerb=\\untranslated
+
+\\\\
+\\
 \\	Oct.Information.MoralInteraction.AcceptedPeace.firstVerb=accepted peace with
 \\
 \\\\
@@ -30683,6 +32811,7 @@ Oct.Information.MoralInteraction.Fraternizers.GrantedAmnesty.thirdVerb=неда�
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Information.MoralInteraction.Criminals.Evicted.firstVerb=evicted
 \\
 \\\\
@@ -30704,6 +32833,8 @@ Oct.Information.MoralInteraction.Criminals.Evicted.thirdVerb=недавно: в�
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Information.MoralInteraction.Quest.Completed.firstVerb=helped
 \\
 \\\\
@@ -30725,6 +32856,69 @@ Oct.Information.MoralInteraction.Quest.Completed.thirdVerb=недавно: пр�
 
 \\\\
 \\
+\\	Oct.Information.MoralInteraction.Gift.Player.Promised.firstVerb=promised a gift to
+\\
+\\\\
+Oct.Information.MoralInteraction.Gift.Player.Promised.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Gift.Player.Promised.secondVerb=promised a gift to
+\\
+\\\\
+Oct.Information.MoralInteraction.Gift.Player.Promised.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Gift.Player.Promised.thirdVerb=promised a gift to
+\\
+\\\\
+Oct.Information.MoralInteraction.Gift.Player.Promised.thirdVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Gift.Player.Offered.firstVerb=offered a gift to
+\\
+\\\\
+Oct.Information.MoralInteraction.Gift.Player.Offered.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Gift.Player.Offered.secondVerb=offered a gift to
+\\
+\\\\
+Oct.Information.MoralInteraction.Gift.Player.Offered.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Gift.Player.Offered.thirdVerb=offered a gift to
+\\
+\\\\
+Oct.Information.MoralInteraction.Gift.Player.Offered.thirdVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Demand.Player.firstVerb=demanded Tribute from
+\\
+\\\\
+Oct.Information.MoralInteraction.Demand.Player.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Demand.Player.secondVerb=demanded Tribute from
+\\
+\\\\
+Oct.Information.MoralInteraction.Demand.Player.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Demand.Player.thirdVerb=demanded Tribute from
+\\
+\\\\
+Oct.Information.MoralInteraction.Demand.Player.thirdVerb=\\untranslated
+
+\\\\
+\\
 \\	Oct.Information.MoralInteraction.Demand.Met.firstVerb=met demand from
 \\
 \\\\
@@ -30743,6 +32937,27 @@ Oct.Information.MoralInteraction.Demand.Met.secondVerb=недавно: выпо�
 \\
 \\\\
 Oct.Information.MoralInteraction.Demand.Met.thirdVerb=недавно: выполняю требования
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Promise.Kept.firstVerb=kept a promise to
+\\
+\\\\
+Oct.Information.MoralInteraction.Promise.Kept.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Promise.Kept.secondVerb=kept a promise to
+\\
+\\\\
+Oct.Information.MoralInteraction.Promise.Kept.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Promise.Kept.thirdVerb=kept a promise to
+\\
+\\\\
+Oct.Information.MoralInteraction.Promise.Kept.thirdVerb=\\untranslated
 
 \\\\
 \\
@@ -31019,6 +33234,27 @@ Oct.Information.MoralInteraction.Bandits.RansomedItemsFrom.thirdVerb=недав�
 
 \\\\
 \\
+\\	Oct.Information.MoralInteraction.Quest.Failed.firstVerb=failed to help
+\\
+\\\\
+Oct.Information.MoralInteraction.Quest.Failed.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Quest.Failed.secondVerb=failed to help
+\\
+\\\\
+Oct.Information.MoralInteraction.Quest.Failed.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Quest.Failed.thirdVerb=failed to help
+\\
+\\\\
+Oct.Information.MoralInteraction.Quest.Failed.thirdVerb=\\untranslated
+
+\\\\
+\\
 \\	Oct.Information.MoralInteraction.Need.Unmet.firstVerb=failed to meet an expectation for
 \\
 \\\\
@@ -31124,6 +33360,7 @@ Oct.Information.MoralInteraction.SuccessfullyRaided.thirdVerb=недавно: у
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Information.MoralInteraction.Raided.firstVerb=raided
 \\
 \\\\
@@ -31166,6 +33403,8 @@ Oct.Information.MoralInteraction.Quest.Failed.thirdVerb=недавно: не п�
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Information.MoralInteraction.StartedFight.firstVerb=started a fight with
 \\
 \\\\
@@ -31418,24 +33657,78 @@ Oct.Information.MoralInteraction.Fraternizers.Judged.thirdVerb=недавно: �
 
 \\\\
 \\
-\\	Oct.Information.MoralInteraction.Killed.firstVerb=killed
+\\	Oct.Information.MoralInteraction.Criminals.Evicted.firstVerb=evicted
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Information.MoralInteraction.Killed.firstVerb=недавно: убиваю
+=======
+Oct.Information.MoralInteraction.Criminals.Evicted.firstVerb=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	Oct.Information.MoralInteraction.Killed.secondVerb=killed
+\\	Oct.Information.MoralInteraction.Criminals.Evicted.secondVerb=evicted
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Information.MoralInteraction.Killed.secondVerb=недавно: убиваю
+=======
+Oct.Information.MoralInteraction.Criminals.Evicted.secondVerb=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	Oct.Information.MoralInteraction.Killed.thirdVerb=killed
+\\	Oct.Information.MoralInteraction.Criminals.Evicted.thirdVerb=evicted
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Information.MoralInteraction.Killed.thirdVerb=недавно: убиваю
+=======
+Oct.Information.MoralInteraction.Criminals.Evicted.thirdVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Raided.firstVerb=raided
+\\
+\\\\
+Oct.Information.MoralInteraction.Raided.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Raided.secondVerb=raided
+\\
+\\\\
+Oct.Information.MoralInteraction.Raided.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Raided.thirdVerb=raided
+\\
+\\\\
+Oct.Information.MoralInteraction.Raided.thirdVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.AttemptedToConquer.firstVerb=attempted to conquer
+\\
+\\\\
+Oct.Information.MoralInteraction.AttemptedToConquer.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.AttemptedToConquer.secondVerb=attempted to conquer
+\\
+\\\\
+Oct.Information.MoralInteraction.AttemptedToConquer.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.AttemptedToConquer.thirdVerb=attempted to conquer
+\\
+\\\\
+Oct.Information.MoralInteraction.AttemptedToConquer.thirdVerb=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -31562,6 +33855,48 @@ Oct.Information.MoralInteraction.Gift.Rejected.secondVerb=недавно: отв
 \\
 \\\\
 Oct.Information.MoralInteraction.Gift.Rejected.thirdVerb=недавно: отвергаю подарок от
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Quest.Failed.Ally.firstVerb=failed to help
+\\
+\\\\
+Oct.Information.MoralInteraction.Quest.Failed.Ally.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Quest.Failed.Ally.secondVerb=failed to help
+\\
+\\\\
+Oct.Information.MoralInteraction.Quest.Failed.Ally.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Quest.Failed.Ally.thirdVerb=failed to help
+\\
+\\\\
+Oct.Information.MoralInteraction.Quest.Failed.Ally.thirdVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Promise.Broke.firstVerb=broke a promise to
+\\
+\\\\
+Oct.Information.MoralInteraction.Promise.Broke.firstVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Promise.Broke.secondVerb=broke a promise to
+\\
+\\\\
+Oct.Information.MoralInteraction.Promise.Broke.secondVerb=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Promise.Broke.thirdVerb=broke a promise to
+\\
+\\\\
+Oct.Information.MoralInteraction.Promise.Broke.thirdVerb=\\untranslated
 
 \\\\
 \\
@@ -31726,6 +34061,7 @@ Oct.Information.MoralInteraction.AllowedDeath.thirdVerb=недавно: допу
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Information.MoralInteraction.Imprisoned.firstVerb=imprisoned
 \\
 \\\\
@@ -31747,6 +34083,8 @@ Oct.Information.MoralInteraction.Imprisoned.thirdVerb=недавно: арест
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Information.MoralInteraction.HandedOver.grammar.results+=^<Oct.Grammar.Noun.First.Generic where grammar.noun=grammar.interacter> handed <Oct.Grammar.Noun.Third.Generic where grammar.noun=grammar.interactee> over to {opposee.kingdom}.
 \\	Oct.Information.MoralInteraction.HandedOver.grammar.results+=^<Oct.Grammar.Noun.First.Generic where grammar.noun=grammar.interacter> extradited <Oct.Grammar.Noun.Third.Generic where grammar.noun=grammar.interactee> to {opposee.kingdom}.
 \\
@@ -31807,6 +34145,7 @@ Oct.Information.MoralInteraction.Exhumed.thirdVerb=недавно: эксгум�
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Information.MoralInteraction.Conquered.firstVerb=conquered
 \\
 \\\\
@@ -31828,6 +34167,8 @@ Oct.Information.MoralInteraction.Conquered.thirdVerb=недавно: захва�
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Information.MoralInteraction.RefusedToProtect.firstVerb=refused to protect
 \\
 \\\\
@@ -31846,6 +34187,55 @@ Oct.Information.MoralInteraction.RefusedToProtect.secondVerb=недавно: о�
 \\
 \\\\
 Oct.Information.MoralInteraction.RefusedToProtect.thirdVerb=недавно: отказываюсь защитить
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Allegiance.Offered.details=^{interacter.kingdom.con(we,you,{interacter.kingdom})} offered Allegiance to {interactee.kingdom.con(us,you,{interactee.kingdom})}
+\\
+\\\\
+Oct.Information.MoralInteraction.Allegiance.Offered.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Allegiance.Requested.details=^{interacter.kingdom.con(we,you,{interacter.kingdom})} requested Allegiance from {interactee.kingdom.con(us,you,{interactee.kingdom})}
+\\
+\\\\
+Oct.Information.MoralInteraction.Allegiance.Requested.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Allegiance.Request.Accepted.details=^{interacter.kingdom.con(we,you,{interacter.kingdom})} accepted {interactee.kingdom.con(our,your,the {interactee.kingdom.singular})} request for Allegiance
+\\
+\\\\
+Oct.Information.MoralInteraction.Allegiance.Request.Accepted.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Allegiance.Offer.Accepted.details=^{interacter.kingdom.con(we,you,{interacter.kingdom})} accepted {interactee.kingdom.con(our,your,the {interactee.kingdom.singular})} offer of Allegiance
+\\
+\\\\
+Oct.Information.MoralInteraction.Allegiance.Offer.Accepted.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Allegiance.Offer.Rejected.details=^{interacter.kingdom.con(we,you,{interacter.kingdom})} rejected {interactee.kingdom.con(our,your,the {interactee.kingdom.singular})} offer of Allegiance
+\\
+\\\\
+Oct.Information.MoralInteraction.Allegiance.Offer.Rejected.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Allegiance.Request.Rejected.details=^{interacter.kingdom.con(we,you,{interacter.kingdom})} rejected {interactee.kingdom.con(our,your,the {interactee.kingdom.singular})} request for Allegiance
+\\
+\\\\
+Oct.Information.MoralInteraction.Allegiance.Request.Rejected.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Information.MoralInteraction.Allegiance.Released.details=^{interacter.kingdom.con(we,you,{interacter.kingdom})} released {interactee.kingdom.con(us,you,{interactee.kingdom})} from {interactee.kingdom.con(our,your,their)} Allegiance
+\\
+\\\\
+Oct.Information.MoralInteraction.Allegiance.Released.details=\\untranslated
 
 \\\\
 \\
@@ -32385,6 +34775,34 @@ Oct.Items.Armor.Plate.Vembraces.Bronze.name=бронзовые латные на
 \\
 \\\\
 Oct.Items.Armor.Plate.Vembraces.Steel.name=стальные латные наручи
+
+\\\\
+\\
+\\	Oct.Items.BatteringRam.Bronze.name=Bronze Battering Ram
+\\
+\\\\
+Oct.Items.BatteringRam.Bronze.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.BatteringRam.Bronze.pluralName=Bronze Battering Rams
+\\
+\\\\
+Oct.Items.BatteringRam.Bronze.pluralName=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.BatteringRam.Steel.name=Steel Battering Ram
+\\
+\\\\
+Oct.Items.BatteringRam.Steel.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.BatteringRam.Steel.pluralName=Steel Battering Rams
+\\
+\\\\
+Oct.Items.BatteringRam.Steel.pluralName=\\untranslated
 
 \\\\
 \\
@@ -33373,6 +35791,13 @@ Oct.Items.Categories.Gear.Tools.GrapplingHooks.name=Кошки
 
 \\\\
 \\
+\\	Oct.Items.Categories.Gear.Tools.BatteringRams.name=Battering Rams
+\\
+\\\\
+Oct.Items.Categories.Gear.Tools.BatteringRams.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Items.Categories.Food.Meals.Simple.name=Simple Meals
 \\
 \\\\
@@ -33947,6 +36372,13 @@ Oct.Items.GrapplingHook.Bronze.pluralName=Бронзовые кошки
 
 \\\\
 \\
+\\	Oct.Items.GrapplingHook.Bronze.Projectile.name=Bronze Grappling Hook
+\\
+\\\\
+Oct.Items.GrapplingHook.Bronze.Projectile.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Items.GrapplingHook.Steel.name=Steel Grappling Hook
 \\
 \\\\
@@ -33958,6 +36390,13 @@ Oct.Items.GrapplingHook.Steel.name=cтальная кошка
 \\
 \\\\
 Oct.Items.GrapplingHook.Steel.pluralName=Стальные кошки
+
+\\\\
+\\
+\\	Oct.Items.GrapplingHook.Steel.Projectile.name=Steel Grappling Hook
+\\
+\\\\
+Oct.Items.GrapplingHook.Steel.Projectile.name=\\untranslated
 
 \\\\
 \\
@@ -35707,6 +38146,216 @@ Oct.Items.Weapons.WoodenStaff.pluralName=Деревянные посохи
 
 \\\\
 \\
+\\	speaker: petitioner
+\\
+\\	Oct.Kingdom.Concessions.Belief.Adopt.FailedOngoing.Warning.Conversation.Word.line={petitioner.address}, word is starting to spread that we haven't fully committed to Adopting the {belief} Principle.
+\\
+\\\\
+Oct.Kingdom.Concessions.Belief.Adopt.FailedOngoing.Warning.Conversation.Word.line=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Kingdom.Concessions.Belief.Adopt.FailedOngoing.Warning.Conversation.Word.ForRuler.line={forRuler} will not be happy when they catch word.
+\\
+\\\\
+Oct.Kingdom.Concessions.Belief.Adopt.FailedOngoing.Warning.Conversation.Word.ForRuler.line=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdom.Concessions.Belief.Adopt.FailedOngoing.Warning.Conversation.Word.ForRuler.Warning.line=We'll see, I guess.
+\\
+\\\\
+Oct.Kingdom.Concessions.Belief.Adopt.FailedOngoing.Warning.Conversation.Word.ForRuler.Warning.line=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdom.Concessions.Belief.Adopt.FailedOngoing.Interaction.details={interacter.con(I,you,{interacter})} lied to {interactee.con(me,you,{interactee})} about adopting the {belief} Principle
+\\
+\\\\
+Oct.Kingdom.Concessions.Belief.Adopt.FailedOngoing.Interaction.details=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Kingdom.Concessions.Belief.Adopt.FailedOngoing.Petition.Conversation.Word.line=Not committed to the {belief} Principle, eh?
+\\
+\\\\
+Oct.Kingdom.Concessions.Belief.Adopt.FailedOngoing.Petition.Conversation.Word.line=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Kingdom.Concessions.Belief.Adopt.FailedOngoing.Petition.Conversation.Word.ForRuler.line=Let me show you what happens to those who betray me.
+\\
+\\\\
+Oct.Kingdom.Concessions.Belief.Adopt.FailedOngoing.Petition.Conversation.Word.ForRuler.line=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Kingdom.Concessions.Belief.Abandon.FailedOngoing.Warning.Conversation.Word.line={petitioner.address}, word is starting to spread that we haven't fully abandoned the {belief} Principle.
+\\
+\\\\
+Oct.Kingdom.Concessions.Belief.Abandon.FailedOngoing.Warning.Conversation.Word.line=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Kingdom.Concessions.Belief.Abandon.FailedOngoing.Warning.Conversation.Word.ForRuler.line={forRuler} will not be happy if they catch word.
+\\
+\\\\
+Oct.Kingdom.Concessions.Belief.Abandon.FailedOngoing.Warning.Conversation.Word.ForRuler.line=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdom.Concessions.Belief.Abandon.FailedOngoing.Warning.Conversation.Word.ForRuler.Warning.line=Thanks for the warning!
+\\
+\\\\
+Oct.Kingdom.Concessions.Belief.Abandon.FailedOngoing.Warning.Conversation.Word.ForRuler.Warning.line=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdom.Concessions.Belief.Abandon.FailedOngoing.Interaction.details={interacter.con(I,you,{interacter})} lied to {interactee.con(me,you,{interactee})} about abandoning the {belief} Principle
+\\
+\\\\
+Oct.Kingdom.Concessions.Belief.Abandon.FailedOngoing.Interaction.details=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Kingdom.Concessions.Belief.Abandon.FailedOngoing.Petition.Conversation.Word.line=Well. I can see now that the promise to Abandon the {belief} Principle was a lie.
+\\
+\\\\
+Oct.Kingdom.Concessions.Belief.Abandon.FailedOngoing.Petition.Conversation.Word.line=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Kingdom.Concessions.Belief.Abandon.FailedOngoing.Petition.Conversation.Word.ForRuler.line=I will not forget this treachery!
+\\
+\\\\
+Oct.Kingdom.Concessions.Belief.Abandon.FailedOngoing.Petition.Conversation.Word.ForRuler.line=\\untranslated
+
+\\\\
+\\
+\\	speaker: theirRuler
+\\
+\\	Oct.Kingdom.Concessions.Negotiation.Conditional.lines+=But you have to hold up your end first.
+\\	Oct.Kingdom.Concessions.Negotiation.Conditional.lines+=You first.
+\\	Oct.Kingdom.Concessions.Negotiation.Conditional.lines+=On one condition... You go first.
+\\	Oct.Kingdom.Concessions.Negotiation.Conditional.lines+=But you go first.
+\\
+\\\\
+Oct.Kingdom.Concessions.Negotiation.Conditional.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdom.Concessions.Negotiation.Decision.prompt={theirRuler} agrees.<br><br>Proceed?<br>
+\\
+\\\\
+Oct.Kingdom.Concessions.Negotiation.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdom.Concessions.Negotiation.Decision.NotYet.caption=Not Yet
+\\
+\\\\
+Oct.Kingdom.Concessions.Negotiation.Decision.NotYet.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdom.Concessions.Negotiation.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Kingdom.Concessions.Negotiation.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ourRuler; listener: theirRuler
+\\
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.lines+={ourRuler.address}, what do you think of this?
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.lines+={ourRuler.address}, do you accept?
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.lines+={ourRuler.address}, how about this?
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.lines+={theirRuler}, what do you think?
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.lines+=What say you?
+\\
+\\\\
+Oct.Kingdom.Concessions.Negotiation.Intro.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: theirRuler
+\\
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.High.lines+=Absolutely, {theirRuler.address}. Ab... so... lotely.
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.High.lines+=yes... Yes... YES!!!
+\\
+\\\\
+Oct.Kingdom.Concessions.Negotiation.Intro.High.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: theirRuler
+\\
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.Good.lines+=Yes, {theirRuler.address}. We accept.
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.Good.lines+=Yes.
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.Good.lines+=Aye.
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.Good.lines+=Alright, ya.
+\\
+\\\\
+Oct.Kingdom.Concessions.Negotiation.Intro.Good.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: theirRuler
+\\
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.Moderate.lines+=Uh... Ya.
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.Moderate.lines+=Ummm... Okay.
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.Moderate.lines+=Well, I guess.
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.Moderate.lines+=Alright, ya.
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.Moderate.lines+=Meh... Alright.
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.Moderate.lines+=Do your thing, champ.
+\\
+\\\\
+Oct.Kingdom.Concessions.Negotiation.Intro.Moderate.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: theirRuler
+\\
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.Poor.lines+=You'll have to do better.
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.Poor.lines+=Not quite what we're looking for.
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.Poor.lines+=No thanks.
+\\
+\\\\
+Oct.Kingdom.Concessions.Negotiation.Intro.Poor.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: theirRuler
+\\
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.None.lines+=I am insulted.
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.None.lines+=That's a joke, right?
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.None.lines+=This is offensive.
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.None.lines+=Come back when you've got a real offer.
+\\	Oct.Kingdom.Concessions.Negotiation.Intro.None.lines+=*sigh* No.
+\\
+\\\\
+Oct.Kingdom.Concessions.Negotiation.Intro.None.lines+=\\untranslated
+
+\\\\
+\\
 \\	Oct.Kingdoms.Beliefs.Groups.Alignment.name=Alignment
 \\
 \\\\
@@ -36757,163 +39406,442 @@ Oct.Kingdoms.Beliefs.GrapplingHooksGood.description=Мы залезем туда
 
 \\\\
 \\
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.notification={from.kingdom} are visiting
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Accept.caption=We accept.
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.ImproveRelations.notification={from.kingdom} наносит визит
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Accept.caption=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.details={from.kingdom} asked to visit to learn more about our people.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Accept.previewCaption=Accepted
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.ImproveRelations.details={from.kingdom} просит о визите, чтобы узнать больше о нашем народе.
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Accept.previewCaption=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.RejectedVisitors.caption=We rejected their visit.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Reject.caption=We reject.
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.ImproveRelations.RejectedVisitors.caption=Мы запретили нас посетить.
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Reject.caption=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	Oct.Kingdoms.Diplomacy.RejectedVisitors.Information.information={to.kingdom} rejected visit from {from.kingdom}
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Reject.Player.previewCaption=Rejected
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.RejectedVisitors.Information.information={to.kingdom} запрещает визит королевства {from.kingdom}.
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Reject.Player.previewCaption=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	speaker: pawn
-\\
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+={pawn.address}, I'm the ruler of {pawn.kingdom}.
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+={pawn.address}, I'm here on behalf of my kingdom, {pawn.kingdom}.
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+={pawn.address}, I'm here from {pawn.kingdom}.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.purpose=offer to swear Allegiance to {to.kingdom}
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+={pawn.address}, я правитель королевства {pawn.kingdom}.
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+={pawn.address}, я здесь от лица своего королевства, {pawn.kingdom}.
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+={pawn.address}, я посол из королевства {pawn.kingdom}
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.purpose=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.playerCaption=Swear Allegiance
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.playerCaption=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn; listener: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Promised.step.lines+={pawn.address}, I'm ready when you are.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Promised.step.lines+=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
 \\	speaker: ruler
 \\
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+=Welcome, {ruler.address}.
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+=Welcome to {ruler.kingdom}, {ruler.address}.
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+=Uh huh.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Promised.DoIt.lines+=Let's do it.
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+=Добро пожаловать, {ruler.address}.
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+={ruler.kingdom} приветствует правителя {ruler.address}!
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+=Ага, хм.
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Promised.DoIt.lines+=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	speaker: pawn
-\\
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=I'm here to learn more about your kingdom.
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=I'd like to improve our relations.
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=I've heard.... Things about your kingdom.
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=I'm interested in what you're up to here.
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=I like what you've done with the place.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Promised.DoIt.Confirmation.prompt=Bend the knee and become {ruler}'s Vassal?
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=Я здесь, чтобы больше узнать о твоем королевстве.
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=Мне бы хотелось улучшить наши отношения.
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=О твоем королевстве говорят... разное.
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=Мне интересно, что вы тут поделываете.
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=Мне нравится стиль этого места.
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Promised.DoIt.Confirmation.prompt=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	speaker: pawn
-\\
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=May I stay for a while?
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=May I look around?
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=Can I rest here for a while?
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=Can we chat?
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Promised.DoIt.Confirmation.NotYet.caption=Not Yet
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=Можно мне немного погостить?
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=Можно мне осмотреться?
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=Могу я немного тут отдохнуть?
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=Мы можем поговорить?
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Promised.DoIt.Confirmation.NotYet.caption=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.prompt=Allow {pawn.kingdom} to stay?
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Promised.DoIt.Confirmation.Yes.caption=Yes
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.prompt=Позволить остаться: {pawn.kingdom}?
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Promised.DoIt.Confirmation.Yes.caption=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.caption=Yes
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Accept.caption=We accept.
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.caption=Да
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Accept.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Accept.previewCaption=Accepted
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Accept.previewCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Reject.caption=We reject.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Reject.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Offered.step.lines+={ruler.address}, please answer my Petition first.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Offered.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn; listener: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.step.lines+={pawn.address}, I'd bend the knee if you'd have us.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.step.lines+={pawn.address}, please accept our oath of Allegiance.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.step.lines+={pawn.address}, we'd like to swear our Allegiance.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.step.lines+=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
 \\	speaker: ruler
 \\
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.step.lines+=Yes, please enjoy your stay.
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.step.lines+=Yes, please make yourselves comfortable.
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.step.lines+=Of course, make yourselves at home.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.Accept.step.lines+=Sounds great!
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.Accept.step.lines+=Fine by me.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.Accept.step.lines+=Sure!
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.step.lines+=Да, пожалуйста, можно располагаться.
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.step.lines+=Да, пожалуйста. Можно устраиваться поудобнее.
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.step.lines+=Конечно! Можно чувствовать себя как дома.
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.Accept.step.lines+=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.AllowedVisitors.caption=We allowed their visit.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.Accept.Confirmation.prompt=Bend the knee and become {ruler}'s Vassal?
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.ImproveRelations.AllowedVisitors.caption=Мы позволили нас посетить.
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.Accept.Confirmation.prompt=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	Oct.Kingdoms.Diplomacy.AllowedVisitors.Information.information={from.kingdom} visited {to.kingdom}
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.Accept.Confirmation.Yes.caption=Yes
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.AllowedVisitors.Information.information={from.kingdom} посещает {to.kingdom}
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.Accept.Confirmation.Yes.caption=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.caption=No
+\\	Oct.Kingdoms.Diplomacy.Concession.Appreciation.lines+=Nice!
+\\	Oct.Kingdoms.Diplomacy.Concession.Appreciation.lines+=Thanks!
+\\	Oct.Kingdoms.Diplomacy.Concession.Appreciation.lines+=Woo!
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.caption=Нет
+=======
+Oct.Kingdoms.Diplomacy.Concession.Appreciation.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.Accept.Confirmation.No.caption=No
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.Accept.Confirmation.No.caption=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
 \\	speaker: ruler
 \\
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.step.lines+=I'm sorry, we don't have the time to entertain at the moment.
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.step.lines+=This isn't a good time, try again later.
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.step.lines+=No, not at this time.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.Reject.step.lines+=No.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.Reject.step.lines+=Nope.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.Reject.step.lines+=No, thanks.
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.step.lines+=Прошу прощения, у нас нет времени развлекать гостей.
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.step.lines+=Сейчас мы заняты, как-нибудь в другой раз.
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.step.lines+=Нет, не в этот раз.
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Offer.Player.Conversation.Proposing.Reject.step.lines+=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	speaker: pawn
-\\
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+={pawn.address}, I'm here on behalf of {pawn.ruler} and {pawn.kingdom}.
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+={pawn.address}, I'm here for {pawn.ruler} and {pawn.kingdom}.
-\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+={pawn.address}, I'm here from {pawn.kingdom}. {pawn.ruler} sent me.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.Outcome.caption=Okay.
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+={pawn.address}, {pawn.ruler} посылает меня от лица нашего королевства {pawn.kingdom}.
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+={pawn.address}, я здесь в интересах королевства {pawn.kingdom}. {pawn.ruler} — его лидер.
 Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+={pawn.address}, я из королевства {pawn.kingdom}. {pawn.ruler} считает, нам нужно узнать друг друга получше.
+=======
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.Outcome.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.Player.purpose=break Allegiance to {to.kingdom}
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.Player.purpose=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.Player.playerCaption=Break Allegiance
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.Player.playerCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.Player.Conversation.Decision.prompt=Break your Kingdom's Allegiance to {ruler.kingdom}?
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.Player.Conversation.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.Player.Conversation.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.Player.Conversation.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn; listener: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.Player.Conversation.Decision.Yes.step.lines+=We will no longer be your Vassal.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.Player.Conversation.Decision.Yes.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Rejection.lines+=You'll pay for this!
+\\	Oct.Kingdoms.Diplomacy.Concession.Rejection.lines+=Thanks for nothing.
+\\	Oct.Kingdoms.Diplomacy.Concession.Rejection.lines+=Get fluffed!
+\\	Oct.Kingdoms.Diplomacy.Concession.Rejection.lines+=Fluff off!
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Rejection.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.Player.Conversation.Decision.No.caption=No
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.Player.Conversation.Decision.No.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Release.Outcome.caption=Done.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Release.Outcome.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Release.Player.purpose=release {to.kingdom} from their Oath of Allegiance
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Release.Player.purpose=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Release.Player.playerCaption=Release Vassal
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Release.Player.playerCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Release.Player.Conversation.Decision.prompt=Release {ruler.kingdom} from their Allegiance?
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Release.Player.Conversation.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Release.Player.Conversation.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Release.Player.Conversation.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn; listener: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Release.Player.Conversation.Decision.Yes.step.lines+=We no longer need you as a Vassal.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Release.Player.Conversation.Decision.Yes.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Release.Player.Conversation.Decision.No.caption=No
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Release.Player.Conversation.Decision.No.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.Outcome.caption=Done.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.Outcome.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.Player.purpose=sever {to.kingdom}'s Allegiance
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.Player.purpose=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.Player.playerCaption=Sever Allegiance
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.Player.playerCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.Player.Conversation.Decision.prompt=Sever {ruler.kingdom}'s Allegiance?
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.Player.Conversation.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.Player.Conversation.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.Player.Conversation.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn; listener: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.Player.Conversation.Decision.Yes.step.lines+=We no longer need you as a Vassal. Go away.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.Player.Conversation.Decision.Yes.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.Player.Conversation.Decision.No.caption=No
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.Player.Conversation.Decision.No.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.purpose=declare war on {to.kingdom}
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.DeclareWar.purpose=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.notification={from.kingdom} are raiding!
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.DeclareWar.notification=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.details={from.kingdom} have declared war on us!
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.DeclareWar.details=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -37009,17 +39937,367 @@ Oct.Kingdoms.Diplomacy.DeclareWar.Accepted.caption=У нас нет иного �
 
 \\\\
 \\
-\\	Oct.Kingdoms.Diplomacy.DeclareWar.notification={from.kingdom} are raiding!
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.Player.playerCaption=Declare War
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.DeclareWar.notification={from.kingdom} наступают!
+=======
+Oct.Kingdoms.Diplomacy.DeclareWar.Player.playerCaption=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
-\\	Oct.Kingdoms.Diplomacy.DeclareWar.details={from.kingdom} have declared war on us!
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.caption=Declare War
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Kingdoms.Diplomacy.DeclareWar.details={from.kingdom} объявляют нам войну!
+=======
+Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.Reason.lines+=You'll pay because{reason}!
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.Reason.lines+=You're in trouble{reason}.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.Reason.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.Reason.Continued.lines+=Prepare to Die!
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.Reason.Continued.lines+=Prepare to meet your maker!
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.Reason.Continued.lines+=See you on the other side!
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.Reason.Continued.lines+=Are you ready?
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.Reason.Continued.lines+=I shall do my best to make it swift!
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.Reason.Continued.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.NoReason.lines+={ruler}, prepare yourself.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.NoReason.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.NoReason.Continued.lines+=It's time for the end of {ruler.kingdom}!
+\\	Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.NoReason.Continued.lines+={ruler.kingdom} end here!
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.DeclareWar.Player.Discovered.NoReason.Continued.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.purpose=provide Support to {to.kingdom}
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Provide.purpose=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.notification=Support from {from.kingdom}
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Provide.notification=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.details=Support from {from.kingdom}
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Provide.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Outcome.caption=They're here to support us for a bit.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Outcome.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.Conversation.Intro.lines+={pawn.address}, I'm from {pawn.kingdom}. We're here to assist.
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.Conversation.Intro.lines+={pawn.address}, I'm here to back you up.
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.Conversation.Intro.lines+={pawn.address}, I'm here from {pawn.kingdom}. I hear you need help.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Provide.Conversation.Intro.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.Conversation.Intro.Welcome.lines+=Welcome, {ruler.address}.
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.Conversation.Intro.Welcome.lines+=Welcome to {ruler.kingdom}, {ruler.address}.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Provide.Conversation.Intro.Welcome.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.Conversation.Detailed.lines+={pawn.address}, {pawn.ruler} sent us to assist.
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.Conversation.Detailed.lines+={pawn.address}, we're here to back you up.
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.Conversation.Detailed.lines+={pawn.address}, we're from {pawn.kingdom}. {pawn.ruler} sent us to help.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Provide.Conversation.Detailed.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.caption=Release Support Party...
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.lines+=All done, {pawn.address}?
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.lines+=We done, {pawn.address}?
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.lines+=Done with us, {pawn.address}?
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.prompt=Release the Support Party from {pawn.kingdom}?
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.NotYet.caption=Not Yet
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.NotYet.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.NotYet.Lines.lines+=Not yet, hang tight.
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.NotYet.Lines.lines+=Not quite yet, stand by.
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.NotYet.Lines.lines+=Not yet, hang on.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.NotYet.Lines.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.Yes.Lines.lines+=Yes, thanks again.
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.Yes.Lines.lines+=Aye, appreciated.
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.Yes.Lines.lines+=All sorted, thanks.
+\\	Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.Yes.Lines.lines+=Yep, all done here. Thanks.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Provide.ReleaseConversation.Question.Decision.Yes.Lines.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.purpose=improve relations with {to.kingdom}
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.purpose=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.notification={from.kingdom} are visiting
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.notification=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.details={from.kingdom} asked to visit to learn more about our people.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.RejectedVisitors.caption=We rejected their visit.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.RejectedVisitors.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.RejectedVisitors.previewCaption=Rejected
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.RejectedVisitors.previewCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.RejectedVisitors.Information.information={to.kingdom} rejected visit from {from.kingdom}
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.RejectedVisitors.Information.information=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+={pawn.address}, I'm the ruler of {pawn.kingdom}.
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+={pawn.address}, I'm here on behalf of my kingdom, {pawn.kingdom}.
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+={pawn.address}, I'm here from {pawn.kingdom}.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+=Welcome, {ruler.address}.
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+=Welcome to {ruler.kingdom}, {ruler.address}.
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+=Uh huh.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=I'm here to learn more about your kingdom.
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=I'd like to improve our relations.
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=I've heard.... Things about your kingdom.
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=I'm interested in what you're up to here.
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=I like what you've done with the place.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=May I stay for a while?
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=May I look around?
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=Can I rest here for a while?
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=Can we chat?
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.prompt=Allow {pawn.kingdom} to stay?
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.Lines.lines+=Yes, please enjoy your stay.
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.Lines.lines+=Yes, please make yourselves comfortable.
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.Lines.lines+=Of course, make yourselves at home.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.Lines.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.AllowedVisitors.caption=We allowed their visit.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.AllowedVisitors.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.AllowedVisitors.previewCaption=Allowed
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.AllowedVisitors.previewCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.AllowedVisitors.Information.information={from.kingdom} visited {to.kingdom}
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.AllowedVisitors.Information.information=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.caption=No
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.Lines.lines+=I'm sorry, we don't have the time to entertain at the moment.
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.Lines.lines+=This isn't a good time, try again later.
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.Lines.lines+=No, not at this time.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.Lines.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+={pawn.address}, I'm here on behalf of {pawn.ruler} and {pawn.kingdom}.
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+={pawn.address}, I'm here for {pawn.ruler} and {pawn.kingdom}.
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+={pawn.address}, I'm here from {pawn.kingdom}. {pawn.ruler} sent me.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Player.playerCaption=Send Envoy
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.Player.playerCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.ImproveRelations.Player.Discovered.caption=Improve Relations
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.ImproveRelations.Player.Discovered.caption=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -37878,6 +41156,13 @@ Oct.Kingdoms.Diplomacy.War.Raid.Information.information={from.kingdom} напа�
 
 \\\\
 \\
+\\	Oct.Kingdoms.Diplomacy.War.Raid.purpose=raid {to.kingdom}
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.Raid.purpose=\\untranslated
+
+\\\\
+\\
 \\	Oct.Kingdoms.Diplomacy.War.Raid.notification={from.kingdom} are raiding!
 \\
 \\\\
@@ -37889,6 +41174,48 @@ Oct.Kingdoms.Diplomacy.War.Raid.notification={from.kingdom} наступают!
 \\
 \\\\
 Oct.Kingdoms.Diplomacy.War.Raid.details={from.kingdom} вторгаются в наше королевство!
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.War.Raid.Player.playerCaption=Raid
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.Raid.Player.playerCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.War.Raid.Player.Discovered.caption=Declare War
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.Raid.Player.Discovered.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.War.Raid.Player.Discovered.steps.lines+=Alright, let's end this.
+\\	Oct.Kingdoms.Diplomacy.War.Raid.Player.Discovered.steps.lines+=Here I am, right here in your base.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.Raid.Player.Discovered.steps.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.War.Raid.Player.Discovered.Continued.lines+=To arms!
+\\	Oct.Kingdoms.Diplomacy.War.Raid.Player.Discovered.Continued.lines+=Draw!
+\\	Oct.Kingdoms.Diplomacy.War.Raid.Player.Discovered.Continued.lines+=Attack!
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.Raid.Player.Discovered.Continued.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.War.OfferPeace.purpose=offer peace to {to.kingdom}
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.OfferPeace.purpose=\\untranslated
 
 \\\\
 \\
@@ -37993,6 +41320,13 @@ Oct.Kingdoms.Diplomacy.War.OfferPeace.Accept.caption=Мы приняли пре�
 
 \\\\
 \\
+\\	Oct.Kingdoms.Diplomacy.War.OfferPeace.Accept.previewCaption=Accepted
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.OfferPeace.Accept.previewCaption=\\untranslated
+
+\\\\
+\\
 \\	Oct.Kingdoms.Diplomacy.War.OfferPeace.Conversation.Resolution.Decision.No.caption=No
 \\
 \\\\
@@ -38013,6 +41347,13 @@ Oct.Kingdoms.Diplomacy.War.OfferPeace.Conversation.Resolution.Decision.No.step.l
 \\
 \\\\
 Oct.Kingdoms.Diplomacy.War.OfferPeace.Reject.caption=Мы отвергли предложение.
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.War.OfferPeace.Reject.previewCaption=Rejected
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.OfferPeace.Reject.previewCaption=\\untranslated
 
 \\\\
 \\
@@ -38049,6 +41390,64 @@ Oct.Kingdoms.Diplomacy.War.OfferPeace.Attack.caption=Мы отвергли пр�
 Oct.Kingdoms.Diplomacy.War.OfferPeace.Conversation.Generic.Ask.Listening.NoReason.lines+={pawn.ruler} считает, что война тянется уже слишком долго.
 Oct.Kingdoms.Diplomacy.War.OfferPeace.Conversation.Generic.Ask.Listening.NoReason.lines+={pawn.ruler} считает, что нам нужно сделать передышку и все обдумать.
 Oct.Kingdoms.Diplomacy.War.OfferPeace.Conversation.Generic.Ask.Listening.NoReason.lines+={pawn.ruler} наставляет меня с тобой поговорить.
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.War.OfferPeace.Player.playerCaption=Offer Peace
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.OfferPeace.Player.playerCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.War.OfferPeace.Player.Discovered.caption=Offer Peace
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.OfferPeace.Player.Discovered.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.War.OfferPeace.Player.Discovered.steps.lines+=Let's stop.
+\\	Oct.Kingdoms.Diplomacy.War.OfferPeace.Player.Discovered.steps.lines+=Let's end this bloodshed.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.OfferPeace.Player.Discovered.steps.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.War.OfferPeace.Player.Discovered.Accept.lines+=We accept.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.OfferPeace.Player.Discovered.Accept.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.War.OfferPeace.Player.Discovered.DoNotAccept.lines+=We do not accept.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.OfferPeace.Player.Discovered.DoNotAccept.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.War.OfferPeace.Player.Discovered.Attack.lines+=Attack!
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.OfferPeace.Player.Discovered.Attack.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.War.Conquer.purpose=conquer {to.kingdom}
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.War.Conquer.purpose=\\untranslated
 
 \\\\
 \\
@@ -38187,6 +41586,377 @@ Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.YouOrMe.Decision.Okay.st
 Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.YouOrMe.Decision.Okay.Reply.lines+=Это верно.
 Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.YouOrMe.Decision.Okay.Reply.lines+=Больше ничего не хочешь сказать?
 Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.YouOrMe.Decision.Okay.Reply.lines+=Тупишь до победного конца, да?
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.purpose=offer {mission.gift.colorized} to {to.kingdom}
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Gift.Player.purpose=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.playerCaption=Offer Gift
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Gift.Player.playerCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.prompt=Offer {mission.gift.colorized} to {ruler}?
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Accepted.caption=Accepted
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Gift.Player.Accepted.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Accepted.previewCaption=Accepted
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Gift.Player.Accepted.previewCaption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.Yes.Accept.step.lines+={ruler.address}, thanks!
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.Yes.Accept.step.lines+=Thanks!
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.Yes.Accept.step.lines+=Nice!
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.Yes.Accept.step.lines+=Woo!
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.Yes.Accept.step.lines+=All right.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.Yes.Accept.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.Yes.Reject.step.lines+=No thanks.
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.Yes.Reject.step.lines+=No, but thanks.
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.Yes.Reject.step.lines+=No.
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.Yes.Reject.step.lines+=Nah.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.Yes.Reject.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Rejected.caption=Rejected
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Gift.Player.Rejected.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Rejected.previewCaption=Rejected
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Gift.Player.Rejected.previewCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.No.caption=No
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Gift.Player.Conversation.Decision.No.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Demand.Player.purpose=demand {mission.demands.colorized} from {to.kingdom}
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Demand.Player.purpose=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Demand.Player.playerCaption=Demand Tribute
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Demand.Player.playerCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Demand.Player.Conversation.Decision.prompt=Demand {mission.demands.colorized} from {ruler}?
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Demand.Player.Conversation.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Demand.Player.Conversation.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Demand.Player.Conversation.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Demand.Player.Accepted.caption=Accepted
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Demand.Player.Accepted.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Demand.Player.Accepted.previewCaption=Accepted
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Demand.Player.Accepted.previewCaption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.Demand.Player.Conversation.Decision.Yes.Accept.step.lines+=Of course.
+\\	Oct.Kingdoms.Diplomacy.Demand.Player.Conversation.Decision.Yes.Accept.step.lines+=As you wish.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Demand.Player.Conversation.Decision.Yes.Accept.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.Demand.Player.Conversation.Decision.Yes.Reject.step.lines+=No!
+\\	Oct.Kingdoms.Diplomacy.Demand.Player.Conversation.Decision.Yes.Reject.step.lines+=No! What's ours is ours!
+\\	Oct.Kingdoms.Diplomacy.Demand.Player.Conversation.Decision.Yes.Reject.step.lines+=Hands off!
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Demand.Player.Conversation.Decision.Yes.Reject.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Demand.Player.Rejected.caption=Rejected
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Demand.Player.Rejected.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Demand.Player.Rejected.previewCaption=Rejected
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Demand.Player.Rejected.previewCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Demand.Player.Conversation.Decision.No.caption=No
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Demand.Player.Conversation.Decision.No.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Reject.Player.previewCaption=Rejected
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Reject.Player.previewCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.purpose=ask {to.kingdom} to swear Allegiance
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.purpose=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.playerCaption=Request Allegiance
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.playerCaption=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn; listener: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Promised.step.lines+={pawn.address}, You ready?
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Promised.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Promised.Incomplete.lines+=You haven't completed your end of the deal yet.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Promised.Incomplete.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Offered.step.lines+={ruler.address}, please answer my Petition first.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Offered.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn; listener: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.step.lines+={pawn.address}, I think it'd be wise for you to bend the knee.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.step.lines+=Bend the knee.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.step.lines+=Bend the knee?
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.Accept.Yes.lines+=Of course, {ruler.address}.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.Accept.Yes.lines+=Absolutely, {ruler.address}.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.Accept.Yes.lines+=Yes, {ruler.address}.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.Accept.Yes.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.Accept.Yes.Confirmation.prompt=Accept {ruler.kingdom} as Vassals?
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.Accept.Yes.Confirmation.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.Accept.Yes.Confirmation.Yes.caption=Yes
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.Accept.Yes.Confirmation.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.Accept.Yes.Confirmation.No.caption=No
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.Accept.Yes.Confirmation.No.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.Reject.step.lines+=Heh - no, thanks.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.Reject.step.lines+=Uh... No.
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.Reject.step.lines+=Nope.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Request.Player.Conversation.Proposing.Reject.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn; listener: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.AI.Conversation.steps.lines+=We will no longer be your Vassal.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Break.AI.Conversation.steps.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn; listener: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.AI.Conversation.steps.lines+=We no longer need you as a Vassal. Go away.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Concession.Allegiance.Sever.AI.Conversation.steps.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Request.purpose=request Combat Support from {to.kingdom}
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Request.purpose=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Request.playerCaption=Request Support
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Request.playerCaption=\\untranslated
+
+\\\\
+\\
+\\	speaker: pawn; listener: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.lines+={pawn.address}, can you provide backup...
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.lines+={pawn.address}, can you send Support?
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.lines+={pawn.address}, can you send a Party to Support us?
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Accept.step.lines+=Of course, {ruler.address}.
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Accept.step.lines+=Absolutely, {ruler.address}.
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Accept.step.lines+=Yes, {ruler.address}.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Accept.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Accept.Confirmation.prompt=Accept Support from {ruler.kingdom}?
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Accept.Confirmation.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Accept.Confirmation.Yes.caption=Yes
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Accept.Confirmation.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: pawn
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Accept.Confirmation.Yes.OnTheWay.lines+=They're on there way.
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Accept.Confirmation.Yes.OnTheWay.lines+=Incoming.
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Accept.Confirmation.Yes.OnTheWay.lines+=They'll be there shortly.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Accept.Confirmation.Yes.OnTheWay.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Accept.Confirmation.No.caption=No
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Accept.Confirmation.No.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Reject.step.lines+=Nope. No. Um... No.
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Reject.step.lines+=Nah, we're too busy.
+\\	Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Reject.step.lines+=Nope.
+\\
+\\\\
+Oct.Kingdoms.Diplomacy.Support.Request.Conversation.Ask.Reject.step.lines+=\\untranslated
 
 \\\\
 \\
@@ -39803,6 +43573,34 @@ Oct.Messengers.Hawk.name=Почтовый сокол
 
 \\\\
 \\
+\\	Oct.Mission.Diplomatic.Success.Influence.reason=Helped with a Problem!
+\\
+\\\\
+Oct.Mission.Diplomatic.Success.Influence.reason=\\untranslated
+
+\\\\
+\\
+\\	Oct.Mission.Diplomatic.Failed.Influence.reason=Failed to help with a Problem!
+\\
+\\\\
+Oct.Mission.Diplomatic.Failed.Influence.reason=\\untranslated
+
+\\\\
+\\
+\\	Oct.Mission.Diplomatic.Success.Ally.Influence.reason=Helped with a Problem!
+\\
+\\\\
+Oct.Mission.Diplomatic.Success.Ally.Influence.reason=\\untranslated
+
+\\\\
+\\
+\\	Oct.Mission.Diplomatic.Failed.Ally.Influence.reason=Failed to help with a Problem!
+\\
+\\\\
+Oct.Mission.Diplomatic.Failed.Ally.Influence.reason=\\untranslated
+
+\\\\
+\\
 \\	speaker: mission.reporter
 \\
 \\	Oct.Mission.Failed.Conversation.Notify.lines+={petitioner.address}, we were unable to complete our quest.
@@ -40291,8 +44089,8 @@ Oct.Moments.Escapee.Petition.Conversation.Help.Party.lines+=И я боюсь, ч
 \\	speaker: petitioner
 \\
 \\	Oct.Moments.Escapee.Petition.Conversation.Help.Party.Asylum.lines+=I seek asylum. Protect me from them and I'll serve you dutifully.
-\\	Oct.Moments.Escapee.Petition.Conversation.Help.Party.Asylum.lines+=I come to you seeking protection in exchange for allegience.
-\\	Oct.Moments.Escapee.Petition.Conversation.Help.Party.Asylum.lines+=Accept my oath of fealty, keep me safe, and I'll be forever in your debt.
+\\	Oct.Moments.Escapee.Petition.Conversation.Help.Party.Asylum.lines+=I come to you seeking protection in exchange for service.
+\\	Oct.Moments.Escapee.Petition.Conversation.Help.Party.Asylum.lines+=Accept my oath of service, keep me safe, and I'll be forever in your debt.
 \\
 \\\\
 Oct.Moments.Escapee.Petition.Conversation.Help.Party.Asylum.lines+=Я ищу убежища. Защити меня от убийц, и я буду верно служить тебе.
@@ -42453,6 +46251,265 @@ Oct.Petition.Resolution.Generic.No.step.lines+=Нет, сейчас не вре�
 
 \\\\
 \\
+\\	Oct.Petitions.Allegiance.Request.Mission.caption=Allegiance Request
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Mission.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Request.Mission.details={petitioner} has asked us to become their Vassal.<br><br>They won't like it if we reject them.
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Mission.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Request.Mission.requestCaption=Asked
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Mission.requestCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Request.Mission.successCaption=Swear Allegiance
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Mission.successCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Request.Mission.succeededCaption=Swore Allegiance
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Mission.succeededCaption=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Petitions.Allegiance.Request.Mission.Success.Conversation.Result.lines+=Good deal.
+\\	Oct.Petitions.Allegiance.Request.Mission.Success.Conversation.Result.lines+=That's what I thought.
+\\	Oct.Petitions.Allegiance.Request.Mission.Success.Conversation.Result.lines+=It's been a pleasure.
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Mission.Success.Conversation.Result.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Request.Mission.Success.Influence.reason=Accepted Allegiance Request
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Mission.Success.Influence.reason=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Petitions.Allegiance.Request.Mission.Failed.Conversation.Result.lines+=Fine.
+\\	Oct.Petitions.Allegiance.Request.Mission.Failed.Conversation.Result.lines+=Alright then.
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Mission.Failed.Conversation.Result.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Request.Mission.Failed.Influence.reason=Rejected Allegiance Request
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Mission.Failed.Influence.reason=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner; listener: ruler
+\\
+\\	Oct.Petitions.Allegiance.Request.Conversation.Request.lines+={petitioner.address}, I think it'd be wise for you to bend the knee.
+\\	Oct.Petitions.Allegiance.Request.Conversation.Request.lines+=Bend the knee.
+\\	Oct.Petitions.Allegiance.Request.Conversation.Request.lines+=Bend the knee?
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Conversation.Request.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Request.Conversation.Request.Decision.prompt=Agree to bend the knee and become {petitioner}'s Vassal?
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Conversation.Request.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Request.Conversation.Request.Decision.NotYet.caption=Not yet
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Conversation.Request.Decision.NotYet.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Request.Conversation.Request.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Conversation.Request.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: petitioner
+\\
+\\	Oct.Petitions.Allegiance.Request.Conversation.Request.Decision.Yes.step.lines+=Of course.
+\\	Oct.Petitions.Allegiance.Request.Conversation.Request.Decision.Yes.step.lines+=As you wish.
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Conversation.Request.Decision.Yes.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Request.Conversation.Request.Decision.No.caption=No
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Conversation.Request.Decision.No.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: petitioner
+\\
+\\	Oct.Petitions.Allegiance.Request.Conversation.Request.Decision.No.step.lines+=I don't think so.
+\\	Oct.Petitions.Allegiance.Request.Conversation.Request.Decision.No.step.lines+={petitioner}... No!
+\\
+\\\\
+Oct.Petitions.Allegiance.Request.Conversation.Request.Decision.No.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Offer.Mission.caption=Allegiance Offer
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Mission.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Offer.Mission.details={petitioner} has offered to bend the knee and become a Vassal.<br><br>They won't like it if we reject them.
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Mission.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Offer.Mission.requestCaption=Offered
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Mission.requestCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Offer.Mission.successCaption=Accept Allegiance
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Mission.successCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Offer.Mission.succeededCaption=Accepted Allegiance
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Mission.succeededCaption=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Petitions.Allegiance.Offer.Mission.Success.Conversation.Result.lines+=Thanks!
+\\	Oct.Petitions.Allegiance.Offer.Mission.Success.Conversation.Result.lines+=We live to serve!
+\\	Oct.Petitions.Allegiance.Offer.Mission.Success.Conversation.Result.lines+={petitioner.address} indeed!
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Mission.Success.Conversation.Result.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Offer.Mission.Success.Influence.reason=Accepted offer of Allegiance
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Mission.Success.Influence.reason=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Petitions.Allegiance.Offer.Mission.Failed.Conversation.Result.lines+=Oh. Really?
+\\	Oct.Petitions.Allegiance.Offer.Mission.Failed.Conversation.Result.lines+=Fine.
+\\	Oct.Petitions.Allegiance.Offer.Mission.Failed.Conversation.Result.lines+=Alright then.
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Mission.Failed.Conversation.Result.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Offer.Mission.Failed.Influence.reason=Rejected offer of Allegiance
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Mission.Failed.Influence.reason=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner; listener: ruler
+\\
+\\	Oct.Petitions.Allegiance.Offer.Conversation.Offer.lines+={petitioner.address}, I'd bend the knee if you'd have us.
+\\	Oct.Petitions.Allegiance.Offer.Conversation.Offer.lines+={petitioner.address}, please accept our oath of fealty.
+\\	Oct.Petitions.Allegiance.Offer.Conversation.Offer.lines+={petitioner.address}, we'd like to to swear Allegiance to you.
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Conversation.Offer.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Offer.Conversation.Offer.Decision.prompt=Accept {petitioner.kingdom} as Vassals?
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Conversation.Offer.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Offer.Conversation.Offer.Decision.NotYet.caption=Not yet
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Conversation.Offer.Decision.NotYet.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Offer.Conversation.Offer.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Conversation.Offer.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: petitioner
+\\
+\\	Oct.Petitions.Allegiance.Offer.Conversation.Offer.Decision.Yes.step.lines+=Yes.
+\\	Oct.Petitions.Allegiance.Offer.Conversation.Offer.Decision.Yes.step.lines+=Ya, sure.
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Conversation.Offer.Decision.Yes.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Allegiance.Offer.Conversation.Offer.Decision.No.caption=No
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Conversation.Offer.Decision.No.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: petitioner
+\\
+\\	Oct.Petitions.Allegiance.Offer.Conversation.Offer.Decision.No.step.lines+=Nah.
+\\	Oct.Petitions.Allegiance.Offer.Conversation.Offer.Decision.No.step.lines+=Uh, thanks. But no.
+\\
+\\\\
+Oct.Petitions.Allegiance.Offer.Conversation.Offer.Decision.No.step.lines+=\\untranslated
+
+\\\\
+\\
 \\	Oct.Petitions.Ascend.Question.Decision.prompt=Ascend?
 \\
 \\\\
@@ -42950,6 +47007,271 @@ Oct.Petitions.Bandits.RecoverItems.Personal.Resolution.Decision.Ask.Decision.No.
 
 \\\\
 \\
+\\	Oct.Petitions.Concession.Allegiance.Swear.Mission.caption=Swear Allegiance
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Swear.Mission.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Swear.Mission.details=We promised {petitioner} we'd become their vassal!<br><br>There will be consequences with {petitioner} if we break our promise.
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Swear.Mission.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Swear.Mission.requestCaption=Promised
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Swear.Mission.requestCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Swear.Mission.successCaption=Swear Allegiance
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Swear.Mission.successCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Swear.Mission.succeededCaption=Swore Allegiance
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Swear.Mission.succeededCaption=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Petitions.Concession.Rewards.Success.Conversation.Accept.lines+=Thanks!
+\\
+\\\\
+Oct.Petitions.Concession.Rewards.Success.Conversation.Accept.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Petitions.Concession.Rewards.Failed.Conversation.Result.lines+=Liar!
+\\	Oct.Petitions.Concession.Rewards.Failed.Conversation.Result.lines+=I will not forget this.
+\\	Oct.Petitions.Concession.Rewards.Failed.Conversation.Result.lines+=You have ruined your reputation with me.
+\\
+\\\\
+Oct.Petitions.Concession.Rewards.Failed.Conversation.Result.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Break.Mission.caption=Break Allegiance
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Break.Mission.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Break.Mission.details=We promised {petitioner} that we'd break our Allegiance to {mission.target}!<br><br>There will be consequences with {petitioner} if we break our promise.
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Break.Mission.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Break.Mission.requestCaption=Promised
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Break.Mission.requestCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Break.Mission.successCaption=Break
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Break.Mission.successCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Break.Mission.succeededCaption=Broke Allegiance
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Break.Mission.succeededCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Release.Mission.caption=Release Vassal
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Release.Mission.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Release.Mission.details=We promised {petitioner} that we'd release {mission.target} from their Allegiance!<br><br>There will be consequences with {petitioner} if we break our promise.
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Release.Mission.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Release.Mission.requestCaption=Promised
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Release.Mission.requestCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Release.Mission.successCaption=Release Vassal
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Release.Mission.successCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Release.Mission.succeededCaption=Released Vassal
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Release.Mission.succeededCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Sever.Mission.caption=Sever Vassal
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Sever.Mission.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Sever.Mission.details=We promised {petitioner} that we'd sever {mission.target}'s Allegiance!<br><br>There will be consequences with {petitioner} if we break our promise.
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Sever.Mission.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Sever.Mission.requestCaption=Promised
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Sever.Mission.requestCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Sever.Mission.successCaption=Sever Vassal
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Sever.Mission.successCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.Allegiance.Sever.Mission.succeededCaption=Severed Vassal
+\\
+\\\\
+Oct.Petitions.Concession.Allegiance.Sever.Mission.succeededCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.DeclareWar.Mission.caption=Declare War
+\\
+\\\\
+Oct.Petitions.Concession.DeclareWar.Mission.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.DeclareWar.Mission.details=We promised {petitioner} we'd Declare War on {mission.target}!<br><br>There will be consequences with {petitioner} if we break our promise.
+\\
+\\\\
+Oct.Petitions.Concession.DeclareWar.Mission.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.DeclareWar.Mission.requestCaption=Promised
+\\
+\\\\
+Oct.Petitions.Concession.DeclareWar.Mission.requestCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.DeclareWar.Mission.successCaption=Declare War
+\\
+\\\\
+Oct.Petitions.Concession.DeclareWar.Mission.successCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.DeclareWar.Mission.succeededCaption=Declared War
+\\
+\\\\
+Oct.Petitions.Concession.DeclareWar.Mission.succeededCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.SendItems.Mission.caption=Send Items
+\\
+\\\\
+Oct.Petitions.Concession.SendItems.Mission.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.SendItems.Mission.details=We promised Items to {petitioner}!<br><br>There will be consequences with {petitioner} if we break our promise.
+\\
+\\\\
+Oct.Petitions.Concession.SendItems.Mission.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.SendItems.Mission.requestCaption=Promised
+\\
+\\\\
+Oct.Petitions.Concession.SendItems.Mission.requestCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.SendItems.Mission.successCaption=Send
+\\
+\\\\
+Oct.Petitions.Concession.SendItems.Mission.successCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.SendItems.Mission.succeededCaption=Sent
+\\
+\\\\
+Oct.Petitions.Concession.SendItems.Mission.succeededCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.AdoptBelief.Mission.caption=Adopt Principle
+\\
+\\\\
+Oct.Petitions.Concession.AdoptBelief.Mission.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.AdoptBelief.Mission.details=We promised {petitioner} we'd adopt the {mission.belief} Principle.<br><br>There will be consequences with {petitioner} if we break our promise.
+\\
+\\\\
+Oct.Petitions.Concession.AdoptBelief.Mission.details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.AdoptBelief.Mission.requestCaption=Promised
+\\
+\\\\
+Oct.Petitions.Concession.AdoptBelief.Mission.requestCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.AdoptBelief.Mission.successCaption=Adopt
+\\
+\\\\
+Oct.Petitions.Concession.AdoptBelief.Mission.successCaption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Concession.AdoptBelief.Mission.succeededCaption=Adopted
+\\
+\\\\
+Oct.Petitions.Concession.AdoptBelief.Mission.succeededCaption=\\untranslated
+
+\\\\
+\\
 \\	speaker: petitioner
 \\
 \\	Oct.Petitions.Defense.Conversation.Threats.line={petitioner.address}, there are a great many threats to our Kingdom.
@@ -43114,6 +47436,33 @@ Oct.Petitions.Defense.Shields.Conversation.Shield.Ranged.Melee.line=Бойцы �
 \\
 \\	speaker: petitioner
 \\
+\\	Oct.Petitions.Defense.Rams.Conversation.Ram.line={petitioner.address}, {rammer} is carrying a Battering Ram!
+\\
+\\\\
+Oct.Petitions.Defense.Rams.Conversation.Ram.line=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.line=They can use it make quick work of any Door that blocks them!
+\\
+\\\\
+Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.line=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler
+\\
+\\	Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.NotIfStopped.line=Not if we stop them first!
+\\
+\\\\
+Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.NotIfStopped.line=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
 \\	Oct.Petitions.Defense.Catapults.Conversation.Built.line={petitioner.address}, they've built a Catapult!
 \\
 \\\\
@@ -43145,6 +47494,162 @@ Oct.Petitions.Defense.Catapults.Conversation.Outro.TakeEmOut.line=Давай и�
 \\
 \\\\
 Oct.Petitions.Defense.Catapults.Conversation.Building.line={petitioner.address}, враги строят катапульту!
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Intro.lines+=You are great.
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Intro.lines+=I appreciate you.
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Intro.lines+=You rock.
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Intro.lines+=Keep it up.
+\\
+\\\\
+Oct.Petitions.Diplomatic.Gift.Petition.Intro.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Intro.Offer.lines+=Please accept this token of gratitude.
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Intro.Offer.lines+=We have a gift for you.
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Intro.Offer.lines+=Please accept this gift.
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Intro.Offer.lines+=Our Hawk has a gift for you.
+\\
+\\\\
+Oct.Petitions.Diplomatic.Gift.Petition.Intro.Offer.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Decision.prompt=Accept gift from {petitioner.kingdom}?
+\\
+\\\\
+Oct.Petitions.Diplomatic.Gift.Petition.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Petitions.Diplomatic.Gift.Petition.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: petitioner
+\\
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Decision.Yes.step.lines+=Of course.
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Decision.Yes.step.lines+=Thank you so much.
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Decision.Yes.step.lines+=We accept.
+\\
+\\\\
+Oct.Petitions.Diplomatic.Gift.Petition.Decision.Yes.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Decision.No.caption=No
+\\
+\\\\
+Oct.Petitions.Diplomatic.Gift.Petition.Decision.No.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: petitioner
+\\
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Decision.No.step.lines+=Thanks, but no.
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Decision.No.step.lines+=Uh, no thanks.
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Decision.No.step.lines+=Naaaaah.
+\\
+\\\\
+Oct.Petitions.Diplomatic.Gift.Petition.Decision.No.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Diplomatic.Gift.Petition.Decision.NotYet.caption=Not yet...
+\\
+\\\\
+Oct.Petitions.Diplomatic.Gift.Petition.Decision.NotYet.caption=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Generic.results+=Help us keep the world a safer place.
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Generic.results+=We're keeping the world safe. It costs money.
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Generic.results+=It's a dangerous world out there. Pay us and we'll keep you safe.
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Generic.results+=Pay up.
+\\
+\\\\
+Oct.Petitions.Diplomatic.Demands.Petition.Generic.results+=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Demand.lines+=Send {mission.demands.colorized} back with our Messenger.
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Demand.lines+=Send {mission.demands.colorized}.
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Demand.lines+=Send us {mission.demands.colorized}.
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Demand.lines+={mission.demands.colorized}.
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Demand.lines+={mission.demands.colorized}... Now.
+\\
+\\\\
+Oct.Petitions.Diplomatic.Demands.Petition.Demand.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Decision.prompt=Agree to send {mission.demands.colorized} to {petitioner}?
+\\
+\\\\
+Oct.Petitions.Diplomatic.Demands.Petition.Decision.prompt=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Decision.Yes.caption=Yes
+\\
+\\\\
+Oct.Petitions.Diplomatic.Demands.Petition.Decision.Yes.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: petitioner
+\\
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Decision.Yes.step.lines+=Of course.
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Decision.Yes.step.lines+=As you wish.
+\\
+\\\\
+Oct.Petitions.Diplomatic.Demands.Petition.Decision.Yes.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Decision.No.caption=No
+\\
+\\\\
+Oct.Petitions.Diplomatic.Demands.Petition.Decision.No.caption=\\untranslated
+
+\\\\
+\\
+\\	speaker: ruler; listener: petitioner
+\\
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Decision.No.step.lines+=I don't think so.
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Decision.No.step.lines+=Nope, our stuff is ours.
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Decision.No.step.lines+={petitioner}... No!
+\\
+\\\\
+Oct.Petitions.Diplomatic.Demands.Petition.Decision.No.step.lines+=\\untranslated
+
+\\\\
+\\
+\\	speaker: petitioner
+\\
+\\	Oct.Petitions.Diplomatic.Demands.Mission.Failed.Conversation.Result.lines+=Fine.
+\\	Oct.Petitions.Diplomatic.Demands.Mission.Failed.Conversation.Result.lines+=Alright then.
+\\
+\\\\
+Oct.Petitions.Diplomatic.Demands.Mission.Failed.Conversation.Result.lines+=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Diplomatic.Demands.Petition.Decision.NotYet.caption=Not yet...
+\\
+\\\\
+Oct.Petitions.Diplomatic.Demands.Petition.Decision.NotYet.caption=\\untranslated
 
 \\\\
 \\
@@ -43894,14 +48399,22 @@ Oct.Petitions.Diplomatic.Demands.Mission.Success.Conversation.Accept.lines+=Ка
 
 \\\\
 \\
-\\	speaker: petitioner
-\\
-\\	Oct.Petitions.Diplomatic.Demands.Mission.Failed.Conversation.Result.lines+=Fine.
-\\	Oct.Petitions.Diplomatic.Demands.Mission.Failed.Conversation.Result.lines+=Alright then.
+\\	Oct.Petitions.Diplomatic.Demands.Mission.Success.Influence.reason=Met my demand!
 \\
 \\\\
+<<<<<<< HEAD
 Oct.Petitions.Diplomatic.Demands.Mission.Failed.Conversation.Result.lines+=Хорошо.
 Oct.Petitions.Diplomatic.Demands.Mission.Failed.Conversation.Result.lines+=Вот и ладушки.
+=======
+Oct.Petitions.Diplomatic.Demands.Mission.Success.Influence.reason=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Diplomatic.Demands.Mission.Failed.Influence.reason=Rejected my Demand!
+\\
+\\\\
+Oct.Petitions.Diplomatic.Demands.Mission.Failed.Influence.reason=\\untranslated
+>>>>>>> upstream/main
 
 \\\\
 \\
@@ -43934,6 +48447,7 @@ Oct.Petitions.Diplomatic.Demands.Petition.OrWar.results+=Если вы не от
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	Oct.Petitions.Diplomatic.Demands.Petition.Generic.results+=Help us keep the world a safer place.
 \\	Oct.Petitions.Diplomatic.Demands.Petition.Generic.results+=We're keeping the world safe. It costs money.
 \\	Oct.Petitions.Diplomatic.Demands.Petition.Generic.results+=It's a dangerous world out there. Pay us and we'll keep you safe.
@@ -44016,6 +48530,8 @@ Oct.Petitions.Diplomatic.Demands.Petition.Decision.NotYet.caption=Пока не�
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Petitions.Diplomatic.Gift.Mission.caption=Gift from {petitioner}
 \\
 \\\\
@@ -44058,6 +48574,20 @@ Oct.Petitions.Diplomatic.Gift.Mission.rewardsCaption=Подарок
 
 \\\\
 \\
+\\	Oct.Petitions.Diplomatic.Gift.Mission.Accepted.Influence.reason=Accepted my gift!
+\\
+\\\\
+Oct.Petitions.Diplomatic.Gift.Mission.Accepted.Influence.reason=\\untranslated
+
+\\\\
+\\
+\\	Oct.Petitions.Diplomatic.Gift.Mission.Rejected.Influence.reason=Rejected my gift!
+\\
+\\\\
+Oct.Petitions.Diplomatic.Gift.Mission.Rejected.Influence.reason=\\untranslated
+
+\\\\
+\\
 \\	Oct.Petitions.Diplomatic.Gift.Petition.caption=Gift
 \\
 \\\\
@@ -44065,6 +48595,7 @@ Oct.Petitions.Diplomatic.Gift.Petition.caption=Подарок
 
 \\\\
 \\
+<<<<<<< HEAD
 \\	speaker: petitioner
 \\
 \\	Oct.Petitions.Diplomatic.Gift.Petition.Intro.lines+=You are great.
@@ -44149,6 +48680,8 @@ Oct.Petitions.Diplomatic.Gift.Petition.Decision.NotYet.caption=Пока нет..
 
 \\\\
 \\
+=======
+>>>>>>> upstream/main
 \\	Oct.Petitions.Diplomatic.Kidnappers.Mission.caption=Rescue Nobles
 \\
 \\\\
@@ -46448,6 +50981,20 @@ Oct.Places.Generators.Prefix.Noun.format=^{prefix}{noun}
 
 \\\\
 \\
+\\	Oct.Projectiles.FireArrow.name=Fire Arrow
+\\
+\\\\
+Oct.Projectiles.FireArrow.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Projectiles.WoodenArrow.name=Wooden Arrow
+\\
+\\\\
+Oct.Projectiles.WoodenArrow.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Props.Adventures.TreasureChest.name=Treasure Chest
 \\
 \\\\
@@ -47341,6 +51888,83 @@ Oct.Props.Attached.FineStone.Spire.Mid.prefabs.1.name=Ствол
 \\
 \\\\
 Oct.Props.Attached.FineStone.Spire.Mid.prefabs.2.name=Вариант ствола
+
+\\\\
+\\
+\\	Oct.Props.Ballista.Launcher.operateText=Operate
+\\
+\\\\
+Oct.Props.Ballista.Launcher.operateText=\\untranslated
+
+\\\\
+\\
+\\	Oct.Props.Ballista.Launcher.operatingText=Operating {prop}
+\\
+\\\\
+Oct.Props.Ballista.Launcher.operatingText=\\untranslated
+
+\\\\
+\\
+\\	Oct.Props.Ballista.Launcher.operatingAtText=Firing {prop} at {target}
+\\
+\\\\
+Oct.Props.Ballista.Launcher.operatingAtText=\\untranslated
+
+\\\\
+\\
+\\	Oct.Props.Ballista.Launcher.Projectile.name=Ballista Bolt
+\\
+\\\\
+Oct.Props.Ballista.Launcher.Projectile.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Props.Ballista.name=Ballista
+\\
+\\\\
+Oct.Props.Ballista.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Props.Ballista.pluralName=Ballistas
+\\
+\\\\
+Oct.Props.Ballista.pluralName=\\untranslated
+
+\\\\
+\\
+\\	Oct.Props.Ballista.toolName=Ballista
+\\
+\\\\
+Oct.Props.Ballista.toolName=\\untranslated
+
+\\\\
+\\
+\\	Oct.Props.Ballista.description=Large Fireable Prop.<br>Accurate, single target.
+\\
+\\\\
+Oct.Props.Ballista.description=\\untranslated
+
+\\\\
+\\
+\\	Oct.Props.Ballista.colorSlots.1.name=Wood
+\\
+\\\\
+Oct.Props.Ballista.colorSlots.1.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Props.Ballista.colorSlots.2.name=Wood
+\\
+\\\\
+Oct.Props.Ballista.colorSlots.2.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Props.Ballista.colorSlots.3.name=Wood
+\\
+\\\\
+Oct.Props.Ballista.colorSlots.3.name=\\untranslated
 
 \\\\
 \\
@@ -49304,6 +53928,13 @@ Oct.Props.Carpet.4CornerPrefab.name=4 угла
 
 \\\\
 \\
+\\	Oct.Props.Catapult.Launcher.Projectile.name=Boulder
+\\
+\\\\
+Oct.Props.Catapult.Launcher.Projectile.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Props.Catapult.name=Catapult
 \\
 \\\\
@@ -49311,7 +53942,7 @@ Oct.Props.Catapult.name=Катапульта
 
 \\\\
 \\
-\\	Oct.Props.Catapult.pluralName=Catapult
+\\	Oct.Props.Catapult.pluralName=Catapults
 \\
 \\\\
 Oct.Props.Catapult.pluralName=Катапульта
@@ -49325,7 +53956,7 @@ Oct.Props.Catapult.toolName=Катапульта
 
 \\\\
 \\
-\\	Oct.Props.Catapult.description=Large fireable structure.
+\\	Oct.Props.Catapult.description=Large Fireable Prop.<br>Innacurate, large AOE.
 \\
 \\\\
 Oct.Props.Catapult.description=Большая стреляющая конструкция.
@@ -60483,6 +65114,13 @@ Oct.Research.Building.Decoration.StandingBanner.name=Штандарты
 
 \\\\
 \\
+\\	Oct.Research.Building.Tactical.Ballista.name=Ballista
+\\
+\\\\
+Oct.Research.Building.Tactical.Ballista.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Research.Building.Decoration.Bandit.BanditArt.name=Bandit Art
 \\
 \\\\
@@ -61778,6 +66416,20 @@ Oct.Research.Smithing.IronRods.name=Железные прутья
 
 \\\\
 \\
+\\	Oct.Research.Smithing.BatteringRam.Bronze.name=Bronze Battering Rams
+\\
+\\\\
+Oct.Research.Smithing.BatteringRam.Bronze.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Research.Smithing.BatteringRam.Steel.name=Steel Battering Rams
+\\
+\\\\
+Oct.Research.Smithing.BatteringRam.Steel.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Research.Smithing.GrapplingHook.Bronze.name=Bronze Grappling Hooks
 \\
 \\\\
@@ -62732,10 +67384,17 @@ Oct.Settings.Game.Sexuality.Titles.Female.Feminine.tooltip=Когда актив
 
 \\\\
 \\
-\\	Oct.Settings.Game.RaidChance.name=Raid Chance
+\\	Oct.Settings.Game.RaidChance.name=Incoming Raid Chance
 \\
 \\\\
 Oct.Settings.Game.RaidChance.name=Шанс рейда
+
+\\\\
+\\
+\\	Oct.Settings.Game.RaidChance.tooltip=Scales the frequency of Raids from NPC Kingdoms.
+\\
+\\\\
+Oct.Settings.Game.RaidChance.tooltip=\\untranslated
 
 \\\\
 \\
@@ -62970,6 +67629,34 @@ Oct.Settings.Game.DifficultMoment.Scale.tooltip=Испытания включа�
 
 \\\\
 \\
+\\	Oct.Settings.Game.Petition.Frequency.name=Petition Frequency
+\\
+\\\\
+Oct.Settings.Game.Petition.Frequency.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Game.Petition.Frequency.tooltip=Frequency of Petitions from other Rulers.
+\\
+\\\\
+Oct.Settings.Game.Petition.Frequency.tooltip=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Game.Petition.Difficulty.name=Average Petition Difficulty
+\\
+\\\\
+Oct.Settings.Game.Petition.Difficulty.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Game.Petition.Difficulty.tooltip=Average Difficulty for Petitions from other Rulers (does not affect existing Petitions).
+\\
+\\\\
+Oct.Settings.Game.Petition.Difficulty.tooltip=\\untranslated
+
+\\\\
+\\
 \\	Oct.Settings.Game.Difficulty.Needs.Scale.name=Negative Need Esteem
 \\
 \\\\
@@ -63061,6 +67748,20 @@ Oct.Settings.Game.Desertion.Warning.tooltip=Продолжительность �
 
 \\\\
 \\
+\\	Oct.Settings.Game.AI.Wealth.name=AI Kingdom Wealth
+\\
+\\\\
+Oct.Settings.Game.AI.Wealth.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Game.AI.Wealth.tooltip=How efficiently AI Kingdoms Accumulate Wealth.
+\\
+\\\\
+Oct.Settings.Game.AI.Wealth.tooltip=\\untranslated
+
+\\\\
+\\
 \\	Oct.Settings.Game.Survival.name=Survival
 \\
 \\\\
@@ -63089,24 +67790,45 @@ Oct.Settings.Game.FoodDecayRate.name=Скорость гниения еды
 
 \\\\
 \\
-\\	Oct.Settings.Game.RaidDifficulty.name=Raid Difficulty
+\\	Oct.Settings.Game.RaidDifficulty.name=Incoming Raid Difficulty
 \\
 \\\\
 Oct.Settings.Game.RaidDifficulty.name=Сложность рейдов
 
 \\\\
 \\
-\\	Oct.Settings.Game.RaidUnannounced.name=Surprise Raids
+\\	Oct.Settings.Game.RaidDifficulty.tooltip=Scales the difficulty of Raids from NPC Kingdoms.
+\\
+\\\\
+Oct.Settings.Game.RaidDifficulty.tooltip=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Game.RaidUnannounced.name=Surprise Incoming Raids
 \\
 \\\\
 Oct.Settings.Game.RaidUnannounced.name=Неожиданные рейды
 
 \\\\
 \\
-\\	Oct.Settings.Game.RaidUnannounced.tooltip=When Enabled - Raids have a chance of Engaging without Warning.
+\\	Oct.Settings.Game.RaidUnannounced.tooltip=When Enabled - Incoming Raids have a chance of Engaging without Warning.
 \\
 \\\\
 Oct.Settings.Game.RaidUnannounced.tooltip=При выборе настройки рейды могут начинаться без предупреждения.
+
+\\\\
+\\
+\\	Oct.Settings.Game.RaidDifficulty.Outgoing.name=Outgoing Raid Difficulty
+\\
+\\\\
+Oct.Settings.Game.RaidDifficulty.Outgoing.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Game.RaidDifficulty.Outgoing.tooltip=Scales the difficulty of Raids from Player Kingdoms.
+\\
+\\\\
+Oct.Settings.Game.RaidDifficulty.Outgoing.tooltip=\\untranslated
 
 \\\\
 \\
@@ -63198,6 +67920,20 @@ Oct.Settings.Game.Building.Reachability.Repair.tooltip=Могут ли смер�
 \\
 \\\\
 Oct.Settings.Game.Information.name=Детали
+
+\\\\
+\\
+\\	Oct.Settings.Game.RetainLivingWorldKnowledge.name=Retain Living World Knowledge
+\\
+\\\\
+Oct.Settings.Game.RetainLivingWorldKnowledge.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Game.RetainLivingWorldKnowledge.tooltip=Whether your Kontra retains Knowledge from the Living World when you start playing.
+\\
+\\\\
+Oct.Settings.Game.RetainLivingWorldKnowledge.tooltip=\\untranslated
 
 \\\\
 \\
@@ -63334,7 +68070,7 @@ Oct.Settings.Game.Characters.VisualExtremes.name=Визуальные преде
 
 \\\\
 \\
-\\	Oct.Settings.Game.Characters.VisualExtremes.tooltip=Controls how Goofy the Character Visuals can be.
+\\	Oct.Settings.Game.Characters.VisualExtremes.tooltip=Controls the Goofiness of Character Visuals.
 \\
 \\\\
 Oct.Settings.Game.Characters.VisualExtremes.tooltip=Управляет крайними значениями внешнего вида персонажей.
@@ -63513,6 +68249,13 @@ Oct.Settings.Global.Graphics.MotionBlur.name=Размывание в движе�
 \\
 \\\\
 Oct.Settings.Global.Graphics.FilmGrain.name=Пленочная зернистость
+
+\\\\
+\\
+\\	Oct.Settings.Global.Graphics.EdgeHighlights.name=Edge Highlights
+\\
+\\\\
+Oct.Settings.Global.Graphics.EdgeHighlights.name=\\untranslated
 
 \\\\
 \\
@@ -63702,6 +68445,20 @@ Oct.Settings.Global.Interface.UntuckTools.choices.3=Всегда
 \\
 \\\\
 Oct.Settings.Global.Interface.UntuckTools.tooltip=Управление при скрытых вкладках на панели «Инструменты».
+
+\\\\
+\\
+\\	Oct.Settings.Global.Interface.Notifications.Visitors.name=Show Visitor Notifications
+\\
+\\\\
+Oct.Settings.Global.Interface.Notifications.Visitors.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Settings.Global.Interface.Notifications.Visitors.tooltip=When enabled, show Visitor notification in the lower right.
+\\
+\\\\
+Oct.Settings.Global.Interface.Notifications.Visitors.tooltip=\\untranslated
 
 \\\\
 \\
@@ -64062,6 +68819,13 @@ Oct.Settings.Global.Controls.Tactics.Melee.name=Ближний бой
 
 \\\\
 \\
+\\	Oct.Settings.Global.Controls.Tactics.Shield.name=Shield
+\\
+\\\\
+Oct.Settings.Global.Controls.Tactics.Shield.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Settings.Global.Controls.Tactics.Ranged.name=Ranged
 \\
 \\\\
@@ -64087,6 +68851,13 @@ Oct.Settings.Global.Controls.Tactics.Defend.name=Защищать позицию
 \\
 \\\\
 Oct.Settings.Global.Controls.Tactics.Hold.name=Удерживать позицию
+
+\\\\
+\\
+\\	Oct.Settings.Global.Controls.Tactics.Stop.name=Stop
+\\
+\\\\
+Oct.Settings.Global.Controls.Tactics.Stop.name=\\untranslated
 
 \\\\
 \\
@@ -64643,6 +69414,13 @@ Oct.Settings.Global.Controls.Maps.DeletePocket.name=Удалить мини-ка
 
 \\\\
 \\
+\\	Oct.Settings.Global.Controls.Debug.HireMerc.name=Hire Mercenary
+\\
+\\\\
+Oct.Settings.Global.Controls.Debug.HireMerc.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Settings.Global.Reporting.name=Reporting
 \\
 \\\\
@@ -64878,6 +69656,20 @@ Oct.StatusEffects.Pregnant.description=У этого смертного буде
 \\
 \\\\
 Oct.StatusEffects.Restrained.name=В путах
+
+\\\\
+\\
+\\	Oct.StatusEffects.ShieldDrawn.name=Shield Drawn
+\\
+\\\\
+Oct.StatusEffects.ShieldDrawn.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.StatusEffects.ShieldDrawn.description=This Mortal has their hands full with a Shield.<br><br>They'll draw additional aggro from nearby enemies, but they'll attack less often and combo less!
+\\
+\\\\
+Oct.StatusEffects.ShieldDrawn.description=\\untranslated
 
 \\\\
 \\
@@ -65813,14 +70605,6 @@ Oct.Story.Kingdom.End.steps.2.notification=Возвыситься? (с росп�
 \\	Oct.Story.Succession.End.lines+=So ends the reign of {prevRuler}.
 \\	Oct.Story.Succession.End.lines+=Ah, there goes {prevRuler}.
 \\	Oct.Story.Succession.End.lines+=Well, that's the end of {prevRuler}.
-\\	Oct.Story.Succession.End.lines+=And thus ends the reign of {prevRuler}.
-\\	Oct.Story.Succession.End.lines+=So ends the reign of {prevRuler}.
-\\	Oct.Story.Succession.End.lines+=Ah, there goes {prevRuler}.
-\\	Oct.Story.Succession.End.lines+=Well, that's the end of {prevRuler}.
-\\	Oct.Story.Succession.End.lines+=And thus ends the reign of {prevRuler}.
-\\	Oct.Story.Succession.End.lines+=So ends the reign of {prevRuler}.
-\\	Oct.Story.Succession.End.lines+=Ah, there goes {prevRuler}.
-\\	Oct.Story.Succession.End.lines+=Well, that's the end of {prevRuler}.
 \\
 \\\\
 Oct.Story.Succession.End.lines+=И так заканчивает правление {prevRuler}.
@@ -65840,14 +70624,6 @@ Oct.Story.Succession.End.lines+=Ну, {prevRuler} на этом все.
 \\
 \\	speaker: kontra; thought
 \\
-\\	Oct.Story.Succession.End.Rest.lines+=May they rest in peace.
-\\	Oct.Story.Succession.End.Rest.lines+=And I liked that one too.
-\\	Oct.Story.Succession.End.Rest.lines+=A solid effort.
-\\	Oct.Story.Succession.End.Rest.lines+=A reasonable reign.
-\\	Oct.Story.Succession.End.Rest.lines+=May they rest in peace.
-\\	Oct.Story.Succession.End.Rest.lines+=And I liked that one too.
-\\	Oct.Story.Succession.End.Rest.lines+=A solid effort.
-\\	Oct.Story.Succession.End.Rest.lines+=A reasonable reign.
 \\	Oct.Story.Succession.End.Rest.lines+=May they rest in peace.
 \\	Oct.Story.Succession.End.Rest.lines+=And I liked that one too.
 \\	Oct.Story.Succession.End.Rest.lines+=A solid effort.
@@ -65875,14 +70651,6 @@ Oct.Story.Succession.End.Rest.lines+=Вполне достойное правл�
 \\	Oct.Story.Succession.End.Rest.NewRuler.lines+=Next up, {ruler}.
 \\	Oct.Story.Succession.End.Rest.NewRuler.lines+={ruler} is taking over.
 \\	Oct.Story.Succession.End.Rest.NewRuler.lines+={ruler} takes the big chair now.
-\\	Oct.Story.Succession.End.Rest.NewRuler.lines+=Looks like it's {ruler}'s time to shine.
-\\	Oct.Story.Succession.End.Rest.NewRuler.lines+=Next up, {ruler}.
-\\	Oct.Story.Succession.End.Rest.NewRuler.lines+={ruler} is taking over.
-\\	Oct.Story.Succession.End.Rest.NewRuler.lines+={ruler} takes the big chair now.
-\\	Oct.Story.Succession.End.Rest.NewRuler.lines+=Looks like it's {ruler}'s time to shine.
-\\	Oct.Story.Succession.End.Rest.NewRuler.lines+=Next up, {ruler}.
-\\	Oct.Story.Succession.End.Rest.NewRuler.lines+={ruler} is taking over.
-\\	Oct.Story.Succession.End.Rest.NewRuler.lines+={ruler} takes the big chair now.
 \\
 \\\\
 Oct.Story.Succession.End.Rest.NewRuler.lines+=Похоже, теперь {ruler} получает возможность себя проявить.
@@ -65902,14 +70670,6 @@ Oct.Story.Succession.End.Rest.NewRuler.lines+=Теперь {ruler} будет с
 \\
 \\	speaker: kontra; thought
 \\
-\\	Oct.Story.Succession.End.Rest.NewRuler.Forward.lines+=Long may they reign.
-\\	Oct.Story.Succession.End.Rest.NewRuler.Forward.lines+=Let's see where they take things.
-\\	Oct.Story.Succession.End.Rest.NewRuler.Forward.lines+=I wonder how they'll handle it.
-\\	Oct.Story.Succession.End.Rest.NewRuler.Forward.lines+=An interesting turn of events.
-\\	Oct.Story.Succession.End.Rest.NewRuler.Forward.lines+=Long may they reign.
-\\	Oct.Story.Succession.End.Rest.NewRuler.Forward.lines+=Let's see where they take things.
-\\	Oct.Story.Succession.End.Rest.NewRuler.Forward.lines+=I wonder how they'll handle it.
-\\	Oct.Story.Succession.End.Rest.NewRuler.Forward.lines+=An interesting turn of events.
 \\	Oct.Story.Succession.End.Rest.NewRuler.Forward.lines+=Long may they reign.
 \\	Oct.Story.Succession.End.Rest.NewRuler.Forward.lines+=Let's see where they take things.
 \\	Oct.Story.Succession.End.Rest.NewRuler.Forward.lines+=I wonder how they'll handle it.
