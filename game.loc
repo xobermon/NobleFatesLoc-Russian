@@ -3,7 +3,7 @@
 \\	Ocde.Code.Command.Score.PersonalCommand.Definition=This Command belongs to this Mortal.
 \\
 \\\\
-Ocde.Code.Command.Score.PersonalCommand.Definition=\\untranslated
+Ocde.Code.Command.Score.PersonalCommand.Definition=Эта Команда принадлежит этому Смертному.\\autotranslated
 
 \\\\
 \\
@@ -8527,21 +8527,21 @@ Oct.Code.Building.Type.None=Нет
 \\	Oct.Code.Catapult.Fire=Fire
 \\
 \\\\
-Oct.Code.Catapult.Fire=\\untranslated
+Oct.Code.Catapult.Fire=Огонь
 
 \\\\
 \\
 \\	Oct.Code.Catapult.Firing=Firing {prop}
 \\
 \\\\
-Oct.Code.Catapult.Firing=\\untranslated
+Oct.Code.Catapult.Firing=Стреляет: {prop}
 
 \\\\
 \\
 \\	Oct.Code.Catapult.Firing.At=Firing {prop} at {target}
 \\
 \\\\
-Oct.Code.Catapult.Firing.At=\\untranslated
+Oct.Code.Catapult.Firing.At=Стреляет: {prop} по цели ({target})
 
 \\\\
 \\
@@ -8604,35 +8604,35 @@ Oct.Code.Character.Age.Adult.Old=Пожилой
 \\	Oct.Code.Character.Preset.Overwrite=Overwrite?
 \\
 \\\\
-Oct.Code.Character.Preset.Overwrite=\\untranslated
+Oct.Code.Character.Preset.Overwrite=Перезаписать?\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.AlreadyExists=A Preset with this Name already Exists.<br><br>Overwrite?<br>
 \\
 \\\\
-Oct.Code.Character.Preset.AlreadyExists=\\untranslated
+Oct.Code.Character.Preset.AlreadyExists=Предустановка с таким именем уже существует.<br><br>Перезаписать?<br>\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.Apply.header=Apply Preset?
 \\
 \\\\
-Oct.Code.Character.Preset.Apply.header=\\untranslated
+Oct.Code.Character.Preset.Apply.header=Применить предустановку?\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.Apply=The Preset will overwrite this Mortals details.<br><br>Continue?<br>
 \\
 \\\\
-Oct.Code.Character.Preset.Apply=\\untranslated
+Oct.Code.Character.Preset.Apply=Предустановка перезапишет данные этого Смертного.<br><br>Продолжить?<br>\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.Delete.Header=Delete Preset?
 \\
 \\\\
-Oct.Code.Character.Preset.Delete.Header=\\untranslated
+Oct.Code.Character.Preset.Delete.Header=Удалить предустановку?\\autotranslated
 
 \\\\
 \\
@@ -9241,7 +9241,7 @@ Oct.Code.Characters.Commands.Tame=Приручить
 \\	Oct.Code.Characters.Commands.Evangelize=Evangelize
 \\
 \\\\
-Oct.Code.Characters.Commands.Evangelize=\\untranslated
+Oct.Code.Characters.Commands.Evangelize=Евангелизировать\\autotranslated
 
 \\\\
 \\
@@ -9983,7 +9983,7 @@ Oct.Code.Characters.Relationship.Child=ребенок
 \\	Oct.Code.Characters.Instincts.Controlled=Controlled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Controlled=\\untranslated
+Oct.Code.Characters.Instincts.Controlled=Под управлением
 
 \\\\
 \\
@@ -10018,28 +10018,28 @@ Oct.Code.Characters.ThirdPerson.Controls.DropAll=Бросить все
 \\	Oct.Code.Characters.Instincts.Downed.Carried=Carried
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Carried=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Carried=Унесенный\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Downed.Downed=Downed
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Downed=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Downed=Без движения
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Downed.Unconscious=Unconscious
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Unconscious=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Unconscious=Бессознательный\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Downed.Tantrum=Throwing a Tantrum
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Tantrum=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Tantrum=Устраивать истерику\\autotranslated
 
 \\\\
 \\
@@ -10053,56 +10053,56 @@ Oct.Code.Characters.Pain.BloodLoss=Потеря крови
 \\	Oct.Code.Characters.Instincts.Eat=Eat
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat=\\untranslated
+Oct.Code.Characters.Instincts.Eat=Есть\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.Eating=Eating
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.Eating=\\untranslated
+Oct.Code.Characters.Instincts.Eat.Eating=Еда\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.BeingFed=Being Fed
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.BeingFed=\\untranslated
+Oct.Code.Characters.Instincts.Eat.BeingFed=Быть сытым\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.Hungry=Hungry
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.Hungry=\\untranslated
+Oct.Code.Characters.Instincts.Eat.Hungry=Голодный\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.Hungry.NoFood=No Food Available
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.Hungry.NoFood=\\untranslated
+Oct.Code.Characters.Instincts.Eat.Hungry.NoFood=Нет еды\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.NotHungry=Not Hungry
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.NotHungry=\\untranslated
+Oct.Code.Characters.Instincts.Eat.NotHungry=Не голоден\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Emote=Emote
 \\
 \\\\
-Oct.Code.Characters.Instincts.Emote=\\untranslated
+Oct.Code.Characters.Instincts.Emote=Эмоция\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Emote.Dancing=Dancing
 \\
 \\\\
-Oct.Code.Characters.Instincts.Emote.Dancing=\\untranslated
+Oct.Code.Characters.Instincts.Emote.Dancing=Танцы\\autotranslated
 
 \\\\
 \\
@@ -10130,14 +10130,14 @@ Oct.Code.Characters.Toasts.Escape.Thwarted={character} убегает, но не
 \\	Oct.Code.Characters.Instincts.Escape=Escape
 \\
 \\\\
-Oct.Code.Characters.Instincts.Escape=\\untranslated
+Oct.Code.Characters.Instincts.Escape=Побег\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Escape.Escaping=Escaping
 \\
 \\\\
-Oct.Code.Characters.Instincts.Escape.Escaping=\\untranslated
+Oct.Code.Characters.Instincts.Escape.Escaping=Убегает
 
 \\\\
 \\
@@ -10179,28 +10179,28 @@ Oct.Code.Characters.State.Escaping=Убегает
 \\	Oct.Code.Characters.Instincts.Fight=Fight
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight=\\untranslated
+Oct.Code.Characters.Instincts.Fight=Драться\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Fight.Fighting=Fighting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight.Fighting=\\untranslated
+Oct.Code.Characters.Instincts.Fight.Fighting=Борьба\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Fight.WantsToFIght=Wants to Fight
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight.WantsToFIght=\\untranslated
+Oct.Code.Characters.Instincts.Fight.WantsToFIght=Хочет драться\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Fight.Enlisted=Enlisted
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight.Enlisted=\\untranslated
+Oct.Code.Characters.Instincts.Fight.Enlisted=Мобилиз.
 
 \\\\
 \\
@@ -10214,28 +10214,28 @@ Oct.Code.Characters.State.Fighting=Сражается
 \\	Oct.Code.Characters.Instincts.Flee=Flee
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee=\\untranslated
+Oct.Code.Characters.Instincts.Flee=Бежать\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Flee.Enlisted=Enlisted
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee.Enlisted=\\untranslated
+Oct.Code.Characters.Instincts.Flee.Enlisted=Мобилиз.
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Flee.UnderFire=Under Fire
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee.UnderFire=\\untranslated
+Oct.Code.Characters.Instincts.Flee.UnderFire=Под огнем\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Flee.Fire=Fire
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee.Fire=\\untranslated
+Oct.Code.Characters.Instincts.Flee.Fire=Огонь\\autotranslated
 
 \\\\
 \\
@@ -10249,21 +10249,21 @@ Oct.Code.Characters.State.Fleeing=Тикает
 \\	Oct.Code.Characters.Instincts.Graze=Graze
 \\
 \\\\
-Oct.Code.Characters.Instincts.Graze=\\untranslated
+Oct.Code.Characters.Instincts.Graze=Пастись\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Graze.Grazing=Grazing
 \\
 \\\\
-Oct.Code.Characters.Instincts.Graze.Grazing=\\untranslated
+Oct.Code.Characters.Instincts.Graze.Grazing=Выпас скота\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Graze.NoFoodNearby=No Food Nearby
 \\
 \\\\
-Oct.Code.Characters.Instincts.Graze.NoFoodNearby=\\untranslated
+Oct.Code.Characters.Instincts.Graze.NoFoodNearby=Нет еды поблизости\\autotranslated
 
 \\\\
 \\
@@ -10277,28 +10277,28 @@ Oct.Code.Characters.State.Grazing=Пасется
 \\	Oct.Code.Characters.Instincts.Herd=Herd
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd=\\untranslated
+Oct.Code.Characters.Instincts.Herd=Стадо\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Herd.Hungry=Hungry
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd.Hungry=\\untranslated
+Oct.Code.Characters.Instincts.Herd.Hungry=Голодный\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Herd.TargetTooFar=Target Too Far
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd.TargetTooFar=\\untranslated
+Oct.Code.Characters.Instincts.Herd.TargetTooFar=Цель слишком далеко\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Herd.NewTarget=New Target
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd.NewTarget=\\untranslated
+Oct.Code.Characters.Instincts.Herd.NewTarget=Новая цель\\autotranslated
 
 \\\\
 \\
@@ -10312,14 +10312,14 @@ Oct.Code.Characters.State.FollowingHerd=Следует за стадом
 \\	Oct.Code.Characters.Instincts.Hunt=Hunt
 \\
 \\\\
-Oct.Code.Characters.Instincts.Hunt=\\untranslated
+Oct.Code.Characters.Instincts.Hunt=Охота\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Hunt.Hunting=Hunting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Hunt.Hunting=\\untranslated
+Oct.Code.Characters.Instincts.Hunt.Hunting=Охотится
 
 \\\\
 \\
@@ -10333,98 +10333,98 @@ Oct.Code.Characters.State.Hunting=Охотится
 \\	Oct.Code.Characters.Instincts.Relax=Relax
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax=\\untranslated
+Oct.Code.Characters.Instincts.Relax=Расслабляться\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Celebrating=Celebrating
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Celebrating=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Celebrating=Празднование\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Scheduled=Scheduled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Scheduled=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Scheduled=Запланировано\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.DisregardingSchedule=Disregarding Schedule
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.DisregardingSchedule=\\untranslated
+Oct.Code.Characters.Instincts.Relax.DisregardingSchedule=Игнорирование расписания\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Yodeling=Yodeling
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Yodeling=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Yodeling=Йодлит
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Sit=Sitting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Sit=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Sit=Сидя\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.CanRelax=Can Relax
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.CanRelax=\\untranslated
+Oct.Code.Characters.Instincts.Relax.CanRelax=Можно расслабиться\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest=Rest
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest=\\untranslated
+Oct.Code.Characters.Instincts.Rest=Отдых\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.UntilHealed=Resting Until Healed
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.UntilHealed=\\untranslated
+Oct.Code.Characters.Instincts.Rest.UntilHealed=Отдыхать до выздоровления\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.Ordered=Ordered
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.Ordered=\\untranslated
+Oct.Code.Characters.Instincts.Rest.Ordered=Заказано\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.Resting=Resting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.Resting=\\untranslated
+Oct.Code.Characters.Instincts.Rest.Resting=Отдыхая\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.NeedRest=Need Rest
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.NeedRest=\\untranslated
+Oct.Code.Characters.Instincts.Rest.NeedRest=Нужен отдых\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.Scheduled=Scheduled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.Scheduled=\\untranslated
+Oct.Code.Characters.Instincts.Rest.Scheduled=Запланировано\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.InPain=In Pain
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.InPain=\\untranslated
+Oct.Code.Characters.Instincts.Rest.InPain=В боли\\autotranslated
 
 \\\\
 \\
@@ -10445,84 +10445,84 @@ Oct.Code.Characters.State.Sleepign=Спит
 \\	Oct.Code.Characters.Instincts.Socialize=Socialize
 \\
 \\\\
-Oct.Code.Characters.Instincts.Socialize=\\untranslated
+Oct.Code.Characters.Instincts.Socialize=Общаться\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Socialize.NeedsTo=Need to Socialize
 \\
 \\\\
-Oct.Code.Characters.Instincts.Socialize.NeedsTo=\\untranslated
+Oct.Code.Characters.Instincts.Socialize.NeedsTo=Необходимость социализации\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Socialize.WantsTo=Want to Socialize
 \\
 \\\\
-Oct.Code.Characters.Instincts.Socialize.WantsTo=\\untranslated
+Oct.Code.Characters.Instincts.Socialize.WantsTo=Хочу пообщаться\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work=Work
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work=\\untranslated
+Oct.Code.Characters.Instincts.Work=Работа\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.Ordered=Ordered
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.Ordered=\\untranslated
+Oct.Code.Characters.Instincts.Work.Ordered=Заказано\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.FightingFire=Fighting Fire
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.FightingFire=\\untranslated
+Oct.Code.Characters.Instincts.Work.FightingFire=Борьба с огнем\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.CriticalWork=Critical Work
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.CriticalWork=\\untranslated
+Oct.Code.Characters.Instincts.Work.CriticalWork=Критическая работа\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.Scheduled=Scheduled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.Scheduled=\\untranslated
+Oct.Code.Characters.Instincts.Work.Scheduled=Запланировано\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.Working=Working
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.Working=\\untranslated
+Oct.Code.Characters.Instincts.Work.Working=Работающий\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.ToDo=Have Work to do
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.ToDo=\\untranslated
+Oct.Code.Characters.Instincts.Work.ToDo=Есть работа, которую нужно сделать\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.TakingABreak=Taking a Break
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.TakingABreak=\\untranslated
+Oct.Code.Characters.Instincts.Work.TakingABreak=Делаю перерыв\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.NoWorkToDo=No Work to do
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.NoWorkToDo=\\untranslated
+Oct.Code.Characters.Instincts.Work.NoWorkToDo=Нет работы\\autotranslated
 
 \\\\
 \\
@@ -12013,7 +12013,7 @@ Oct.Code.Characters.Sheet.Tabs.Jobs=Работа
 \\	Oct.Code.Characters.Sheet.Tabs.Work=Work
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Work=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Work=Работа\\autotranslated
 
 \\\\
 \\
@@ -12195,21 +12195,21 @@ Oct.Code.Characters.Rename.Kingdom.Lands=Земли королевства
 \\	Oct.Code.Characters.Sheet.Work.Title=Work Queue
 \\
 \\\\
-Oct.Code.Characters.Sheet.Work.Title=\\untranslated
+Oct.Code.Characters.Sheet.Work.Title=Очередь работ\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Work.Tooltip=The Work Queue lists the Commands this Mortal considered when last deciding what to do.\n\nCommands are listed in the order the Mortal will do them - hover a Command to access the list of reasons why.\n\nThe time remaining until their next evaluation is at the bottom.
 \\
 \\\\
-Oct.Code.Characters.Sheet.Work.Tooltip=\\untranslated
+Oct.Code.Characters.Sheet.Work.Tooltip=В Очереди работ перечислены Команды, которые этот Смертный рассматривал, когда в последний раз решал, что делать.\n\nКоманды перечислены в том порядке, в котором Смертный будет их выполнять — наведите курсор на Команду, чтобы получить доступ к списку причин.\n\nВремя, оставшееся до следующей оценки, указано внизу.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Work.Tooltip.Glossary=Glossary
 \\
 \\\\
-Oct.Code.Characters.Sheet.Work.Tooltip.Glossary=\\untranslated
+Oct.Code.Characters.Sheet.Work.Tooltip.Glossary=Глоссарий\\autotranslated
 
 \\\\
 \\
@@ -12230,14 +12230,14 @@ Oct.Code.Characters.Sheet.Rename.Tooltip=Редактировать имя
 \\	Oct.Code.Characters.Sheet.Edit.Character.Tooltip=Edit
 \\
 \\\\
-Oct.Code.Characters.Sheet.Edit.Character.Tooltip=Редактировать внешность
+Oct.Code.Characters.Sheet.Edit.Character.Tooltip=Редактировать\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Instincts=Instincts
 \\
 \\\\
-Oct.Code.Characters.Sheet.Instincts=\\untranslated
+Oct.Code.Characters.Sheet.Instincts=Инстинкты\\autotranslated
 
 \\\\
 \\
@@ -12629,28 +12629,28 @@ Oct.Code.Characters.Editor.Tabs.Appearance=Внешность
 \\	Oct.Code.Characters.Preset.Save.Title=Save Preset?
 \\
 \\\\
-Oct.Code.Characters.Preset.Save.Title=\\untranslated
+Oct.Code.Characters.Preset.Save.Title=Сохранить предустановку?\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Preset.Save.Name=Name
 \\
 \\\\
-Oct.Code.Characters.Preset.Save.Name=\\untranslated
+Oct.Code.Characters.Preset.Save.Name=Имя\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Preset.Save=Save
 \\
 \\\\
-Oct.Code.Characters.Preset.Save=\\untranslated
+Oct.Code.Characters.Preset.Save=Сохранять\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Preset.Apply.Header=Apply a Preset
 \\
 \\\\
-Oct.Code.Characters.Preset.Apply.Header=\\untranslated
+Oct.Code.Characters.Preset.Apply.Header=Применить предустановку\\autotranslated
 
 \\\\
 \\
@@ -12664,21 +12664,21 @@ Oct.Code.Characters.Editor.Header=Редактировать: {character.short}
 \\	Oct.Code.Characters.Presets=Presets
 \\
 \\\\
-Oct.Code.Characters.Presets=\\untranslated
+Oct.Code.Characters.Presets=Пресеты\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Presets.Save=Save
 \\
 \\\\
-Oct.Code.Characters.Presets.Save=\\untranslated
+Oct.Code.Characters.Presets.Save=Сохранять\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Presets.Apply=Apply
 \\
 \\\\
-Oct.Code.Characters.Presets.Apply=\\untranslated
+Oct.Code.Characters.Presets.Apply=Применять\\autotranslated
 
 \\\\
 \\
@@ -13322,7 +13322,7 @@ Oct.Code.Command.Blocked.PrivatelyOwned=Принадлежит кому-то
 \\	Oct.Code.Command.Blocked.TargetBusy=Target is Busy
 \\
 \\\\
-Oct.Code.Command.Blocked.TargetBusy=\\untranslated
+Oct.Code.Command.Blocked.TargetBusy=Цель занята\\autotranslated
 
 \\\\
 \\
@@ -13343,14 +13343,14 @@ Oct.Code.Command.Micro={command}: {target}
 \\	Oct.Code.Command.Blocked.NothingToShare=Nothing to Share
 \\
 \\\\
-Oct.Code.Command.Blocked.NothingToShare=\\untranslated
+Oct.Code.Command.Blocked.NothingToShare=Нечем поделиться\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Blocked.WontListen={character} won't listen
 \\
 \\\\
-Oct.Code.Command.Blocked.WontListen=\\untranslated
+Oct.Code.Command.Blocked.WontListen={character} не будет слушать\\autotranslated
 
 \\\\
 \\
@@ -13399,63 +13399,63 @@ Oct.Code.Command.Blocked.NeedProp=Есть нужда: {prop}
 \\	Oct.Code.Command.Score.PeronalCommand=Personal Command
 \\
 \\\\
-Oct.Code.Command.Score.PeronalCommand=\\untranslated
+Oct.Code.Command.Score.PeronalCommand=Личное командование\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobPriority=Job Priority
 \\
 \\\\
-Oct.Code.Command.Score.JobPriority=\\untranslated
+Oct.Code.Command.Score.JobPriority=Приоритет работы\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobPriority.Definition=This Command's Job's Priority for this Mortal from the Jobs Screen.
 \\
 \\\\
-Oct.Code.Command.Score.JobPriority.Definition=\\untranslated
+Oct.Code.Command.Score.JobPriority.Definition=Приоритет задания этой команды для этого смертного на экране заданий.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.CommandRushed=Command Rushed
 \\
 \\\\
-Oct.Code.Command.Score.CommandRushed=\\untranslated
+Oct.Code.Command.Score.CommandRushed=Команда рванулась\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.CommandRushed.Definition=This Command has been Rushed.
 \\
 \\\\
-Oct.Code.Command.Score.CommandRushed.Definition=\\untranslated
+Oct.Code.Command.Score.CommandRushed.Definition=Это распоряжение было выполнено в спешке.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobSequence=Job Sequence
 \\
 \\\\
-Oct.Code.Command.Score.JobSequence=\\untranslated
+Oct.Code.Command.Score.JobSequence=Последовательность работ\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobSequence.Definition=This Command's Sequence within it's Job - see the Job on the Jobs Screen for the full list.
 \\
 \\\\
-Oct.Code.Command.Score.JobSequence.Definition=\\untranslated
+Oct.Code.Command.Score.JobSequence.Definition=Последовательность этой команды в ее задании — полный список см. на экране заданий.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.HelpSetupBase=Help Setup Base
 \\
 \\\\
-Oct.Code.Command.Score.HelpSetupBase=\\untranslated
+Oct.Code.Command.Score.HelpSetupBase=Помощь в настройке базы\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.HelpSetupBase.Definition=This Command is important to setting up the initial base, so the Mortal will help even if not assigned to its Job.
 \\
 \\\\
-Oct.Code.Command.Score.HelpSetupBase.Definition=\\untranslated
+Oct.Code.Command.Score.HelpSetupBase.Definition=Эта команда важна для создания первоначальной базы, поэтому Смертный поможет, даже если ему не поручена эта работа.\\autotranslated
 
 \\\\
 \\
@@ -13546,14 +13546,14 @@ Oct.Code.Commands.CaptureCharacter.Status=Захватывает: {character}
 \\	Oct.Code.Commands.Heuristics.NoBabiesNearby=No Babies Nearby
 \\
 \\\\
-Oct.Code.Commands.Heuristics.NoBabiesNearby=\\untranslated
+Oct.Code.Commands.Heuristics.NoBabiesNearby=Нет детей поблизости\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristics.Outdoors=Outdoors
 \\
 \\\\
-Oct.Code.Commands.Heuristics.Outdoors=\\untranslated
+Oct.Code.Commands.Heuristics.Outdoors=На открытом воздухе\\autotranslated
 
 \\\\
 \\
@@ -13686,14 +13686,14 @@ Oct.Code.Commands.Blocked.Characters.TreatedBy=Получен уход: {charact
 \\	Oct.Code.Commands.Heuristic.Distance=Distance
 \\
 \\\\
-Oct.Code.Commands.Heuristic.Distance=\\untranslated
+Oct.Code.Commands.Heuristic.Distance=Расстояние\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristic.Age=Age
 \\
 \\\\
-Oct.Code.Commands.Heuristic.Age=\\untranslated
+Oct.Code.Commands.Heuristic.Age=Возраст\\autotranslated
 
 \\\\
 \\
@@ -13728,7 +13728,7 @@ Oct.Code.Commands.ConstructProp.Status=Строит: {prop}
 \\	Oct.Code.Commands.Heuristics.AwaitingResources=Awaiting Resources
 \\
 \\\\
-Oct.Code.Commands.Heuristics.AwaitingResources=\\untranslated
+Oct.Code.Commands.Heuristics.AwaitingResources=Ожидание ресурсов\\autotranslated
 
 \\\\
 \\
@@ -13840,7 +13840,7 @@ Oct.Code.Commands.DeliverItems.Status=Доставляет: {items}
 \\	Oct.Code.Commands.Heuristics.CharacterAbove=Character Above
 \\
 \\\\
-Oct.Code.Commands.Heuristics.CharacterAbove=\\untranslated
+Oct.Code.Commands.Heuristics.CharacterAbove=Персонаж выше\\autotranslated
 
 \\\\
 \\
@@ -13910,21 +13910,21 @@ Oct.Code.Commands.Equip.Blocked.Unowned=Ничье
 \\	Oct.Code.Commands.Evangelize.Status=Evangelizing {ruler.con(myself,you,{ruler})} to {character}
 \\
 \\\\
-Oct.Code.Commands.Evangelize.Status=\\untranslated
+Oct.Code.Commands.Evangelize.Status=Проповедь правителя {character}\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Evangelize.Verb=Evangelize {ruler.con(myself,you,{ruler})} To
 \\
 \\\\
-Oct.Code.Commands.Evangelize.Verb=\\untranslated
+Oct.Code.Commands.Evangelize.Verb=Евангелизировать правителя\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Evangelize.CommandVerbNoun=Evangelize {ruler.con(myself,you,{ruler})} to {character}
 \\
 \\\\
-Oct.Code.Commands.Evangelize.CommandVerbNoun=\\untranslated
+Oct.Code.Commands.Evangelize.CommandVerbNoun=Евангелизировать правителя {character}\\autotranslated
 
 \\\\
 \\
@@ -13938,14 +13938,14 @@ Oct.Code.Commands.Blocked.Character.Downed={character} лежит без дви�
 \\	Oct.Code.Commands.Blocked.Character.IsEnemy={character} is an Enemy
 \\
 \\\\
-Oct.Code.Commands.Blocked.Character.IsEnemy=\\untranslated
+Oct.Code.Commands.Blocked.Character.IsEnemy={character} — враг\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristics.CharacterFoodNeed=Character Food Need
 \\
 \\\\
-Oct.Code.Commands.Heuristics.CharacterFoodNeed=\\untranslated
+Oct.Code.Commands.Heuristics.CharacterFoodNeed=Потребность в еде персонажа\\autotranslated
 
 \\\\
 \\
@@ -14211,14 +14211,14 @@ Oct.Code.Commands.Influence.Subject=Воспитывать на тему — {su
 \\	Oct.Code.Commands.Influence.CommandVerbNoun=Preach to {character} about {subject}
 \\
 \\\\
-Oct.Code.Commands.Influence.CommandVerbNoun=\\untranslated
+Oct.Code.Commands.Influence.CommandVerbNoun=Проповедуйте {character1} о {subject1}\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Influence.Importance=Importance
 \\
 \\\\
-Oct.Code.Commands.Influence.Importance=\\untranslated
+Oct.Code.Commands.Influence.Importance=Важность\\autotranslated
 
 \\\\
 \\
@@ -14295,7 +14295,7 @@ Oct.Code.Commands.Blocked.NoMilk=Нет молока
 \\	Oct.Code.Commands.Blocked.LowMilk=Low Milk
 \\
 \\\\
-Oct.Code.Commands.Blocked.LowMilk=\\untranslated
+Oct.Code.Commands.Blocked.LowMilk=Низкое содержание молока\\autotranslated
 
 \\\\
 \\
@@ -14358,7 +14358,7 @@ Oct.Code.Commands.Blocked.ProductionSatisfied=Сделано достаточн�
 \\	Oct.Code.Commands.Blocked.Waiting=Waiting
 \\
 \\\\
-Oct.Code.Commands.Blocked.Waiting=\\untranslated
+Oct.Code.Commands.Blocked.Waiting=Ожидающий\\autotranslated
 
 \\\\
 \\
@@ -14638,7 +14638,7 @@ Oct.Code.Commands.Blocked.Bed.Unreachable=Нельзя добраться до �
 \\	Oct.Code.Commands.Heuristics.AlreadyStored=Already Stored
 \\
 \\\\
-Oct.Code.Commands.Heuristics.AlreadyStored=\\untranslated
+Oct.Code.Commands.Heuristics.AlreadyStored=Уже сохранено\\autotranslated
 
 \\\\
 \\
@@ -14701,112 +14701,112 @@ Oct.Code.Commands.Clean=Убирать
 \\	Oct.Code.Commands.Score.CommandPriority=Command Priority
 \\
 \\\\
-Oct.Code.Commands.Score.CommandPriority=\\untranslated
+Oct.Code.Commands.Score.CommandPriority=Приоритет команды\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.NotAssigned=Not Assigned
 \\
 \\\\
-Oct.Code.Commands.Score.NotAssigned=\\untranslated
+Oct.Code.Commands.Score.NotAssigned=Не назначено\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Complete=Complete
 \\
 \\\\
-Oct.Code.Commands.Score.Complete=\\untranslated
+Oct.Code.Commands.Score.Complete=Полный\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Critical=Critical
 \\
 \\\\
-Oct.Code.Commands.Score.Critical=\\untranslated
+Oct.Code.Commands.Score.Critical=Критический\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Critical.Definition=This Command is Critical to Survival.
 \\
 \\\\
-Oct.Code.Commands.Score.Critical.Definition=\\untranslated
+Oct.Code.Commands.Score.Critical.Definition=Эта команда имеет решающее значение для выживания.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Work=Work
 \\
 \\\\
-Oct.Code.Commands.Score.Work=\\untranslated
+Oct.Code.Commands.Score.Work=Работа\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Work.Definition=This Command is included in one of the Mortal's Jobs.
 \\
 \\\\
-Oct.Code.Commands.Score.Work.Definition=\\untranslated
+Oct.Code.Commands.Score.Work.Definition=Эта команда входит в одну из работ смертного.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.JobPrioritized=Job Prioritized
 \\
 \\\\
-Oct.Code.Commands.Score.JobPrioritized=\\untranslated
+Oct.Code.Commands.Score.JobPrioritized=Работа приоритетна\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.JobPrioritized.Definition=This Command's Job has been Prioritized from the top of the Jobs Screen.
 \\
 \\\\
-Oct.Code.Commands.Score.JobPrioritized.Definition=\\untranslated
+Oct.Code.Commands.Score.JobPrioritized.Definition=Заданию этой команды присвоен приоритет в верхней части экрана заданий.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.SetupBaseFirst=Setup Base first
 \\
 \\\\
-Oct.Code.Commands.Score.SetupBaseFirst=\\untranslated
+Oct.Code.Commands.Score.SetupBaseFirst=Сначала настройте базу\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.SetupBaseFirst.Definition=This Command is less important than setting up the initial base.
 \\
 \\\\
-Oct.Code.Commands.Score.SetupBaseFirst.Definition=\\untranslated
+Oct.Code.Commands.Score.SetupBaseFirst.Definition=Эта команда менее важна, чем создание первоначальной базы.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Deltas.OutOfTime=Job Time Limit Reached
 \\
 \\\\
-Oct.Code.Commands.Deltas.OutOfTime=\\untranslated
+Oct.Code.Commands.Deltas.OutOfTime=Достигнут лимит времени выполнения задания\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.NotIncludedInScheme=Not Included in Scheme
 \\
 \\\\
-Oct.Code.Commands.Score.NotIncludedInScheme=\\untranslated
+Oct.Code.Commands.Score.NotIncludedInScheme=Не включено в схему\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.HelpOut=Help out
 \\
 \\\\
-Oct.Code.Commands.Score.HelpOut=\\untranslated
+Oct.Code.Commands.Score.HelpOut=Помогите\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Deltas.InBattle=Target in Battle
 \\
 \\\\
-Oct.Code.Commands.Deltas.InBattle=\\untranslated
+Oct.Code.Commands.Deltas.InBattle=Цель в бою\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristic.Blocked=Blocked
 \\
 \\\\
-Oct.Code.Commands.Heuristic.Blocked=\\untranslated
+Oct.Code.Commands.Heuristic.Blocked=Заблокировано\\autotranslated
 
 \\\\
 \\
@@ -14820,7 +14820,7 @@ Oct.Code.Commands.Items.Move=Передвинуть
 \\	Oct.Code.Commands.items.AssignedStorage=Assigned Storage
 \\
 \\\\
-Oct.Code.Commands.items.AssignedStorage=\\untranslated
+Oct.Code.Commands.items.AssignedStorage=Назначенное хранилище\\autotranslated
 
 \\\\
 \\
@@ -15044,63 +15044,63 @@ Oct.Code.Commands.Gather=Добывать
 \\	Oct.Code.Commands.Work.Modifiers=Modifiers
 \\
 \\\\
-Oct.Code.Commands.Work.Modifiers=\\untranslated
+Oct.Code.Commands.Work.Modifiers=Модификаторы\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Assigned=Assigned
 \\
 \\\\
-Oct.Code.Commands.Assigned=\\untranslated
+Oct.Code.Commands.Assigned=Назначенный\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Queued=Queued
 \\
 \\\\
-Oct.Code.Commands.Queued=\\untranslated
+Oct.Code.Commands.Queued=В очереди\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.CharacterAssigned={character} Assigned
 \\
 \\\\
-Oct.Code.Commands.CharacterAssigned=\\untranslated
+Oct.Code.Commands.CharacterAssigned={character} Назначен\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.QueuedFor=Queued for {character}
 \\
 \\\\
-Oct.Code.Commands.QueuedFor=\\untranslated
+Oct.Code.Commands.QueuedFor=В очереди на {character}\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.WasBlocked=Was Blocked
 \\
 \\\\
-Oct.Code.Commands.WasBlocked=\\untranslated
+Oct.Code.Commands.WasBlocked=Был заблокирован\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Unassigned=Unassigned
 \\
 \\\\
-Oct.Code.Commands.Unassigned=\\untranslated
+Oct.Code.Commands.Unassigned=Неназначенный\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Work.Score=Score
 \\
 \\\\
-Oct.Code.Commands.Work.Score=\\untranslated
+Oct.Code.Commands.Work.Score=Счет\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Work.Reasons=Reasons
 \\
 \\\\
-Oct.Code.Commands.Work.Reasons=\\untranslated
+Oct.Code.Commands.Work.Reasons=Причины\\autotranslated
 
 \\\\
 \\
@@ -15310,7 +15310,7 @@ Oct.Code.Common.Decays=Сгниет
 \\	Oct.Code.Common.Delete=Delete
 \\
 \\\\
-Oct.Code.Common.Delete=\\untranslated
+Oct.Code.Common.Delete=Удалить\\autotranslated
 
 \\\\
 \\
@@ -16091,7 +16091,7 @@ Oct.Code.Concessions.SendItems.Available=Доступно
 \\	Oct.Code.Concessions.SendItems.Inconvenience=Inconvenience
 \\
 \\\\
-Oct.Code.Concessions.SendItems.Inconvenience=\\untranslated
+Oct.Code.Concessions.SendItems.Inconvenience=Неудобство\\autotranslated
 
 \\\\
 \\
@@ -16686,7 +16686,7 @@ Oct.Code.Embark.Bringing=Приносим
 \\	Oct.Code.Embark.NOTE=NOTE
 \\
 \\\\
-Oct.Code.Embark.NOTE=\\untranslated
+Oct.Code.Embark.NOTE=ПРИМЕЧАНИЕ
 
 \\\\
 \\
@@ -22199,7 +22199,7 @@ Oct.Code.Items.Stats.Capacity=Вместимость
 \\	Oct.Code.Job.Assigned=Assigned {job}
 \\
 \\\\
-Oct.Code.Job.Assigned=\\untranslated
+Oct.Code.Job.Assigned=Назначено {job}\\autotranslated
 
 \\\\
 \\
@@ -22430,14 +22430,14 @@ Oct.Code.Kingdom.Member.WantsToLeave={pawn} хочет покинуть коро
 \\	Oct.Code.Kingdom.ChooseEmblem=Choose Emblem
 \\
 \\\\
-Oct.Code.Kingdom.ChooseEmblem=\\untranslated
+Oct.Code.Kingdom.ChooseEmblem=Выбери эмблему
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.ChooseColor=Choose Color
 \\
 \\\\
-Oct.Code.Kingdom.ChooseColor=\\untranslated
+Oct.Code.Kingdom.ChooseColor=Выбери цвет
 
 \\\\
 \\
@@ -22621,14 +22621,14 @@ Oct.Code.LoadGame.DeleteConfirmation=Файл будет отправлен в �
 \\	Oct.Code.LoadGame.DeleteAll.Confirmation.Header=Delete Listed?
 \\
 \\\\
-Oct.Code.LoadGame.DeleteAll.Confirmation.Header=\\untranslated
+Oct.Code.LoadGame.DeleteAll.Confirmation.Header=Удалить из списка?\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.DeleteAll.Confirmation=The files listed will all be <br><b>PERMANENTLY DELETED</b>.<br><br>Continue?<br>
 \\
 \\\\
-Oct.Code.LoadGame.DeleteAll.Confirmation=\\untranslated
+Oct.Code.LoadGame.DeleteAll.Confirmation=Все перечисленные файлы будут <br><b>БЕЗВОЗВРАТНО УДАЛЕНЫ</b>.<br><br>Продолжить?<br>\\autotranslated
 
 \\\\
 \\
@@ -22642,7 +22642,7 @@ Oct.Code.LoadGame.Header=Загрузить игру
 \\	Oct.Code.LoadGame.Filter=Filter
 \\
 \\\\
-Oct.Code.LoadGame.Filter=\\untranslated
+Oct.Code.LoadGame.Filter=Фильтр\\autotranslated
 
 \\\\
 \\
@@ -22670,7 +22670,7 @@ Oct.Code.LoadGame.Mods.Match.Caption=Сопоставить
 \\	Oct.Code.LoadGame.Delete.Listed=Delete {count} Listed
 \\
 \\\\
-Oct.Code.LoadGame.Delete.Listed=\\untranslated
+Oct.Code.LoadGame.Delete.Listed=Удалить {count} из списка\\autotranslated
 
 \\\\
 \\
@@ -23188,7 +23188,7 @@ Oct.Code.NewGame.Begin=Начать
 \\	Oct.Code.News.Conquest.Title=Noble Fates: Conquest
 \\
 \\\\
-Oct.Code.News.Conquest.Title=\\untranslated
+Oct.Code.News.Conquest.Title=Noble Fates: Conquest
 
 \\\\
 \\
@@ -24998,7 +24998,7 @@ Oct.Code.Save.DiscardProgress=Несохраненный прогресс буд
 \\	Oct.Code.Save.Preset.Delete=The Preset will <br><b>PERMANENTLY DELETED<\b>.<br><br>Continue?<br>
 \\
 \\\\
-Oct.Code.Save.Preset.Delete=\\untranslated
+Oct.Code.Save.Preset.Delete=Предустановка будет <br><b>УДАЛЕНА НАВСЕГДА<\b>.<br><br>Продолжить?<br>\\autotranslated
 
 \\\\
 \\
@@ -25040,21 +25040,21 @@ Oct.Code.Schedule.Header=График
 \\	Oct.Code.Schedule.Copy=Copy
 \\
 \\\\
-Oct.Code.Schedule.Copy=\\untranslated
+Oct.Code.Schedule.Copy=Копировать\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Schedule.Paste=Paste
 \\
 \\\\
-Oct.Code.Schedule.Paste=\\untranslated
+Oct.Code.Schedule.Paste=Вставить\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Schedule.ClearAll=Clear All
 \\
 \\\\
-Oct.Code.Schedule.ClearAll=\\untranslated
+Oct.Code.Schedule.ClearAll=Очистить все\\autotranslated
 
 \\\\
 \\
@@ -25712,42 +25712,42 @@ Oct.Code.Stockpile.Header=Склад
 \\	Oct.Code.Storage.Free=Storage Free
 \\
 \\\\
-Oct.Code.Storage.Free=\\untranslated
+Oct.Code.Storage.Free=Бесплатное хранение\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots=Slots
 \\
 \\\\
-Oct.Code.Storage.Slots=\\untranslated
+Oct.Code.Storage.Slots=Слоты\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Used=Used
 \\
 \\\\
-Oct.Code.Storage.Slots.Used=\\untranslated
+Oct.Code.Storage.Slots.Used=Использовал\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Reserved=Reserved
 \\
 \\\\
-Oct.Code.Storage.Slots.Reserved=\\untranslated
+Oct.Code.Storage.Slots.Reserved=Сдержанный\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Remaining=Remaining
 \\
 \\\\
-Oct.Code.Storage.Slots.Remaining=\\untranslated
+Oct.Code.Storage.Slots.Remaining=Оставшийся\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Insufficient=Insufficient Slots
 \\
 \\\\
-Oct.Code.Storage.Slots.Insufficient=\\untranslated
+Oct.Code.Storage.Slots.Insufficient=Недостаточно слотов\\autotranslated
 
 \\\\
 \\
@@ -26251,14 +26251,14 @@ Oct.Code.Trade.YourKingdom=Твое королевство
 \\	Oct.Code.Transport.Item.Command.Blocked.InsufficientStorage=Insufficient Storage
 \\
 \\\\
-Oct.Code.Transport.Item.Command.Blocked.InsufficientStorage=\\untranslated
+Oct.Code.Transport.Item.Command.Blocked.InsufficientStorage=Недостаточно места для хранения\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Transport.Item.Command.Blocked.Processing=Processing
 \\
 \\\\
-Oct.Code.Transport.Item.Command.Blocked.Processing=\\untranslated
+Oct.Code.Transport.Item.Command.Blocked.Processing=Обработка\\autotranslated
 
 \\\\
 \\
@@ -26468,14 +26468,14 @@ Oct.Code.Visibility.Items.Stats=Параметры предмета
 \\	Oct.Code.Visibility.Items.Ignored=Ignored Icons
 \\
 \\\\
-Oct.Code.Visibility.Items.Ignored=\\untranslated
+Oct.Code.Visibility.Items.Ignored=Игнорируемые значки\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Items.InsufficientStorage=Storage Icons
 \\
 \\\\
-Oct.Code.Visibility.Items.InsufficientStorage=\\untranslated
+Oct.Code.Visibility.Items.InsufficientStorage=Значки хранения\\autotranslated
 
 \\\\
 \\
@@ -27433,7 +27433,7 @@ Oct.Commands.Jobs.Guarding.name=Охрана
 \\	Oct.Commands.Jobs.Guarding.tooltip=Mortals assigned to Guarding will attempt to defend the Kingdom from threats. They will also handle and intimidate Prisoners and Serfs as needed.<br><br>Guarding is backed by the Mortal's Melee Skill. Melee determines how often a Mortal attacks, whether their attacks land, and the amount of their Weapon's damage that is inflicted on target.
 \\
 \\\\
-Oct.Commands.Jobs.Guarding.tooltip=Персонажи, назначенные охранять, будут пытаться защищать<br>королевство от угроз. Они также будут заботиться о пленниках и слугах и устрашать<br>их по необходимости.<br><br>Охрана требует развития навыка ближнего боя, от которого<br>зависит скорость атаки, точность ударов и количество<br>количество урона от оружия по цели.
+Oct.Commands.Jobs.Guarding.tooltip=Персонажи, назначенные охранять, будут пытаться защищать королевство от угроз. Они также будут заботиться о пленниках и слугах и устрашать их по необходимости.<br><br>Охрана требует развития навыка ближнего боя, от которого зависит скорость атаки, точность ударов и количество количество урона от оружия по цели.
 
 \\\\
 \\
@@ -27792,7 +27792,7 @@ Oct.Commands.Types.Haul.name=Унести
 \\	Oct.Commands.Types.Transport.Item.name=Store
 \\
 \\\\
-Oct.Commands.Types.Transport.Item.name=\\untranslated
+Oct.Commands.Types.Transport.Item.name=На склад
 
 \\\\
 \\
@@ -28058,14 +28058,14 @@ Oct.Commands.Types.Influence.name=Воспитывать
 \\	Oct.Commands.Types.Evangelize.name=Evangelize
 \\
 \\\\
-Oct.Commands.Types.Evangelize.name=\\untranslated
+Oct.Commands.Types.Evangelize.name=Евангелизировать\\autotranslated
 
 \\\\
 \\
 \\	Oct.Commands.Types.Evangelize.tooltip=Your Preachers share information with the Target that they think raise their Opinion of your Ruler. Other Mortals who Dislike the information may overhear it and have a Negative Reaction.<br><br>Preaching Skill and Reasoning determine how well they pick information to share and how well it is received by those who hear it.<br><br>Preachers will stop when they run out of things to share or the Target Likes (or Loves when Ordered via Right Click) your Ruler.
 \\
 \\\\
-Oct.Commands.Types.Evangelize.tooltip=\\untranslated
+Oct.Commands.Types.Evangelize.tooltip=Ваши проповедники делятся с Целью информацией, которая, по их мнению, влияет на мнение о вашем Правителе. Другие смертные, которым эта информация не нравится, могут подслушать её и отреагировать негативно.<br><br>Навык проповедования и логическое мышление определяют, насколько хорошо они подбирают информацию для распространения и насколько хорошо её воспринимают слушатели.<br><br>Проповедники остановятся, когда у них закончится информация для распространения или когда Цели понравится (или понравится, если сделать это с помощью правой кнопки мыши) ваш Правитель.\\autotranslated
 
 \\\\
 \\
@@ -30188,28 +30188,28 @@ Oct.Crisis.CaptureFriendly.Conversation.RulerToSelf.Ask.Decision.No.Nudge.Confir
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.caption=Yes
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.caption=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.caption=Да
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.tooltip={target} is Executed.<br><br>The fight continues until {target.kingdom} forces Flee and the Kingdom Dissolves.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.tooltip=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.tooltip=Цель ({target}) казнена.<br><br>Бой продолжится, пока войска королевства {target.kingdom} не сбегут, а само оно не распадется.
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.caption=No
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.caption=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.caption=Нет
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.tooltip=The fight continues until {target} Surrenders.<br><br>You decide their Fate then.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.tooltip=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.tooltip=Бой продолжится, пока {target} не сдастся.<br><br>После чего ты решишь судьбу персонажа.
 
 \\\\
 \\
@@ -30219,7 +30219,10 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.tooltip=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=Do as you wish with me, my forces shall fight on!
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=Я не отступлю!
+Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=Я не сдаюсь!
+Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=Я не сдамся!
+Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=Делай со мной, что хочешь. Но мои войска продолжат бой!
 
 \\\\
 \\
@@ -30228,14 +30231,14 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToNoble.Ask.lines+={pawn.address}, Execute {target} before they've Surrendered?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToNoble.Ask.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToNoble.Ask.lines+={pawn.address}, не ждать капитуляции, а сразу казнить: {target}?
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.prompt=Execute {target}?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.prompt=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.prompt=Казнить: {target}?
 
 \\\\
 \\
@@ -30244,7 +30247,9 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.prompt=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=Yes! How dare you question an order from me!
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=Да, делай, как я приказываю.
+Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=Конечно. Я ошибок не совершаю.
+Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=Да! Как ты смеешь сомневаться в моих приказах?!
 
 \\\\
 \\
@@ -30253,7 +30258,9 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=No, no. Good catch.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=Нет, конечно.
+Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=Ой, это моя ошибка.
+Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=Нет-нет! Спасибо за уточнение.
 
 \\\\
 \\
@@ -30262,35 +30269,35 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToSelf.Ask.lines+=Hrm... Execute {target} before they've Surrendered?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToSelf.Ask.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToSelf.Ask.lines+=Хм-м-м... Может, не ждать капитуляции, а сразу казнить: {target}?
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.caption=Yes
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.caption=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.caption=Да
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.tooltip={target} is Captured.<br><br>The fight continues until {target.kingdom} forces Flee and the Kingdom Dissolves.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.tooltip=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.tooltip=Цель ({target}) захвачена.<br><br>Бой продолжится, пока войска королевства {target.kingdom} не сбегут, а само оно не распадется.
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.caption=No
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.caption=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.caption=Нет
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.tooltip=The fight continues until {target} Surrenders.<br><br>You decide their Fate then.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.tooltip=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.tooltip=Бой продолжится, пока {target} не сдастся.<br><br>После чего ты решишь судьбу персонажа.
 
 \\\\
 \\
@@ -30299,14 +30306,14 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.tooltip=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToNoble.Ask.lines+={pawn.address}, Capture {target} before they've Surrendered?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToNoble.Ask.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToNoble.Ask.lines+={pawn.address}, не ждать капитуляции, а сразу захватить: {target}?
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.prompt=Capture {target}?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.prompt=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.prompt=Захватить: {target}?
 
 \\\\
 \\
@@ -30315,7 +30322,7 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.prompt=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToSelf.Ask.lines+=Hrm... Capture {target} before they've Surrendered?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToSelf.Ask.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToSelf.Ask.lines+=Хм-м-м... Может, не ждать капитуляции, а сразу захватить: {target}?
 
 \\\\
 \\
@@ -31851,9 +31858,6 @@ Oct.Grammar.Lines.Opinion.Third.Third.Third.results+=^[Oct.Grammar.Opinion.Noun.
 \\\\
 Oct.Grammar.Lines.Alignment.Generic.results+=<Oct.Grammar.Noun.First.Think>: {grammar.alignmentStatement}
 Oct.Grammar.Lines.Alignment.Generic.results+=<Oct.Grammar.Noun.First.Think>, что {grammar.alignmentStatement}
-Oct.Grammar.Lines.Alignment.Generic.results+=<Oct.Grammar.Noun.First.Think>: {grammar.alignmentStatement}
-Oct.Grammar.Lines.Alignment.Generic.results+=<Oct.Grammar.Noun.First.Think>, что {grammar.alignmentStatement}
-Oct.Grammar.Lines.Alignment.Generic.results+={grammar.alignmentStatement}
 
 \\\\
 \\
@@ -31862,7 +31866,9 @@ Oct.Grammar.Lines.Alignment.Generic.results+={grammar.alignmentStatement}
 \\	Oct.Grammar.Lines.Alignment.Details.First.results+={grammar.alignmentStatement}
 \\
 \\\\
-Oct.Grammar.Lines.Alignment.Details.First.results+=\\untranslated
+Oct.Grammar.Lines.Alignment.Details.First.results+=<Oct.Grammar.Noun.First.Think>: {grammar.alignmentStatement}
+Oct.Grammar.Lines.Alignment.Details.First.results+=<Oct.Grammar.Noun.First.Think>, что {grammar.alignmentStatement}
+Oct.Grammar.Lines.Alignment.Details.First.results+={grammar.alignmentStatement}
 
 \\\\
 \\
@@ -37136,7 +37142,7 @@ Oct.Items.GrapplingHook.Bronze.pluralName=Бронзовые кошки
 \\	Oct.Items.GrapplingHook.Bronze.Projectile.name=Bronze Grappling Hook
 \\
 \\\\
-Oct.Items.GrapplingHook.Bronze.Projectile.name=\\untranslated
+Oct.Items.GrapplingHook.Bronze.Projectile.name=Бронзовая кошка
 
 \\\\
 \\
@@ -37157,7 +37163,7 @@ Oct.Items.GrapplingHook.Steel.pluralName=Стальные кошки
 \\	Oct.Items.GrapplingHook.Steel.Projectile.name=Steel Grappling Hook
 \\
 \\\\
-Oct.Items.GrapplingHook.Steel.Projectile.name=\\untranslated
+Oct.Items.GrapplingHook.Steel.Projectile.name=Стальная кошка
 
 \\\\
 \\
@@ -42217,7 +42223,6 @@ Oct.Kingdoms.Diplomacy.War.Conquer.details={from.kingdom} отправили в�
 \\\\
 Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.lines+=Хорошо, пора положить этому конец.
 Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.lines+=Разрешим этот спор!
-Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.lines+=Хорошо, будь по-твоему.
 
 \\\\
 \\
@@ -47884,35 +47889,35 @@ Oct.Petitions.Concession.Allegiance.Break.Mission.succeededCaption=Присяг�
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.caption=Release Vassal
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.caption=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.caption=Освободить вассала
 
 \\\\
 \\
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.details=We promised {petitioner} that we'd release {mission.target} from their Allegiance!<br><br>There will be consequences with {petitioner} if we break our promise.
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.details=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.details={petitioner} ожидает, что {mission.target} получит от нас свободу от своей присяги!<br><br>Если мы нарушим обещание, {petitioner} это точно не оценит.
 
 \\\\
 \\
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.requestCaption=Promised
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.requestCaption=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.requestCaption=Обещано
 
 \\\\
 \\
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.successCaption=Release Vassal
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.successCaption=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.successCaption=Освободить вассала
 
 \\\\
 \\
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.succeededCaption=Released Vassal
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.succeededCaption=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.succeededCaption=Вассал освобожден
 
 \\\\
 \\
@@ -48223,7 +48228,7 @@ Oct.Petitions.Defense.Shields.Conversation.Shield.Ranged.Melee.line=Бойцы �
 \\	Oct.Petitions.Defense.Rams.Conversation.Ram.line={petitioner.address}, {rammer} is carrying a Battering Ram!
 \\
 \\\\
-Oct.Petitions.Defense.Rams.Conversation.Ram.line=\\untranslated
+Oct.Petitions.Defense.Rams.Conversation.Ram.line={petitioner.address}, {rammer} несет таран!
 
 \\\\
 \\
@@ -48232,7 +48237,7 @@ Oct.Petitions.Defense.Rams.Conversation.Ram.line=\\untranslated
 \\	Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.line=They can use it make quick work of any Door that blocks them!
 \\
 \\\\
-Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.line=\\untranslated
+Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.line=С его помощью можно легко снести любую дверь!
 
 \\\\
 \\
@@ -48241,7 +48246,7 @@ Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.line=\\untranslated
 \\	Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.NotIfStopped.line=Not if we stop them first!
 \\
 \\\\
-Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.NotIfStopped.line=\\untranslated
+Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.NotIfStopped.line=Нет, если сперва мы остановим врага!
 
 \\\\
 \\
@@ -50844,7 +50849,7 @@ Oct.Petitions.Tutorial.GatherBerries.Conversation.Surveyed.Bushes.Oh.Pick.line=�
 \\	Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+={petitioner.address}, {attackers} are about to attack {vassal}!
 \\
 \\\\
-Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+=\\untranslated
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+={attackers} атакуют {vassal}!\\autotranslated
 
 \\\\
 \\
@@ -50855,7 +50860,7 @@ Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+=\\untranslated
 \\	Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=We can interrupt them by negotiating for Peace.
 \\
 \\\\
-Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=\\untranslated
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=Возможно, нам следует вести переговоры о мире.\\autotranslated
 
 \\\\
 \\
@@ -50866,7 +50871,7 @@ Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=\\unt
 \\	Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.Thanks.lines+=Hrm. Let me think about it.
 \\
 \\\\
-Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.Thanks.lines+=\\untranslated
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.Thanks.lines+=Предоставьте это мне.\\autotranslated
 
 \\\\
 \\
@@ -51645,14 +51650,14 @@ Oct.Places.Generators.Prefix.Noun.format=^{prefix}{noun}
 \\	Oct.Projectiles.FireArrow.name=Fire Arrow
 \\
 \\\\
-Oct.Projectiles.FireArrow.name=\\untranslated
+Oct.Projectiles.FireArrow.name=Горящая стрела
 
 \\\\
 \\
 \\	Oct.Projectiles.WoodenArrow.name=Wooden Arrow
 \\
 \\\\
-Oct.Projectiles.WoodenArrow.name=\\untranslated
+Oct.Projectiles.WoodenArrow.name=Деревянная стрела
 
 \\\\
 \\
@@ -52555,28 +52560,28 @@ Oct.Props.Attached.FineStone.Spire.Mid.prefabs.2.name=Вариант ствол�
 \\	Oct.Props.Ballista.Launcher.operateText=Operate
 \\
 \\\\
-Oct.Props.Ballista.Launcher.operateText=\\untranslated
+Oct.Props.Ballista.Launcher.operateText=Запуск
 
 \\\\
 \\
 \\	Oct.Props.Ballista.Launcher.operatingText=Operating {prop}
 \\
 \\\\
-Oct.Props.Ballista.Launcher.operatingText=\\untranslated
+Oct.Props.Ballista.Launcher.operatingText=Запускает: {prop}
 
 \\\\
 \\
 \\	Oct.Props.Ballista.Launcher.operatingAtText=Firing {prop} at {target}
 \\
 \\\\
-Oct.Props.Ballista.Launcher.operatingAtText=\\untranslated
+Oct.Props.Ballista.Launcher.operatingAtText=Стреляет: {prop} по цели ({target})
 
 \\\\
 \\
 \\	Oct.Props.Ballista.Launcher.Projectile.name=Ballista Bolt
 \\
 \\\\
-Oct.Props.Ballista.Launcher.Projectile.name=\\untranslated
+Oct.Props.Ballista.Launcher.Projectile.name=Болт баллисты
 
 \\\\
 \\
@@ -52611,21 +52616,21 @@ Oct.Props.Ballista.description=Большой стреляющий объект.
 \\	Oct.Props.Ballista.colorSlots.1.name=Primary
 \\
 \\\\
-Oct.Props.Ballista.colorSlots.1.name=Дерево
+Oct.Props.Ballista.colorSlots.1.name=Начальный\\autotranslated
 
 \\\\
 \\
 \\	Oct.Props.Ballista.colorSlots.2.name=Secondary
 \\
 \\\\
-Oct.Props.Ballista.colorSlots.2.name=Дерево
+Oct.Props.Ballista.colorSlots.2.name=Вторичный\\autotranslated
 
 \\\\
 \\
 \\	Oct.Props.Ballista.colorSlots.3.name=Rope
 \\
 \\\\
-Oct.Props.Ballista.colorSlots.3.name=Дерево
+Oct.Props.Ballista.colorSlots.3.name=Веревка\\autotranslated
 
 \\\\
 \\
@@ -54592,7 +54597,7 @@ Oct.Props.Carpet.4CornerPrefab.name=4 угла
 \\	Oct.Props.Catapult.Launcher.Projectile.name=Boulder
 \\
 \\\\
-Oct.Props.Catapult.Launcher.Projectile.name=\\untranslated
+Oct.Props.Catapult.Launcher.Projectile.name=Глыба
 
 \\\\
 \\
@@ -68055,7 +68060,7 @@ Oct.Settings.Game.RaidChance.name=Шанс рейда
 \\	Oct.Settings.Game.RaidChance.tooltip=Scales the frequency of Raids from NPC Kingdoms.
 \\
 \\\\
-Oct.Settings.Game.RaidChance.tooltip=\\untranslated
+Oct.Settings.Game.RaidChance.tooltip=Определяет частоту рейдов со стороны королевств НИП.
 
 \\\\
 \\
@@ -68426,14 +68431,14 @@ Oct.Settings.Game.AI.Wealth.tooltip=Эффективность накоплен�
 \\	Oct.Settings.Game.AI.InconveniencePremium.name=AI Kingdom Inconvenience Premium
 \\
 \\\\
-Oct.Settings.Game.AI.InconveniencePremium.name=\\untranslated
+Oct.Settings.Game.AI.InconveniencePremium.name=AI Kingdom Неудобства Премиум\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Game.AI.InconveniencePremium.tooltip=How much AI Kingdoms raise rates on Concessions for Items they consider inconvenient (< 25c per stack).
 \\
 \\\\
-Oct.Settings.Game.AI.InconveniencePremium.tooltip=\\untranslated
+Oct.Settings.Game.AI.InconveniencePremium.tooltip=Насколько королевства ИИ повышают ставки на концессии для предметов, которые они считают неудобными (< 25 центов за стопку).\\autotranslated
 
 \\\\
 \\
@@ -68475,7 +68480,7 @@ Oct.Settings.Game.RaidDifficulty.name=Сложность рейдов
 \\	Oct.Settings.Game.RaidDifficulty.tooltip=Scales the difficulty of Raids from NPC Kingdoms.
 \\
 \\\\
-Oct.Settings.Game.RaidDifficulty.tooltip=\\untranslated
+Oct.Settings.Game.RaidDifficulty.tooltip=Определяет сложность рейдов со стороны королевств НИП.
 
 \\\\
 \\
@@ -68496,14 +68501,14 @@ Oct.Settings.Game.RaidUnannounced.tooltip=При выборе настройки
 \\	Oct.Settings.Game.RaidDifficulty.Outgoing.name=Outgoing Raid Difficulty
 \\
 \\\\
-Oct.Settings.Game.RaidDifficulty.Outgoing.name=\\untranslated
+Oct.Settings.Game.RaidDifficulty.Outgoing.name=Сложность исходящих рейдов
 
 \\\\
 \\
 \\	Oct.Settings.Game.RaidDifficulty.Outgoing.tooltip=Scales the difficulty of Raids from Player Kingdoms.
 \\
 \\\\
-Oct.Settings.Game.RaidDifficulty.Outgoing.tooltip=\\untranslated
+Oct.Settings.Game.RaidDifficulty.Outgoing.tooltip=Определяет сложность рейдов со стороны королевств игрока.
 
 \\\\
 \\
@@ -68888,21 +68893,21 @@ Oct.Settings.Global.Graphics.ShadowQuality.choices.2=Низк.
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.3=Medium
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.3=Высок.
+Oct.Settings.Global.Graphics.ShadowQuality.choices.3=Середина.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.4=High
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.4=\\untranslated
+Oct.Settings.Global.Graphics.ShadowQuality.choices.4=Высок.
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.5=Very High
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.5=\\untranslated
+Oct.Settings.Global.Graphics.ShadowQuality.choices.5=Очень высокий.\\autotranslated
 
 \\\\
 \\
@@ -68944,7 +68949,7 @@ Oct.Settings.Global.Graphics.FilmGrain.name=Пленочная зернисто�
 \\	Oct.Settings.Global.Graphics.EdgeHighlights.name=Edge Highlights
 \\
 \\\\
-Oct.Settings.Global.Graphics.EdgeHighlights.name=\\untranslated
+Oct.Settings.Global.Graphics.EdgeHighlights.name=Подсветка контуров
 
 \\\\
 \\
@@ -68979,28 +68984,28 @@ Oct.Settings.Global.Graphics.Destruction.name=Разрушения
 \\	Oct.Settings.Global.Graphics.MainMenuSimulation.name=Main Menu Simulation
 \\
 \\\\
-Oct.Settings.Global.Graphics.MainMenuSimulation.name=\\untranslated
+Oct.Settings.Global.Graphics.MainMenuSimulation.name=Главное меню Моделирование\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.MainMenuSimulation.tooltip=Controls whether a Simulation runs underneath the Main Menu.
 \\
 \\\\
-Oct.Settings.Global.Graphics.MainMenuSimulation.tooltip=\\untranslated
+Oct.Settings.Global.Graphics.MainMenuSimulation.tooltip=Управляет запуском симуляции в главном меню.\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ReachabilityResources.name=Reachability CPU
 \\
 \\\\
-Oct.Settings.Global.Graphics.ReachabilityResources.name=\\untranslated
+Oct.Settings.Global.Graphics.ReachabilityResources.name=Достижимость ЦП\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ReachabilityResources.tooltip=Additional CPU Resources to dedicate to minimizing Reachability update latency. Decrease in latency is exponential, with 0% resulting in 10s of latency, 25% in ~1s, and 100% in ~.25s.
 \\
 \\\\
-Oct.Settings.Global.Graphics.ReachabilityResources.tooltip=\\untranslated
+Oct.Settings.Global.Graphics.ReachabilityResources.tooltip=Дополнительные ресурсы ЦП для минимизации задержки обновления Reachability. Уменьшение задержки экспоненциально, 0% приводит к 10-секундной задержке, 25% — к ~1 сек и 100% — к ~0,25 сек.\\autotranslated
 
 \\\\
 \\
@@ -69805,7 +69810,7 @@ Oct.Settings.Global.Controls.Layers.Navigate.suffix=+ [колесо]
 \\	Oct.Settings.Global.Controls.Layers.Navigate.Invert.name=Invert Layer Navigation
 \\
 \\\\
-Oct.Settings.Global.Controls.Layers.Navigate.Invert.name=\\untranslated
+Oct.Settings.Global.Controls.Layers.Navigate.Invert.name=Инвертировать навигацию по слоям\\autotranslated
 
 \\\\
 \\
